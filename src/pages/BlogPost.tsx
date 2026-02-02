@@ -4,28 +4,45 @@ import Layout from '../components/Layout';
 import { useRoute, Link } from 'wouter';
 import { fetchBlogPostBySlug, fetchPageBlocks, type BlogPost as BlogPostType } from '../services/notion';
 
+interface RichText {
+    type: 'text';
+    text: { content: string };
+    plain_text?: string;
+}
+
+interface Block {
+    id: string;
+    type: string;
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    [key: string]: any;
+}
+
 const BlogPost: React.FC = () => {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const [, params] = useRoute('/lab/:slug');
     const slug = params?.slug;
 
     const [post, setPost] = useState<BlogPostType | null>(null);
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    const [blocks, setBlocks] = useState<any[]>([]);
+    const [blocks, setBlocks] = useState<Block[]>([]);
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
+        let mounted = true;
         if (slug) {
-            setLoading(true);
-            fetchBlogPostBySlug(slug).then(async (p) => {
+            const load = async () => {
+                setLoading(true);
+                const p = await fetchBlogPostBySlug(slug);
+                if (!mounted) return;
+
                 if (p) {
                     setPost(p);
-                    const blks = await fetchPageBlocks(p.id);
-                    setBlocks(blks);
+                    const blks = await fetchPageBlocks();
+                    if (mounted) setBlocks(blks);
                 }
-                setLoading(false);
-            });
+                if (mounted) setLoading(false);
+            };
+            load();
         }
+        return () => { mounted = false; };
     }, [slug]);
 
     if (loading) return (
@@ -39,23 +56,26 @@ const BlogPost: React.FC = () => {
     if (!post) return <Layout><div className="min-h-screen bg-black text-white p-20 text-center">Post not found</div></Layout>;
 
     // Basic Block Renderer
-    const renderBlock = (block: any) => {
+    const renderBlock = (block: Block) => {
         const { type, id } = block;
         const value = block[type];
+        if (!value || !value.rich_text) return null;
+
+        const getText = () => value.rich_text.map((t: RichText) => t.text?.content || t.plain_text || '').join('');
 
         switch (type) {
             case 'paragraph':
-                return <p key={id} className="mb-6">{value.rich_text.map((t: any) => t.plain_text).join('')}</p>;
+                return <p key={id} className="mb-6">{getText()}</p>;
             case 'heading_1':
-                return <h1 key={id} className="text-4xl font-bold mt-10 mb-6 text-white">{value.rich_text.map((t: any) => t.plain_text).join('')}</h1>;
+                return <h1 key={id} className="text-4xl font-bold mt-10 mb-6 text-white">{getText()}</h1>;
             case 'heading_2':
-                return <h2 key={id} className="text-3xl font-display mt-10 mb-4 text-white">{value.rich_text.map((t: any) => t.plain_text).join('')}</h2>;
+                return <h2 key={id} className="text-3xl font-display mt-10 mb-4 text-white">{getText()}</h2>;
             case 'heading_3':
-                return <h3 key={id} className="text-2xl font-bold mt-8 mb-4 text-white">{value.rich_text.map((t: any) => t.plain_text).join('')}</h3>;
+                return <h3 key={id} className="text-2xl font-bold mt-8 mb-4 text-white">{getText()}</h3>;
             case 'bulleted_list_item':
-                return <li key={id} className="mb-2">{value.rich_text.map((t: any) => t.plain_text).join('')}</li>;
+                return <li key={id} className="mb-2">{getText()}</li>;
             case 'numbered_list_item':
-                return <li key={id} className="mb-2 list-decimal">{value.rich_text.map((t: any) => t.plain_text).join('')}</li>;
+                return <li key={id} className="mb-2 list-decimal">{getText()}</li>;
             default:
                 return null;
         }

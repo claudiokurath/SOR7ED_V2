@@ -1,13 +1,14 @@
 import React from 'react';
 
+const base = import.meta.env.BASE_URL;
 const branches = [
-    { title: "MIND", desc: "Planning, routines, mental load", tasks: ["Turn messy list into plan", "Weekly reset checklist", "Summarise voice notes"], span: 1, image: "/7 Branches/mind.png" },
-    { title: "WEALTH", desc: "Budgeting, bills, expenses", tasks: ["Track monthly spend", "Cancel subscriptions", "Find cheaper insurance"], span: 1, image: "/7 Branches/wealth.png" },
-    { title: "BODY", desc: "Health, appointments, fitness", tasks: ["Book dentist", "Meal prep plan", "Find a gym"], span: 1, image: "/7 Branches/body.png" },
-    { title: "TECH", desc: "Digital cleanup, passwords", tasks: ["Organise Drive", "Setup 1Password", "Unsubscribe emails"], span: 1, image: "/7 Branches/tech.png" },
-    { title: "CONNECTION", desc: "Gifts, dates, social events", tasks: ["Birthday reminders", "Book date night", "Send thank yous"], span: 1, image: "/7 Branches/connection.png" },
-    { title: "IMPRESSION", desc: "Personal brand, style", tasks: ["Update LinkedIn", "Find outfit for event", "Bio rewrite"], span: 1, image: "/7 Branches/impression.png" },
-    { title: "GROWTH", desc: "Learning, career, skills", tasks: ["Course research", "Reading list summary", "Goal setting"], span: 2, image: "/7 Branches/growtfh.png" }
+    { title: "MIND", desc: "Planning, routines, mental load", tasks: ["Turn messy list into plan", "Weekly reset checklist", "Summarise voice notes"], span: 1, image: `${base}7 Branches/mind.png` },
+    { title: "WEALTH", desc: "Budgeting, bills, expenses", tasks: ["Track monthly spend", "Cancel subscriptions", "Find cheaper insurance"], span: 1, image: `${base}7 Branches/wealth.png` },
+    { title: "BODY", desc: "Health, appointments, fitness", tasks: ["Book dentist", "Meal prep plan", "Find a gym"], span: 1, image: `${base}7 Branches/body.png` },
+    { title: "TECH", desc: "Digital cleanup, passwords", tasks: ["Organise Drive", "Setup 1Password", "Unsubscribe emails"], span: 1, image: `${base}7 Branches/tech.png` },
+    { title: "CONNECTION", desc: "Gifts, dates, social events", tasks: ["Birthday reminders", "Book date night", "Send thank yous"], span: 1, image: `${base}7 Branches/connection.png` },
+    { title: "IMPRESSION", desc: "Personal brand, style", tasks: ["Update LinkedIn", "Find outfit for event", "Bio rewrite"], span: 1, image: `${base}7 Branches/impression.png` },
+    { title: "GROWTH", desc: "Learning, career, skills", tasks: ["Course research", "Reading list summary", "Goal setting"], span: 2, image: `${base}7 Branches/growtfh.png` }
 ];
 
 const Branches: React.FC = () => {

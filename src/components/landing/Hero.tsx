@@ -2,40 +2,39 @@ import React from 'react';
 
 const Hero: React.FC = () => {
     return (
-        <section className="relative w-full h-screen overflow-hidden bg-black flex items-center justify-center px-6">
-            {/* Background Image */}
+        <section className="relative w-full h-screen overflow-hidden bg-black">
+            {/* Background Image - Full display */}
             <div
-                className="absolute inset-0 bg-cover bg-center z-0 opacity-80"
-                style={{ backgroundImage: `url('/assets/hero/hero-bg.png')` }}
+                className="absolute inset-0"
+                style={{
+                    backgroundImage: `url('${import.meta.env.BASE_URL}assets/hero/hero-bg.png')`,
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    backgroundRepeat: 'no-repeat',
+                }}
             />
+            <div className="absolute inset-0 bg-black/50 z-0 pointer-events-none" />
 
-            {/* Overlay */}
-            <div className="absolute inset-0 bg-black/60 pointer-events-none z-0" />
-
-            {/* Content */}
-            <div className="relative z-10 text-center max-w-5xl mx-auto flex flex-col items-center pt-20">
-                <div className="animate-fade-in-up">
-                    <p className="hero-subtitle mb-6 flex items-center justify-center gap-2 uppercase">
-                        ND Aware <span className="text-sor7ed-brand">•</span> Personal Concierge
+            {/* Content - Centered */}
+            <div className="absolute inset-0 flex flex-col justify-center items-center px-6 relative z-10 text-center">
+                <div className="max-w-4xl animate-fade-in-up">
+                    <p className="hero-subtitle mb-8 flex items-center justify-center gap-2 font-mono text-sm uppercase tracking-widest font-bold">
+                        The Lab For <span className="text-sor7ed-brand">Neurodivergent Minds</span>
                     </p>
-                    <h1 className="font-display font-bold text-6xl md:text-8xl lg:text-9xl text-white leading-[0.9] mb-8 tracking-wide">
-                        WORRY LESS,<br />
-                        <span className="text-stroke-1 text-transparent bg-clip-text bg-gradient-to-br from-white to-zinc-500">LIVE MORE.</span>
+                    <h1 className="font-display font-bold text-7xl md:text-[9rem] lg:text-[11rem] text-white mb-8 uppercase leading-[0.8] tracking-tight">
+                        SOR7ED
                     </h1>
-                    <p className="section-description mb-12 max-w-2xl mx-auto">
-                        Your overwhelm <span className="text-sor7ed-brand px-2 text-2xl">→</span> WhatsApp message <span className="text-sor7ed-brand px-2 text-2xl">→</span> It&apos;s handled.
+                    <p className="font-sans font-light text-zinc-300 text-2xl md:text-3xl max-w-2xl mx-auto leading-relaxed section-description mb-12">
+                        Experiment. Build. Sort.
                     </p>
 
                     <div className="flex flex-col items-center gap-4">
                         <a
-                            href="https://wa.me/447360277713?text=Hi,%20here%27s%20what%20I%27m%20stuck%20on%20right%20now:"
-                            target="_blank"
-                            rel="noopener noreferrer"
+                            href="#lab"
                             className="cta-button"
                         >
-                            Start on WhatsApp
+                            Explore Experiments
                         </a>
-                        <p className="small-text uppercase tracking-widest text-zinc-500">No forms. No signup. Just say 'Hi'.</p>
                     </div>
                 </div>
             </div>

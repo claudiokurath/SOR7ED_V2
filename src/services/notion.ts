@@ -64,7 +64,7 @@ export const fetchBlogPostBySlug = async (slug: string): Promise<BlogPost | null
     return MOCK_POSTS[slug] || null;
 };
 
-export const fetchPageBlocks = async (_pageId: string) => {
+export const fetchPageBlocks = async () => {
     // Return mock blocks
     return [
         {

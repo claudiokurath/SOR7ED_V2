@@ -52,27 +52,28 @@ const StepVideo = ({ step }: { step: any }) => {
 };
 
 const HowItWorks: React.FC = () => {
+    const base = import.meta.env.BASE_URL;
     const steps = [
         {
             id: 1,
             title: "MESSAGE",
             desc: "WhatsApp us your chaos. Photos, voice notes, or messy text. No need to be tidy.",
-            video: "/How It Works/stepone.mov",
-            poster: "/How It Works/step1_poster.jpg"
+            video: `${base}How It Works/stepone.mov`,
+            poster: `${base}How It Works/step1_poster.jpg`
         },
         {
             id: 2,
             title: "QUOTE",
             desc: "I clarify, plan, and give you a credit price. You confirm with a simple 'Yes'.",
-            video: "/How It Works/steptwo.mov",
-            poster: "/How It Works/step2_poster.jpg"
+            video: `${base}How It Works/steptwo.mov`,
+            poster: `${base}How It Works/step2_poster.jpg`
         },
         {
             id: 3,
             title: "SORTED",
             desc: "I handle it. You get a notification when it's done. Total peace of mind.",
-            video: "/How It Works/stepthree.mov",
-            poster: "/How It Works/step3_poster.jpg"
+            video: `${base}How It Works/stepthree.mov`,
+            poster: `${base}How It Works/step3_poster.jpg`
         }
     ];
 

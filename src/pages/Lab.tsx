@@ -27,19 +27,26 @@ const Lab: React.FC = () => {
             <div className="bg-black min-h-screen">
                 {/* Hero Section */}
                 <div className="relative w-full h-screen overflow-hidden">
+                    {/* Background Image - Right aligned */}
                     <div
-                        className="absolute inset-0 bg-cover bg-center"
-                        style={{ backgroundImage: "url('/assets/lab-hero.png')" }}
+                        className="absolute inset-0"
+                        style={{
+                            backgroundImage: `url('${import.meta.env.BASE_URL}assets/lab-hero.png')`,
+                            backgroundSize: 'contain',
+                            backgroundPosition: 'right center',
+                            backgroundRepeat: 'no-repeat',
+                        }}
                     />
-                    <div className="absolute inset-0 bg-black/60 z-0 pointer-events-none" />
+                    <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-transparent z-0 pointer-events-none" />
 
-                    <div className="absolute inset-0 flex flex-col justify-center items-center px-6 relative z-10 pt-64 text-center">
-                        <div className="max-w-4xl mx-auto">
-                            <p className="hero-subtitle mb-8 flex items-center justify-center gap-2 font-mono text-sm uppercase tracking-widest font-bold">
+                    {/* Content - Left aligned */}
+                    <div className="absolute inset-0 flex flex-col justify-center px-6 md:px-20 relative z-10">
+                        <div className="max-w-4xl">
+                            <p className="hero-subtitle mb-8 flex items-center gap-2 font-mono text-sm uppercase tracking-widest font-bold">
                                 LATEST EXPERIMENTS
                             </p>
                             <h1 className="font-display font-bold text-7xl md:text-[9rem] lg:text-[11rem] text-white mb-8 uppercase leading-[0.8] tracking-tight">The Lab</h1>
-                            <p className="font-sans font-light text-zinc-300 text-2xl md:text-3xl max-w-2xl mx-auto leading-relaxed section-description">
+                            <p className="font-sans font-light text-zinc-300 text-2xl md:text-3xl max-w-2xl leading-relaxed section-description">
                                 Exploring systems, automation, and mindset shifts for the neurodivergent brain.
                             </p>
                         </div>

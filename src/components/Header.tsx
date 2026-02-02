@@ -43,7 +43,7 @@ const Header: React.FC = () => {
                 <div className="flex items-center justify-between">
                     {/* Logo */}
                     <Link href="/" className="hover:opacity-80 transition-opacity flex items-center gap-3">
-                        <img src="/assets/logo.png" alt="SOR7ED Logo" className="h-10 w-auto object-contain" />
+                        <img src={import.meta.env.BASE_URL + "assets/logo.png"} alt="SOR7ED Logo" className="h-10 w-auto object-contain" />
                         <span className="font-display font-bold text-xl text-white hidden sm:block">SOR7ED</span>
                     </Link>
 
@@ -53,40 +53,18 @@ const Header: React.FC = () => {
                             Home
                         </Link>
                         <button
-                            onClick={() => scrollToSection('how-it-works')}
+                            onClick={() => scrollToSection('tools')}
                             className="nav-link bg-transparent border-0 cursor-pointer"
                         >
-                            How It Works
-                        </button>
-                        <button
-                            onClick={() => scrollToSection('branches')}
-                            className="nav-link bg-transparent border-0 cursor-pointer"
-                        >
-                            Services
-                        </button>
-                        <button
-                            onClick={() => scrollToSection('pricing')}
-                            className="nav-link bg-transparent border-0 cursor-pointer"
-                        >
-                            Pricing
+                            Tools
                         </button>
                         <Link href="/lab" className={`nav-link ${location.startsWith('/lab') ? 'active' : ''}`}>
                             Lab
                         </Link>
                     </nav>
 
-                    {/* CTA Button */}
+                    {/* Desktop Menu Button (Mobile Trigger) */}
                     <div className="flex items-center gap-4">
-                        <a
-                            href="https://wa.me/447360277713?text=Hi,%20here%27s%20what%20I%27m%20stuck%20on%20right%20now:"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="cta-button text-sm px-4 py-2"
-                        >
-                            <span className="hidden sm:inline">Start on WhatsApp</span>
-                            <span className="sm:hidden">WhatsApp</span>
-                        </a>
-
                         {/* Mobile Menu Button */}
                         <button
                             className="md:hidden text-white p-2"
@@ -115,22 +93,10 @@ const Header: React.FC = () => {
                                 Home
                             </Link>
                             <button
-                                onClick={() => scrollToSection('how-it-works')}
+                                onClick={() => scrollToSection('tools')}
                                 className="nav-link py-3 bg-transparent border-0 cursor-pointer text-left"
                             >
-                                How It Works
-                            </button>
-                            <button
-                                onClick={() => scrollToSection('branches')}
-                                className="nav-link py-3 bg-transparent border-0 cursor-pointer text-left"
-                            >
-                                Services
-                            </button>
-                            <button
-                                onClick={() => scrollToSection('pricing')}
-                                className="nav-link py-3 bg-transparent border-0 cursor-pointer text-left"
-                            >
-                                Pricing
+                                Tools
                             </button>
                             <Link
                                 href="/lab"

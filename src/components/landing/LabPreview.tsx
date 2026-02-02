@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'wouter';
 
 interface BlogPost {
@@ -11,16 +11,11 @@ interface BlogPost {
 }
 
 const LabPreview: React.FC = () => {
-    const [posts, setPosts] = useState<BlogPost[]>([]);
-
-    useEffect(() => {
-        // Mock fetch
-        setPosts([
-            { slug: 'dopamine-menu', title: "The Dopamine Menu", excerpt: "How to stimulate your brain without burning out.", branch: "Mind", date: "Jan 28", image: "https://picsum.photos/seed/dopamine/400/500?grayscale" },
-            { slug: 'body-doubling', title: "Body Doubling", excerpt: "The science of shared presence.", branch: "Focus", date: "Jan 15", image: "https://picsum.photos/seed/bodydouble/400/500?grayscale" },
-            { slug: 'email-zero', title: "Inbox Zero Trap", excerpt: "Why aiming for empty is killing your productivity.", branch: "Tech", date: "Jan 02", image: "https://picsum.photos/seed/email/400/500?grayscale" },
-        ]);
-    }, []);
+    const [posts] = useState<BlogPost[]>([
+        { slug: 'dopamine-menu', title: "The Dopamine Menu", excerpt: "How to stimulate your brain without burning out.", branch: "Mind", date: "Jan 28", image: "https://picsum.photos/seed/dopamine/400/500?grayscale" },
+        { slug: 'body-doubling', title: "Body Doubling", excerpt: "The science of shared presence.", branch: "Focus", date: "Jan 15", image: "https://picsum.photos/seed/bodydouble/400/500?grayscale" },
+        { slug: 'email-zero', title: "Inbox Zero Trap", excerpt: "Why aiming for empty is killing your productivity.", branch: "Tech", date: "Jan 02", image: "https://picsum.photos/seed/email/400/500?grayscale" },
+    ]);
 
     return (
         <section className="py-32 px-6 bg-black">
