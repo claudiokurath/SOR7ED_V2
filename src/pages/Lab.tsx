@@ -24,44 +24,26 @@ const Lab: React.FC = () => {
 
     return (
         <Layout>
-            <div className="bg-black min-h-screen">
-                {/* Hero Section */}
-                <div className="relative w-full h-screen overflow-hidden">
-                    {/* Background Image - Right aligned */}
-                    <div
-                        className="absolute inset-0"
-                        style={{
-                            backgroundImage: `url('${import.meta.env.BASE_URL}assets/lab-hero.png')`,
-                            backgroundSize: 'contain',
-                            backgroundPosition: 'right center',
-                            backgroundRepeat: 'no-repeat',
-                        }}
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-r from-black via-black/80 to-transparent z-0 pointer-events-none" />
-
-                    {/* Content - Left aligned */}
-                    <div className="absolute inset-0 flex flex-col justify-center px-6 md:px-20 relative z-10">
-                        <div className="max-w-4xl">
-                            <p className="hero-subtitle mb-8 flex items-center gap-2 font-mono text-sm uppercase tracking-widest font-bold">
-                                LATEST EXPERIMENTS
-                            </p>
-                            <h1 className="font-display font-bold text-7xl md:text-[9rem] lg:text-[11rem] text-white mb-8 uppercase leading-[0.8] tracking-tight">The Lab</h1>
-                            <p className="font-sans font-light text-zinc-300 text-2xl md:text-3xl max-w-2xl leading-relaxed section-description">
+            <div className="bg-black min-h-screen pt-24">
+                <div className="px-6 py-20">
+                    <div className="max-w-[1400px] mx-auto">
+                        {/* Header */}
+                        <div className="text-center mb-16">
+                            <p className="text-sor7ed-brand font-mono text-[10px] uppercase tracking-widest mb-4">THE LAB</p>
+                            <h1 className="font-display font-bold text-5xl md:text-7xl text-white uppercase mb-6">EXPERIMENTS</h1>
+                            <p className="text-zinc-400 text-xl font-light leading-relaxed max-w-2xl mx-auto">
                                 Exploring systems, automation, and mindset shifts for the neurodivergent brain.
                             </p>
                         </div>
-                    </div>
-                </div>
 
-                <div className="px-6 py-20">
-                    <div className="max-w-[1400px] mx-auto">
+                        {/* Filters */}
                         <div className="mb-20 text-center">
                             <div className="flex flex-wrap justify-center gap-4">
                                 <button
                                     onClick={() => setFilter(null)}
                                     className={`px-6 py-2 rounded-full text-xs uppercase tracking-widest font-mono border transition-all ${!filter ? 'bg-white text-black border-white' : 'text-zinc-500 border-white/10 hover:border-white hover:text-white'}`}
                                 >
-                                    All
+                                    ALL
                                 </button>
                                 {branches.map(b => (
                                     <button
@@ -92,16 +74,16 @@ const Lab: React.FC = () => {
                                             />
 
                                             {/* Text Section */}
-                                            <div className="lab-card-content flex flex-col h-full">
-                                                <div className="lab-card-meta">
+                                            <div className="lab-card-content flex flex-col h-full text-center">
+                                                <div className="lab-card-meta justify-center">
                                                     <span>{post.branch}</span>
                                                     <span>{post.date}</span>
                                                 </div>
-                                                <h3 className="lab-card-title group-hover:text-sor7ed-brand transition-colors">{post.title}</h3>
+                                                <h3 className="lab-card-title group-hover:text-sor7ed-brand transition-colors uppercase">{post.title}</h3>
                                                 <p className="lab-card-description mb-6 line-clamp-3">{post.excerpt}</p>
 
                                                 <div className="mt-auto text-xs font-bold uppercase tracking-widest text-sor7ed-brand opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-2 group-hover:translate-y-0">
-                                                    Read Article <span>→</span>
+                                                    READ ARTICLE <span>→</span>
                                                 </div>
                                             </div>
                                         </div>

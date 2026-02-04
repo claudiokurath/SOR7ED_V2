@@ -35,7 +35,7 @@ const BlogPost: React.FC = () => {
 
                 if (p) {
                     setPost(p);
-                    const blks = await fetchPageBlocks();
+                    const blks = await fetchPageBlocks(p.id);
                     if (mounted) setBlocks(blks);
                 }
                 if (mounted) setLoading(false);
@@ -100,17 +100,35 @@ const BlogPost: React.FC = () => {
                 {/* Content */}
                 <div className="max-w-3xl mx-auto px-6 py-20 text-lg md:text-xl font-light leading-relaxed">
                     <div className="prose prose-invert prose-lg max-w-none">
-                        {blocks.map(renderBlock)}
+                        {/* Render Post Body from Notion */}
+                        {post.body ? (
+                            post.body.split('\n\n').map((paragraph, index) => (
+                                <p key={index} className="mb-6">{paragraph}</p>
+                            ))
+                        ) : (
+                            blocks.map(renderBlock)
+                        )}
                     </div>
 
                     <div className="mt-20 pt-10 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-6">
                         <Link href="/lab" className="text-sm font-mono uppercase tracking-widest text-zinc-500 hover:text-white transition-colors">← Back to Lab</Link>
-                        <a
-                            href={`https://wa.me/447360277713?text=Hi,%20I%20just%20read%20your%20post%20about%20${slug}...`}
-                            className="px-8 py-4 rounded-full bg-sor7ed-brand text-black font-bold text-sm uppercase tracking-widest hover:bg-white transition-colors shadow-[0_0_20px_rgba(247,198,0,0.3)] hover:shadow-none"
-                        >
-                            Discuss on WhatsApp
-                        </a>
+                        {post.cta1 ? (
+                            <a
+                                href={post.cta1.startsWith('http') ? post.cta1 : `https://${post.cta1}`}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="px-8 py-4 rounded-full bg-sor7ed-brand text-black font-bold text-sm uppercase tracking-widest hover:bg-white transition-colors shadow-[0_0_20px_rgba(247,198,0,0.3)] hover:shadow-none"
+                            >
+                                Learn More
+                            </a>
+                        ) : (
+                            <a
+                                href={`https://wa.me/447360277713?text=Hi,%20I%20just%20read%20your%20post%20about%20${slug}...`}
+                                className="px-8 py-4 rounded-full bg-sor7ed-brand text-black font-bold text-sm uppercase tracking-widest hover:bg-white transition-colors shadow-[0_0_20px_rgba(247,198,0,0.3)] hover:shadow-none"
+                            >
+                                Discuss on WhatsApp
+                            </a>
+                        )}
                     </div>
                 </div>
             </article>

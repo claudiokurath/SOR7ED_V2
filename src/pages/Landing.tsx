@@ -1,20 +1,18 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import Hero from '../components/landing/Hero';
-import ToolsSection from '../components/landing/ToolsSection';
+import AboutUs from '../components/landing/AboutUs';
+import BranchesMasonry from '../components/landing/BranchesMasonry';
 import LabPreview from '../components/landing/LabPreview';
-import Branches from '../components/landing/Branches';
 
 const Landing: React.FC = () => {
     return (
         <Layout>
-            <Hero />
-            <ToolsSection />
-            <div id="branches">
-                <Branches />
-            </div>
-            <div id="lab">
-                <LabPreview />
+            <div className="pt-24">
+                <AboutUs />
+                <BranchesMasonry />
+                <div id="lab">
+                    <LabPreview />
+                </div>
             </div>
         </Layout>
     );
