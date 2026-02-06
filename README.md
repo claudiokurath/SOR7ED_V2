@@ -1,73 +1,43 @@
-# React + TypeScript + Vite
+# SOR7ED Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is your new website built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1.  **Install dependencies** (if you haven't already):
+    ```bash
+    npm install
+    ```
 
-## React Compiler
+2.  **Start the development server**:
+    ```bash
+    npm run dev
+    ```
+    Open the URL shown in the terminal (usually `http://localhost:5173`) to view your site.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Adding Images
 
-## Expanding the ESLint configuration
+You have a `public/images` folder ready for your assets. Please add the following files there:
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- `logo.png`
+- `hero-1.jpg`
+- `mind.png`
+- `wealth.png`
+- `body.png`
+- `tech.png`
+- `connection.png`
+- `impression.png`
+- `growth.png`
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Site Structure
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+- **Home Page** (`/`): `src/pages/Home.tsx`
+- **Tools Page** (`/tools`): `src/pages/Tools.tsx`
+- **Styles**: `src/index.css` & `tailwind.config.js`
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## Deployment
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+To deploy to Netlify:
+1.  Initialize Git (`git init`, `git add .`, `git commit -m "Init"`).
+2.  Push to GitHub.
+3.  Connect to Netlify and use build command `npm run build` and publish directory `dist`.

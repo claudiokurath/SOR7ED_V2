@@ -1,0 +1,1582 @@
+{
+  "tools": [
+    {
+      "id": "2c949538-9925-43eb-9346-9b343442f4a4",
+      "name": "Body Double Matchmaker",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Connection",
+      "status": "Idea"
+    },
+    {
+      "id": "2f20d601-4acc-80fc-822b-f7ddd0b35dde",
+      "name": "Secure VPN Server Setup Guide",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "No Type",
+      "status": ""
+    },
+    {
+      "id": "2f5eb9f6-9014-46b5-85c7-49f74d6bc39c",
+      "name": "Sensory Audit",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Body",
+      "status": "Planned"
+    },
+    {
+      "id": "2fb0d601-4acc-8001-96df-c73638e03793",
+      "name": "Untitled",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "No Type",
+      "status": ""
+    },
+    {
+      "id": "32de211c-d296-45ef-ada2-e6746dd5f8ff",
+      "name": "Friendship Maintenance System",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Connection",
+      "status": "Idea"
+    },
+    {
+      "id": "448fc2bd-b14a-4d1f-8676-ab6765716d26",
+      "name": "Dopamine Menu Generator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Planned"
+    },
+    {
+      "id": "5d5098b9-0ae9-444e-b3e3-079a62af69df",
+      "name": "Time Blindness Calculator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Planned"
+    },
+    {
+      "id": "6b80b211-be07-40c5-9232-4205623ac663",
+      "name": "Meeting Translator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Connection",
+      "status": "Idea"
+    },
+    {
+      "id": "991d7b0a-27fa-4426-a9cb-acdb4ef515f8",
+      "name": "Rejection Sensitivity Journal",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
+      "id": "a1236ca9-ac50-4b7f-914b-56adc984c1dd",
+      "name": "Executive Function Triage Tool",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Planned"
+    },
+    {
+      "id": "a8c70825-7e7e-4a1e-b392-b665acfda9a6",
+      "name": "RSD Response Generator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Planned"
+    },
+    {
+      "id": "cda5c491-ebf1-4a6a-8a23-44259f01cbcf",
+      "name": "Spoon Theory Tracker",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Body",
+      "status": "Idea"
+    },
+    {
+      "id": "d4486511-2dfe-480f-bfc8-06a55feb21c6",
+      "name": "ADHD Tax Calculator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Wealth",
+      "status": "Idea"
+    },
+    {
+      "id": "e0cdbdea-be31-4790-b263-0fe389ef9efe",
+      "name": "Financial Autopilot",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Wealth",
+      "status": "Idea"
+    },
+    {
+      "id": "e0de09b5-32ac-4803-945f-5f05d3da3271",
+      "name": "ADHD-Friendly Calendar",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Tech",
+      "status": "Idea"
+    },
+    {
+      "id": "f8159b3a-34be-4812-b287-67049b903136",
+      "name": "Did I Take My Meds? Tracker",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Body",
+      "status": "Idea"
+    },
+    {
+      "id": "fe32e721-5ce2-4082-94f3-efc9bcd2f8d7",
+      "name": "Hyperfocus Timer + Alarm",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    }
+  ],
+  "blog": [
+    {
+      "id": "03d562fc-cf58-4a3b-a600-22bdf9ca7815",
+      "title": "What SOR7ED actually does (Part 1): The life admin we take off your plate",
+      "branch": "SOR7ED",
+      "slug": "what-sor7ed-does-life-admin",
+      "trigger": "TASK",
+      "excerpt": "Imagine waking up one day to find your to-do list magically completed. Sounds like a dream, right? Well, at SOR7ED, our mission is to make that dream ...",
+      "body": "Imagine waking up one day to find your to-do list magically completed. Sounds like a dream, right? Well, at SOR7ED, our mission is to make that dream a reality by taking the overwhelming burden of life admin off your plate.\n\n## Understanding Life Admin\n\nLife admin refers to those seemingly endless tasks that keep your life running smoothly but can drain your energy and focus. For neurodivergent individuals, managing these tasks can be particularly challenging, leading to stress and burnout.\n\n## How SOR7ED Simplifies Your Life\n\nHere’s a breakdown of the life admin tasks we handle for you:\n\n### 1. **Scheduling and Reminders**\n- We organize your calendar, ensuring you never miss appointments or deadlines.\n- Receive timely reminders customized to your preferences.\n\n### 2. **Financial Management**\n- Help with budgeting and bill payments.\n- Organize and track expenses to avoid financial chaos.\n\n### 3. **Errands and Shopping**\n- Manage your grocery lists and handle online orders.\n- Coordinate deliveries and pickups to save you time.\n\n### 4. **Home Organization**\n- Assist in decluttering and organizing your living space.\n- Create systems tailored to your needs for maintaining order.\n\n### 5. **Communication Management**\n- Help with sorting and prioritizing emails and messages.\n- Draft responses or handle communications on your behalf.\n\n## Why It Matters\n\nFor those with ADHD or Autism, the cognitive load of managing life admin can be overwhelming. SOR7ED provides the structure and support necessary to navigate daily life without the constant background noise of unfinished tasks. This service liberates your mental bandwidth, allowing you to focus on what truly matters—whether it’s work, relationships, or personal interests.\n\n## Try This\n\n### **Identify Your Pain Points**\nTake a moment to list the life admin tasks you find most challenging. Is it managing your schedule, keeping track of expenses, or perhaps organizing your living space? \n\n### **Reach Out to SOR7ED**\nOnce you've",
+      "cta1": "Got a task that's been haunting you for months? Text TASK and tell me what it is. I'll tell you exactly how we'd handle it.",
+      "date": "2026-01-12T21:10:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "TASK"
+    },
+    {
+      "id": "05cbc9ca-11db-43b8-b59c-d449104cd610",
+      "title": "When ‘No’ Feels Like Death: RSD in Leadership and Love",
+      "branch": "Mind",
+      "slug": "rsd-leadership-and-love",
+      "trigger": "COOLOFF",
+      "excerpt": "\n## The Physical Pain of \"No\"\n\n\nRejection Sensitive Dysphoria (RSD) isn't just \"being sensitive.\" It is an extreme, often physical emotional response ...",
+      "body": "\n## The Physical Pain of \"No\"\n\n\nRejection Sensitive Dysphoria (RSD) isn't just \"being sensitive.\" It is an extreme, often physical emotional response to the perception of being rejected, criticized, or having failed.\n\n\nFor a leader, it feels like Imposter Syndrome on steroids. \"They didn't like my idea\" becomes \"I am incompetent and they all know it.\"\n\n\nIn relationships, a partner's sigh becomes \"They are leaving me.\"\n\n\n## The Leadership Trap\n\n\nRSD makes leadership exhausting because you are constantly monitoring for signals of disapproval.\n\n- You avoid giving feedback to avoid conflict.\n- You overwork to \"prove\" your worth.\n- You agonize over emails for hours.\n\nThis isn't sustainable. You burn out not from the work, but from the emotional monitoring.\n\n\n## The Relationship Spiral\n\n\nIn love, RSD triggers a fight-flight-freeze response.\n\n- **Fight**: You lash out when you feel slighted (\"You don't care about me!\").\n- **Flight**: You withdraw before they can reject you.\n- **Freeze**: You shut down and go non-verbal.\n\nYour partner is often baffled, wondering why a small comment caused a massive explosion.\n\n\n## Handling the Drop\n\n\n1. **Name It**: \"This is a chemical flush. This is RSD.\" Separating the feeling from the reality is step one.\n\n\n2. **The 24-Hour Rule**: Do not send the angry text or the resignation letter for 24 hours. The feeling *will* pass.\n\n\n3. **Fact-Check**: Ask: \"Did they actually say I'm bad, or did they just say the font was too small?\"\n\n\n## READY TO GET SOR7ED?\n\n\nFeel like one criticize sends you spiraling?\n\n\nText \"**SHIELD**\" to receive your free **RSD First Aid Kit**. A pocket guide to grounding yourself when the emotional wave hits, so you can lead and love without the fear.\n\n",
+      "cta1": "Feel like one piece of criticism sends you into a 3-day spiral? Text COOLOFF to get your free RSD Emergency Kit with pocket scripts, reality-check questions, and calm-down protocols.",
+      "date": "2025-09-21T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "RSD",
+        "Relationships",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "COOLOFF"
+    },
+    {
+      "id": "097b2c50-ed8f-48f2-8386-8fadd33d0504",
+      "title": "ADHD: Understanding beyond stereotypes",
+      "branch": "Mind",
+      "slug": "adhd-understanding-beyond-stereotypes",
+      "trigger": "ADHD",
+      "excerpt": "# ADHD: It’s Not Just About Focus\n\nMost people think ADHD is just \"being easily distracted\" or \"having too much energy.\" If you’re living with it, you...",
+      "body": "# ADHD: It’s Not Just About Focus\n\nMost people think ADHD is just \"being easily distracted\" or \"having too much energy.\" If you’re living with it, you know that’s barely scratching the surface. It’s a regulation disorder—emotional, executive, and sensory.\n\n## The Iceberg Analogy\n\nWhat people see:\n- Fidgeting\n- Late arrivals\n- Lost keys\n\nWhat remains hidden:\n- **Executive Dysfunction:** Knowing exactly what to do but being physically unable to start.\n- **RSD (Rejection Sensitive Dysphoria):** The intense physical pain of perceived criticism.\n- **Sensory Overload:** When the texture of a shirt or a ticking clock feels like torture.\n\n## Moving Forward\n\nUnderstanding your brain is the first step. Stop trying to fit a neurotypical mold. Build rails—systems that work *with* your brain, not against it. Use body doubling, visual timers, and doom piles if they help. The goal isn't to be \"normal\"; it's to be functional and happy.",
+      "cta1": "Tired of fighting your ADHD brain? Text ADHD to get your free ADHD Survival Starter Kit with executive function scaffolding and RSD management scripts.",
+      "date": "2025-12-25T21:25:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "ADHD"
+    },
+    {
+      "id": "0bfaaee4-8de2-47c7-a1f9-05eab34cde6e",
+      "title": "Be normal, go broke: Stop paying the conformity tax",
+      "branch": "Wealth",
+      "slug": "conformity-tax-stop-buying-neurotypical-solutions",
+      "trigger": "CONFORMITY",
+      "excerpt": "# The Cost of Fitting In\n\nHow much money have you wasted trying to be the \"perfect\" adult? The planners you never used, the groceries for elaborate me...",
+      "body": "# The Cost of Fitting In\n\nHow much money have you wasted trying to be the \"perfect\" adult? The planners you never used, the groceries for elaborate meals you never cooked, the gym memberships for the \"New You\" that lasted three days?\n\n## The ADHD Tax\n\nWe call this the ADHD Tax, but a huge part of it is actually a **Conformity Tax**. It’s the price we pay for trying to solve our problems with neurotypical solutions.\n\n### Common Money Pits:\n- **Aspirational Clothing:** Buying clothes for the person you *want* to be, not the sensory-sensitive person you are.\n- **Subscription Services:** Signing up for tools to \"fix\" your life and forgetting to cancel.\n- **Shame Spending:** Buying rounds of drinks or gifts to compensate for feeling like a flake.\n\n## The Audit\n\nStop buying solutions for a brain you don't have. If you hate cooking, buy pre-chopped veggies. It’s cheaper than throwing away rotting produce. If you can't fold laundry, use bins. \"Normal\" is expensive. \"Effective\" is priceless.",
+      "cta1": "Tired of wasting money on things that don't work for your brain? Text CONFORMITY to get your free ADHD Money Audit Kit with conformity tax calculator, accommodation decision tree, and buying guides.",
+      "date": "2025-09-25T08:22:00.000Z",
+      "cover": "/content-images/blog-cover-0bfaaee4-8de2-47c7-a1f9-05eab34cde6e.jpg",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CONFORMITY"
+    },
+    {
+      "id": "10d7c1a4-78cf-4888-a34f-a2af0f20232d",
+      "title": "Medical trauma and healthcare avoidance: When doctors have become the threat",
+      "branch": "Body",
+      "slug": "medical-trauma-healthcare-avoidance",
+      "trigger": "MEDTRAUMA",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Need to see a doctor but can't face it? Text MEDTRAUMA for advocacy scripts, appointment prep protocols, and body-double support.",
+      "date": "2026-02-05T02:17:00.000Z",
+      "cover": "",
+      "tags": [
+        "Masking",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "MEDTRAUMA"
+    },
+    {
+      "id": "118485b2-a24e-441e-bda7-90453b7d6a4d",
+      "title": "Parenting with ADHD: The quiet shame loop nobody sees",
+      "branch": "Body",
+      "slug": "adhd-parenting-shame-loop-overstimulation",
+      "trigger": "ADHDPARENT",
+      "excerpt": "# The Overstimulated Parent\n\nParenting is hard. Parenting when you have sensory processing issues and executive dysfunction is playing the game on Har...",
+      "body": "# The Overstimulated Parent\n\nParenting is hard. Parenting when you have sensory processing issues and executive dysfunction is playing the game on Hard Mode with a broken controller.\n\n## The Sensory Storm\n\nKids are loud. They are sticky. They need constant attention. For an ADHD brain, this isn't just annoying—it can trigger a fight-or-flight response. You might snap not because you're angry, but because your nervous system is on fire.\n\n## The Shame Loop\n\n1. **Overwhelm:** You snap at your child.\n2. **Regret:** You feel like the worst parent in the world.\n3. **Overcompensation:** You try to be the \"perfect\" parent for the next hour.\n4. **Burnout:** You crash, leading back to Overwhelm.\n\n##Breaking the Cycle\n\nSelf-compassion is your most important tool. You are not a bad parent; you are an overstimulated one. Use \"Earplugs Mode\" (Loop earplugs reduce noise but let you hear safety cues). Step away for 3 minutes *before* you explode. Your kids need a regulated parent more than a perfect one.",
+      "cta1": "Overstimulated and about to snap at your kids again? Text ADHDPARENT to get your free ADHD Parenting Survival Kit with sensory accommodations, regulation scripts, and repair templates.",
+      "date": "2025-12-25T21:25:00.000Z",
+      "cover": "",
+      "tags": [
+        "Sensory",
+        "Self-Care",
+        "Relationships"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "ADHDPARENT"
+    },
+    {
+      "id": "1e687fcd-2f65-46da-955f-0e406baa4485",
+      "title": "Stimulants, shame, and rebound: The part no one talks about",
+      "branch": "Body",
+      "slug": "adhd-medication-rebound-crash-management",
+      "trigger": "REBOUND",
+      "excerpt": "# The Meds Are Not Magic\n\nMedication can be life-changing, but it comes with a shadow side that we need to discuss openly. The \"Crash\" or \"Rebound\" ef...",
+      "body": "# The Meds Are Not Magic\n\nMedication can be life-changing, but it comes with a shadow side that we need to discuss openly. The \"Crash\" or \"Rebound\" effect when they wear off can leave you irritable, sad, or exhausted right when you need to be present for your family or evening routine.\n\n## Navigating the Rebound\n\n- **Timing is Key:** Talk to your doctor about adjusting your timing so you don't crash during dinner.\n- **Protein:** Eating protein in the afternoon can sometimes soften the landing.\n- **Communication:** Tell your partner/family: \"My meds are wearing off. I'm low-dopamine right now. I need 20 minutes of quiet.\"\n\n## Erasing the Stigma\n\nTaking medication for ADHD is like wearing glasses. You wouldn't shame someone for needing lenses to see. Don't shame yourself for needing chemistry to function. But do manage the side effects proactively.",
+      "cta1": "Struggling with medication rebound and nobody understands? Text REBOUND to get your free Stimulant Management Guide with survival strategies, communication scripts, and dopamine menu.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care",
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "REBOUND"
+    },
+    {
+      "id": "20ae4613-79e8-47d7-9e58-114cda4d200b",
+      "title": "Neurodiversity, practically",
+      "branch": "Mind",
+      "slug": "neurodiversity-practically",
+      "trigger": "SYSTEMS",
+      "excerpt": "# Beyond the Buzzword\n\n\"Neurodiversity\" is a beautiful concept, but what does it mean on a Tuesday morning when you can't find your shoes and you're l...",
+      "body": "# Beyond the Buzzword\n\n\"Neurodiversity\" is a beautiful concept, but what does it mean on a Tuesday morning when you can't find your shoes and you're late for work?\n\n## Practical Acceptance\n\nIt means acknowledging that your brain has a specific operating system. You cannot run Windows software on a Mac without an emulator. You cannot run Neurotypical expectations on an ADHD brain without burnout.\n\n### 3 Tiny Shifts:\n1.  **Don't rely on memory.** Externalize everything. Write it on your hand if you have to.\n2.  **Work with your energy, not time.** If you have 3am bursts of focus, use them (if your job allows).\n3.  **Optimize your environment.** If fluorescent lights drain you, buy lamps. If jeans hurt, wear soft pants.\n\nPractically, neurodiversity looks like kindness to yourself.",
+      "cta1": "Need help building systems that actually work for your brain? Text SYSTEMS to get your free Neurodivergent Life Setup Guide.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care",
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "SYSTEMS"
+    },
+    {
+      "id": "211132e2-057b-4617-a789-64fdc9ce8f8a",
+      "title": "Alcohol and your ADHD meds: The interaction nobody warns you about",
+      "branch": "Body",
+      "slug": "adhd-meds-alcohol-interaction",
+      "trigger": "ALCOHOL",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Concerned about your drinking patterns? Text ALCOHOL for a harm-reduction checklist and self-assessment protocol.",
+      "date": "2026-02-05T02:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "ALCOHOL"
+    },
+    {
+      "id": "229e7cca-5ff5-48dc-b6d7-a60806123953",
+      "title": "Suicidal thoughts vs. intrusive thoughts: Know the difference, get the right help",
+      "branch": "Mind",
+      "slug": "suicidal-vs-intrusive-thoughts",
+      "trigger": "CRISIS",
+      "excerpt": "",
+      "body": "",
+      "cta1": "In crisis right now? Text CRISIS for immediate resources and a reality-check protocol. Not a hotline—a practical triage guide.",
+      "date": "2026-02-05T02:17:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CRISIS"
+    },
+    {
+      "id": "28b470c6-da77-422f-bc7c-130fc9057b4f",
+      "title": "ADHD and grief: Mourning the life admin that never happens",
+      "branch": "Mind",
+      "slug": "adhd-grief-life-you-almost-had",
+      "trigger": "GRIEF",
+      "excerpt": "# ADHD and Grief: Mourning the Life You Almost Had\n> TL;DR: ADHD doesn't just steal your keys. It steals entire timelines. Here's how to stop grieving...",
+      "body": "# ADHD and Grief: Mourning the Life You Almost Had\n> TL;DR: ADHD doesn't just steal your keys. It steals entire timelines. Here's how to stop grieving the person you \"should have been.\"\n## The Alternate Universe Problem\nThere's a version of you in a parallel universe.\nThat version:\n- Finished college on time\n- Stayed in touch with their best friend\n- Saved money\n- Responded to that job opportunity  \n- Didn't ghost their therapist for 6 months\n- Actually filed their taxes\nYou know this version exists because you intended to be them.\nEvery task you didn't do, every email you didn't send, every opportunity you missed—those were all supposed to happen.\nAnd now you're grieving someone who never existed: the capable version of you.\n## The Pile of Monuments\nLook around your space.\nThat pile of craft supplies? That's a monument to \"I was going to be a knitter.\"\nThe guitar in the corner? \"I was going to be musical.\"\nThe unopened mail? \"I was going to be organized.\"\nThe gym membership you forgot to cancel? \"I was going to be fit.\"\nEvery unfinished project is a tiny gravestone to a version of yourself you tried to become.\nAnd nobody sends you sympathy cards for losing your potential.\n## The Specific Grief of Late Diagnosis\nIf you got diagnosed with ADHD late (or just realized how much your brain has been working against you), there's a special kind of grief:\n\"What if I'd known sooner?\"\n- Would you have finished that degree?\n- Would you have kept that relationship?\n- Would you have been less broke?\n- Would you have been kinder to yourself?\nThe worst part? You can't get those years back.\nYou were doing your best with zero operating instructions for your brain.\nYou were driving a Formula 1 car thinking it was a Honda Civic, wondering why it kept crashing.\n## The Shame Spiral Bonus Feature\nADHD grief comes with a fun accessory: Shame.\nBecause unlike \"normal\" grief (losing a person, a job, a relationship), this grief is about your own failures.\nSo you tell yourself:\n- \"Other people can just do things\"\n- \"I'm lazy\"\n- \"I'm broken\"\n- \"I ruined my own life\"\nAnd that makes the grief worse.\nYou're not just mourning what you lost. You're mourning while hating yourself for losing it.\n## What You're Actually Grieving\nLet's be specific. You're grieving:\n### Lost Relationships\n- Friends you meant to text back (3 years ago)\n- The person who gave up on you after you canceled plans 10 times\n- The romantic relationship that ended because you \"didn't try hard enough\"\n### Lost Opportunities\n- The promotion you didn't apply for (forgot the deadline)\n- The scholarship you missed (lost the paperwork)\n- The side business you never launched (couldn't organize it)\n### Lost Money\n- Late fees on everything\n- Things you bought twice because you lost the first one\n- The credit score you tanked\n- The savings account that never existed\n### Lost Time\n- Hours spent looking for your keys\n- Days spent recovering from burnout\n- Years trying to figure out what was \"wrong\" with you\n- The childhood/young adulthood you don't remember enjoying\n### Lost Self-Trust\n- You can't trust yourself to follow through\n- You can't make promises\n- You can't believe your own commitments\n- You've become the unreliable narrator of your own life\n## The Impossible Math\nHere's the cruel equation:\nYou know exactly what you should have done.\nYou can visualize it perfectly. The better timeline. The competent version.\nBut you physically couldn't do it because your brain doesn't work that way.\nKnowing ≠ Doing\nThat gap? That's where the grief lives.\n## How to Stop Drowning in \"Could Have Been\"\n### Step 1: Name the Grief\nOut loud: \"I'm grieving the life I didn't get to live.\"\nThis isn't dramatic. It's accurate.\nYou lost something real: possibility.\nYou're allowed to be sad about that.\n### Step 2: Mourn It Properly\nSet a timer for 20 minutes.\nWrite down everything you wish had been different.\nEvery missed deadline. Every failed friendship. Every lost opportunity.\nLet yourself be properly sad about it.\nCry if you need to. Rage if you need to. Feel the full weight of it.\nThen—and this is important—burn the list or shred it.\nYou're done carrying it.\n### Step 3: Forgive the Past Version\nThe version of you that failed?\nThey were doing their best with the brain they had.\nThey didn't have:\n- A diagnosis\n- Medication\n- Coping strategies  \n- Understanding\n- Support\nThey were flying blind.\nYou wouldn't blame someone for crashing a plane they didn't know how to fly.\nStop blaming yourself.\n### Step 4: Declare Time of Death\nThose projects you'll \"get back to\"?\nYou won't.\nAnd that's okay.\nYou are allowed to:\n- Throw away the half-finished scarf\n- Delete the novel draft\n- Cancel the gym membership\n- Let go of the hobby\nPermission granted: You don't have to be every version of yourself you once imagined.\n### Step 5: Live in THIS Timeline\nYou can't change the past.\nBut you can stop punishing yourself for it.\nThe life you ACTUALLY have (the messy, non-linear, ADHD one) is still pretty damn good.\nYou didn't take the highway. You took the scenic route through the jungle.\nYou have:\n- Survival skills\n- Battle scars\n- Stories nobody else has\n- Empathy for other people struggling\n- A unique perspective\nThe highway drivers don't have those.\n## The ADHD Tax Isn't Just Money\nPeople talk about the \"ADHD tax\"—late fees, impulse buys, lost items.\nBut the real tax is grief.\nIt's carrying around the weight of:\n- Everything you meant to do\n- Everyone you meant to be\n- Every life you almost lived\nThat weight is exhausting.\nPut it down.\n## What Helps (Practically)\n1. External Brain Systems\n- Autopay for bills (no more late fees to grieve)\n- Body doubling for tasks (so they actually happen)\n- Alarms for EVERYTHING\n2. Lower Your Standards  \n- You don't need to be the person you \"should\" be\n- You just need to be functional TODAY\n- B-minus effort is better than perfect paralysis\n3. Outsource the Grief\n- Therapy (someone to witness the loss)\n- ADHD coaching (someone who gets it)\n- Or just... delegate the tasks that trigger the grief\n4. Build a Different Life\n- Stop trying to fit the neurotypical template\n- Design a life that works for YOUR brain\n- Let go of the careers/relationships/habits that require you to be someone else\n## The Timeline You're In Is Valid\nYou're reading this.\nThat means you survived.\nEvery missed deadline. Every failed attempt. Every \"wasted\" year.\nYou got through it.\nThat's not nothing.\nThe alternate universe version might have had it easier.\nBut they don't exist.\nYOU do.\nAnd you're here, trying, which is more than enough.\n---\n## READY TO GET SOR7ED?\nStuck staring at the graveyard of unfinished projects?\nText GRIEF to get your free Forgiveness & Restart Kit.\nIncludes:\n- Permission slips to let go of dead projects\n- Grief processing prompts\n- \"This timeline is valid\" affirmations  \n- How to stop carrying the weight of \"could have been\"",
+      "cta1": "Stuck staring at the graveyard of unfinished projects? Text GRIEF to get your free Forgiveness & Restart Kit with permission slips to let go of dead projects and stop carrying the weight of 'could have been.'",
+      "date": "2025-12-25T21:25:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care",
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "GRIEF"
+    },
+    {
+      "id": "2d30d601-4acc-810c-a342-cf9f9c23f179",
+      "title": "The work P.A.R.K. protocol: Meltdown management",
+      "branch": "Mind",
+      "slug": "the-work-p-a-r-k-protocol-meltdown-management",
+      "trigger": "WORKPARK",
+      "excerpt": "# The Work P.A.R.K. Protocol: Meltdown Management\n\nMeltdowns aren’t tantrums. They’re nervous system overload. Use the P.A.R.K. protocol (Pause, Ackno...",
+      "body": "# The Work P.A.R.K. Protocol: Meltdown Management\n\nMeltdowns aren’t tantrums. They’re nervous system overload. Use the P.A.R.K. protocol (Pause, Acknowledge, Reset, Keep Going) to step away safely, explain what’s happening, and return with less shame and more control.\n\n## Introduction\nIn today's fast-paced world, The Work P.A.R.K. Protocol: Meltdown Management has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText WORKPARK to receive your free template.\nMake exits explicit, lower shame, and protect both credibility and capacity.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "WORKPARK"
+    },
+    {
+      "id": "2d30d601-4acc-811b-966c-cd34324ce38b",
+      "title": "The privacy card: Your data, your rules",
+      "branch": "Impression",
+      "slug": "privacy-card-your-data-your-rules",
+      "trigger": "PRIVACYCARD",
+      "excerpt": "The Privacy Card: Your Data, Your Rules\nA simple, ND‑aware privacy card that explains what we see, how we handle sensitive info, and how you can nuke ...",
+      "body": "The Privacy Card: Your Data, Your Rules\nA simple, ND‑aware privacy card that explains what we see, how we handle sensitive info, and how you can nuke your data at any time.\nIntroduction\nMost privacy pages feel like legal puzzles. This one doesn’t.\nThe Privacy Card: Your Data, Your Rules is here to make one thing clear: you stay in control. We tell you, in plain language, what we see, what we do with it, and how to wipe your data if you ever want out.\nKey Insights\n1. What’s really going on\nSharing information can feel risky, especially if you’ve been burned before. Naming that fear is the first step. You’re not “too sensitive” for wanting clarity.\n2. Simple, practical guardrails\nInstead of long policies, we use clear rules:\n    ◦ We only see what you send us.\n    ◦ We only use it to do the work you’ve asked for.\n    ◦ You get a clear “nuke” option to delete your data.\n3. Long‑term trust, not one‑off tasks\nOur goal is to help you build systems you can trust, not just get one task done. That means:\n    ◦ predictable rules\n    ◦ no hidden data traps\n    ◦ the ability to leave at any time, with your data wiped.\nConclusion\nWhen you know exactly what’s happening with your data, it’s easier to ask for help, delegate tasks, and focus on what actually matters in your life.\nThe Privacy Card is our promise: clear rules, least access necessary, and a visible exit button if you ever want to walk away.",
+      "cta1": "Ready to get SOR7ED?\nText PRIVACYCARD to receive your free template.\nShare a clear, one‑page privacy card with clients, HR, or partners.",
+      "date": "2025-12-24T17:12:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "PRIVACYCARD"
+    },
+    {
+      "id": "2d30d601-4acc-812f-ae80-f801b01f2513",
+      "title": "The grief sprint: Mourning the admin that never happened",
+      "branch": "Mind",
+      "slug": "grief-sprint-mourning-the-admin-that-never-happened",
+      "trigger": "GRIEFSPRINT",
+      "excerpt": "# The Grief Sprint: Mourning the Admin That Never Happened\n\nA 10‑minute, shame‑light sprint to sort ancient paperwork piles into trash, keep, and acti...",
+      "body": "# The Grief Sprint: Mourning the Admin That Never Happened\n\nA 10‑minute, shame‑light sprint to sort ancient paperwork piles into trash, keep, and action without trying to fix your whole life in a day.\n\n## Introduction\nIn today's fast-paced world, The Grief Sprint: Mourning the Admin That Never Happened has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText GRIEFSPRINT to receive your free template.\nRun a tiny, repeatable sprint that shrinks admin piles without burnout.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "GRIEFSPRINT"
+    },
+    {
+      "id": "2d30d601-4acc-8132-8509-c6d309e7cbc6",
+      "title": "The cool-off protocol: Making RSD safe",
+      "branch": "Connection",
+      "slug": "cool-off-protocol-making-rsd-safe",
+      "trigger": "COOLOFFRSD",
+      "excerpt": "\n# The Cool-Off Protocol: Making RSD Safe\n\n\n**The Goal**: Stop the fight from becoming a war.\n\n\n**The Vibe**: \"I am currently insane. I will return wh...",
+      "body": "\n# The Cool-Off Protocol: Making RSD Safe\n\n\n**The Goal**: Stop the fight from becoming a war.\n\n\n**The Vibe**: \"I am currently insane. I will return when I am sane.\"\n\n\n---\n\n\n### The Signal\n\n\n*Decide this when you are calm.*\n\n- \"I am spiking.\"\n- \"I need a timeout.\"\n- \"Code Red.\"\n\n### The Protocol (Process)\n\n\n1.  **Stop Talking**: Nothing good happens after the spike starts.\n\n\n2.  **Separate**: Go to different rooms. Do not follow each other.\n\n\n3.  **The Timer**: Set a timer for **20 Minutes**. (Less is too short. More feels like abandonment).\n\n\n4.  **The Distraction**: Watch a funny video. Play a game. Do not sit and stew.\n\n\n### The Return (Re-entry)\n\n\n*When the timer beeps.*\n\n- Come back together.\n- **Rule**: You do not have to solve the problem immediately. You just have to reconnect.\n- **Script**: \"I am calmer now. I love you. Can we talk about this [Tomorrow / In an hour]?\"\n\n## The Red Mist\n\n\nRejection Sensitive Dysphoria (RSD) hits fast. It's a flash flood of emotion—rage, despair, panic—triggered by a perceived slight.\n\n\nIn that moment, you are dangerous. To your relationships, your job, and yourself.\n\n\nYou need a protocol. A fire drill for your feelings.\n\n\n## The Protocol\n\n\n1. **The Signal**: Agree on a code word with your partner/team using a heavy object (metaphorically). \"I am Red.\"\n\n\n2. **The Separation**: Physically leave the room. Do not try to \"talk it out.\" Your logic center is offline.\n\n\n3. **The Sensation**: Change your sensory input. Cold water on face. Loud music. Heavy blanket. Reset the nervous system.\n\n\n4. **The Return**: Only come back when your heart rate is below 100bpm.\n\n\n## Safety via Structure\n\n\nYou cannot control the trigger. You *can* control the protocol.\n\n\nSaving the relationship isn't about never getting angry; it's about knowing how to be angry safely.\n\n\n## READY TO GET SOR7ED?\n\n\nNeed a plan for the next explosion?\n\n\nText \"**COOL**\" to receive your free **RSD Emergency Card**. A template to agree on with your loved ones *before* the n",
+      "cta1": "Ready to get SOR7ED?\nText COOLOFF to receive your free template.\nInstall a shared cool‑off protocol that protects both you and the relationship.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "COOLOFFRSD"
+    },
+    {
+      "id": "2d30d601-4acc-813b-833e-eb279ea6cdc4",
+      "title": "Credits: The currency of done",
+      "branch": "Wealth",
+      "slug": "credits-the-currency-of-done",
+      "trigger": "CREDITS",
+      "excerpt": "# Credits: The Currency of Done\nThe Logic: Time is fake. Results are real.\nThe Exchange: You buy outcomes, not hours.\n---\n### The Menu\n-   1 Credit: T...",
+      "body": "# Credits: The Currency of Done\nThe Logic: Time is fake. Results are real.\nThe Exchange: You buy outcomes, not hours.\n---\n### The Menu\n-   1 Credit: The \"It's Annoying\" Task (< 45 Mins)\n-   Booking appointments.\n-   Researching a product (\"Best vacuum under $200\").\n-   Drafting an email definition.\n-   2 Credits: The \"It's Complicated\" Task (Multi-step)\n-   Planning a weekend trip (Flight + Hotel + Itinerary).\n-   Finding a specialist (Call 5 places, check insurance, book slot).\n-   Custom Quote: The Project\n-   \"Move my house.\"\n-   \"organize my digital life.\"\n### Buying More\n-   Ad-Hoc: Buy 1 at a time.\n-   Bundle: Buy 10, get 1 free (The \"Crisis Pack\").\n-   Link to buy goes here\n### Refunds\nIf we can't do it, you don't pay.\n-   We refund credits instantly if we hit a wall or you change your mind before we start.",
+      "cta1": "Ready to get SOR7ED? Text CREDITS to receive your free template. Get a one‑page credits explainer you can save and share.",
+      "date": "2025-12-24T17:12:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CREDITS"
+    },
+    {
+      "id": "2d30d601-4acc-813e-a6d6-d80d3aae94e3",
+      "title": "The consent & intimacy kit",
+      "branch": "Connection",
+      "slug": "consent-and-intimacy-kit",
+      "trigger": "CONSENTKIT",
+      "excerpt": "# The Consent & Intimacy Kit\n\nTraffic‑light check‑ins, Yes/No/Maybe lists, silent signals, and aftercare menus so intimacy feels safer and less guessy...",
+      "body": "# The Consent & Intimacy Kit\n\nTraffic‑light check‑ins, Yes/No/Maybe lists, silent signals, and aftercare menus so intimacy feels safer and less guessy for ND brains.\n\n## Introduction\nIn today's fast-paced world, The Consent & Intimacy Kit has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText CONSENTKIT to receive your free template.\nGet a consent & intimacy kit you can fill in together and actually use.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CONSENTKIT"
+    },
+    {
+      "id": "2d30d601-4acc-8147-a08d-d8d99ea9442d",
+      "title": "The role-fit memo: Stop being \"good at everything\"",
+      "branch": "Growth",
+      "slug": "role-fit-memo-stop-being-good-at-everything",
+      "trigger": "ROLEFITMEMO",
+      "excerpt": "In a world that often praises the jack-of-all-trades, it’s easy to feel pressured to be good at everything. Especially if you’re neurodivergent, this ...",
+      "body": "In a world that often praises the jack-of-all-trades, it’s easy to feel pressured to be good at everything. Especially if you’re neurodivergent, this expectation can be overwhelming. But here’s the truth: You don’t have to be good at everything. In fact, trying to be can be a disservice to your well-being and effectiveness. Let's talk about why focusing on role-fit matters more than universal proficiency.\n\n## Why Being \"Good at Everything\" Is Overrated\n\n- **Burnout Risk**: Stretching yourself thin across too many areas leads to burnout. It’s like running multiple apps on your phone until the battery drains.\n- **Diluted Impact**: By spreading yourself over various tasks, you dilute your impact. Like a flashlight beam, the more you concentrate its light, the brighter it shines.\n- **Identity Confusion**: Constantly shifting gears can blur your sense of identity. Who are you if you’re trying to be everything to everyone?\n\n## The Power of Role-Fit\n\nFinding your role-fit is about aligning your strengths with tasks that energize you. Here’s why it’s crucial:\n\n- **Leverage Strengths**: Focus on what you’re naturally good at. It’s not just easier but more fulfilling.\n- **Increase Productivity**: When you work within your strengths, you accomplish more with less effort.\n- **Enhance Satisfaction**: Doing what you love and are good at leads to a sense of fulfillment and purpose.\n\n## How to Identify Your Role-Fit\n\n- **Self-reflection**: Consider tasks that make you lose track of time because you’re so engrossed.\n- **Feedback**: Seek input from peers or mentors who understand your strengths.\n- **Trial and Error**: Experiment with different roles to see what clicks.\n\n## Common Pitfalls and How to Avoid Them\n\n- **Fear of Missing Out**: It’s okay to pass on opportunities that don’t align with your strengths. Prioritize quality over quantity.\n- **Imposter Syndrome**: Recognize that feeling like a fraud is common, and it doesn’t reflect your actual abilities.\n- **Perfectionism**: Acce",
+      "cta1": "Ready to get SOR7ED?\nText ROLEFITMEMO to receive your free template.\nTurn your spikes, constraints, and rails into a clear memo for your manager.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "ROLEFITMEMO"
+    },
+    {
+      "id": "2d30d601-4acc-8159-af7e-e79279002505",
+      "title": "The boundaries pack: Parents & difficult people",
+      "branch": "Connection",
+      "slug": "boundaries-pack-parents-and-difficult-people",
+      "trigger": "BOUNDARIESPACK",
+      "excerpt": "# The Boundaries Pack: Parents & Difficult People\n\nCheat‑sheet scripts, escape hatches, and unsent letters to protect your peace with parents and othe...",
+      "body": "# The Boundaries Pack: Parents & Difficult People\n\nCheat‑sheet scripts, escape hatches, and unsent letters to protect your peace with parents and other high‑maintenance people.\n\n## Introduction\nIn today's fast-paced world, The Boundaries Pack: Parents & Difficult People has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText BOUNDARIESPACK to receive your free template.\nGrab a boundaries pack you can keep in your pocket before visits.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "BOUNDARIESPACK"
+    },
+    {
+      "id": "2d30d601-4acc-815a-a760-c52cfcc7aea8",
+      "title": "The agency plan: Breaking the dopamine loop",
+      "branch": "Body",
+      "slug": "agency-plan-breaking-the-dopamine-loop",
+      "trigger": "AGENCYPLAN",
+      "excerpt": "# The Agency Plan: Breaking the Dopamine Loop\n\nA harm‑reduction map for doom‑scroll, porn, and binge loops: name the hunger, choose a better tool, add...",
+      "body": "# The Agency Plan: Breaking the Dopamine Loop\n\nA harm‑reduction map for doom‑scroll, porn, and binge loops: name the hunger, choose a better tool, add friction, and script the exit.\n\n## Introduction\nIn today's fast-paced world, The Agency Plan: Breaking the Dopamine Loop has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText AGENCYPLAN to receive your free template.\nBuild an agency plan that keeps relief and shrinks the harm.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "AGENCYPLAN"
+    },
+    {
+      "id": "2d30d601-4acc-8167-9d65-ff4c78e69345",
+      "title": "The friendship pack",
+      "branch": "Connection",
+      "slug": "friendship-pack-scripts-for-the-socially-exhausted",
+      "trigger": "FRIENDSHIPPACK",
+      "excerpt": "# Post: Friendship Scripts (Connection Branch)\n\n## Notion Properties\n- **Title:** FRIENDSHIP SCRIPTS\n- **Slug:** `friendship-scripts`\n- **Branch:** Co...",
+      "body": "# Post: Friendship Scripts (Connection Branch)\n\n## Notion Properties\n- **Title:** FRIENDSHIP SCRIPTS\n- **Slug:** `friendship-scripts`\n- **Branch:** Connection\n- **Summary:** Why you ghost your friends when you're overwhelmed, and the exact scripts to fix it without apologizing for existing.\n\n---\n\n## Body Content (Copy into Notion)\n\n> **TL;DR:** You aren't a bad friend; you're just out of \"social spoons.\" Stop apologizing and start communicating your capacity.\n\n## The Problem\nYou see a text from a friend. You love them, but you don't have the energy to reply *right now*. So you wait.\nDays pass. Now it feels awkward.\nWeeks pass. Now it feels like a crime.\nSo you never reply. You ghost them out of shame.\n\n## The Shift\n**Object Permanence applies to people too.**\nND brains often struggle to \"hold\" relationships in mind when they aren't right in front of us. We need to bridge the gap between \"I'm overwhelmed\" and \"I don't care.\"\n\n## The Protocol\nUse these **Copy-Paste Scripts** to save relationships when you're drowning.\n\n1.  **The \"Currently Drowning\" Text**:\n    *   *\"Hey! I’m in a bit of a hermit mode / low energy right now. Not ignoring you, just recharging. Will reply properly when I’m back online!\"*\n2.  **The \"It's Been 3 Months\" Text (The Re-Entry)**:\n    *   *\"Oh man, I totally lost track of time/life. I’ve been thinking of you! How have you been? (No pressure to reply fast, just wanted to say hi).\"*\n3.  **The Low-Stakes Hangout**:\n    *   Don't plan dinner parties. Plan \"Body Doubling\".\n    *   *\"I need to clean my house / do work. Want to come over, ignore each other, and just exist in the same room?\"*\n\n---\n\n### Get the Cheatsheet\n**Download my full \"Social Battery Scripts\" PDF.**\n10+ scripts for saying \"No,\" \"Later,\" and \"I'm Sorry\" without the guilt.\n\n> **Text \"FRIEND\" to +44 7360 537264** to get the free link.\n",
+      "cta1": "Ready to get SOR7ED?\nText FRIENDSHIPPACK to receive your free template.\nGet a pack of ND‑friendly friendship scripts you can actually send.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FRIENDSHIPPACK"
+    },
+    {
+      "id": "2d30d601-4acc-816b-8b0d-c643dd36bbb7",
+      "title": "The facilities standard: Making the office survivable",
+      "branch": "Impression",
+      "slug": "facilities-standard-making-the-office-survivable",
+      "trigger": "FACILITIES",
+      "excerpt": "# The Facilities Standard: Making the Office Survivable\n\nA simple facilities standard for ND‑friendly offices: no‑questions bathroom policy, quiet zon...",
+      "body": "# The Facilities Standard: Making the Office Survivable\n\nA simple facilities standard for ND‑friendly offices: no‑questions bathroom policy, quiet zones, scent rules, and camera‑optional norms.\n\n## Introduction\nIn today's fast-paced world, The Facilities Standard: Making the Office Survivable has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText FACILITIES to receive your free template.\nShare a clear, ND‑aware facilities standard with your team or HR.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FACILITIES"
+    },
+    {
+      "id": "2d30d601-4acc-817e-8572-faecf4579e56",
+      "title": "The family kit: Operating rails for chaos",
+      "branch": "Body",
+      "slug": "the-family-kit-operating-rails-for-chaos",
+      "trigger": "FAMILYKIT",
+      "excerpt": "# The Family Kit: Operating Rails for Chaos\n\nNeurodivergent parents and kids are not “disorganised,” they’re overloaded. Use a simple Family Kit: 3‑st...",
+      "body": "# The Family Kit: Operating Rails for Chaos\n\nNeurodivergent parents and kids are not “disorganised,” they’re overloaded. Use a simple Family Kit: 3‑step cards, default dinners, and meltdown scripts that keep the house moving without shame.\n\n## Introduction\nIn today's fast-paced world, The Family Kit: Operating Rails for Chaos has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText FAMILYKIT to receive your free template.\nGet routine cards, scripts, and a weekly reset that fit real‑world family chaos.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FAMILYKIT"
+    },
+    {
+      "id": "2d30d601-4acc-8181-a5a5-e82f805f4721",
+      "title": "Gaming rails: Medicine vs. poison",
+      "branch": "Tech",
+      "slug": "gaming-rails-medicine-vs-poison",
+      "trigger": "GAMINGRAILS",
+      "excerpt": "# Gaming Rails: Medicine vs. Poison\n\nGuardrails for ND brains so gaming stays regulation, not self‑harm: friction, timers, ladders, landing gear, and ...",
+      "body": "# Gaming Rails: Medicine vs. Poison\n\nGuardrails for ND brains so gaming stays regulation, not self‑harm: friction, timers, ladders, landing gear, and no‑go zones.\n\n## Introduction\nIn today's fast-paced world, Gaming Rails: Medicine vs. Poison has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED? Text GAMINGRAILS to receive your free template. Keep the good of gaming and cap the crash with clear rails.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "GAMINGRAILS"
+    },
+    {
+      "id": "2d30d601-4acc-81cf-869c-fc38a8c814f8",
+      "title": "Self-harm first aid: The pocket protocol",
+      "branch": "Body",
+      "slug": "self-harm-first-aid-the-pocket-protocol",
+      "trigger": "FIRSTAIDPLAN",
+      "excerpt": "# Self-Harm First Aid: The Pocket Protocol\n\nWhen urges spike, thinking collapses. Use a tiny, copy‑paste first aid plan to buy 10 minutes, move your b...",
+      "body": "# Self-Harm First Aid: The Pocket Protocol\n\nWhen urges spike, thinking collapses. Use a tiny, copy‑paste first aid plan to buy 10 minutes, move your body, and loop in a safe person without over‑explaining.\n\n## Introduction\nIn today's fast-paced world, Self-Harm First Aid: The Pocket Protocol has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText FIRSTAIDPLAN to receive your free template.\nBuild a private, copy‑paste plan you can run in 3–5 minutes when things spike.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FIRSTAIDPLAN"
+    },
+    {
+      "id": "2d30d601-4acc-81ea-a739-f4f5b7240505",
+      "title": "The sensory map: Why you are angry",
+      "branch": "Body",
+      "slug": "sensory-map-why-you-are-angry",
+      "trigger": "SENSORYMAP",
+      "excerpt": "# The Sensory Map: Why You Are Angry\n\nA quick audit to map light, sound, smell, touch, and temperature so you can see which sensory inputs are quietly...",
+      "body": "# The Sensory Map: Why You Are Angry\n\nA quick audit to map light, sound, smell, touch, and temperature so you can see which sensory inputs are quietly draining your battery.\n\n## Introduction\nIn today's fast-paced world, The Sensory Map: Why You Are Angry has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText SENSORYMAP to receive your free template.\nMap your sensory vampires and design one small Zen Zone.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "SENSORYMAP"
+    },
+    {
+      "id": "2d30d601-4acc-81f6-a7f5-f6b643d13e09",
+      "title": "The money reset: 60-second rails",
+      "branch": "Wealth",
+      "slug": "money-reset-60-second-rails",
+      "trigger": "MONEYRESET",
+      "excerpt": "\n# The Money Reset: 60-Second Rails\n\n\n**The Goal**: Stop the bleeding.\n\n\n**The Vibe**: We are not budgeting. We are building a dam.\n\n\n---\n\n\n### Step 1...",
+      "body": "\n# The Money Reset: 60-Second Rails\n\n\n**The Goal**: Stop the bleeding.\n\n\n**The Vibe**: We are not budgeting. We are building a dam.\n\n\n---\n\n\n### Step 1: The Accounts (Split the stream)\n\n\nDo not keep all your money in one pile. It vanishes.\n\n- **Account A (Boring)**: Bills. Rent. Direct Debits.\n- **Account B (Life)**: Groceries. Transport. Coffee.\n- **Account C (Fun)**: Guilt-free chaos money.\n\n### Step 2: The Monday Automator\n\n\n*Set this up once. Forget it forever.*\n\n- Calculate your weekly \"Life\" spend (e.g., $150).\n- Set a **Standing Order** from Account A to Account B every Monday at 3 AM.\n- When Account B hits $0, you stay home.\n\n### Step 3: The Friction (Impulse Control)\n\n- **Delete Apple Pay** from your phone? (Hard mode).\n- **Remove Saved Cards** from Amazon/ASOS. (Make yourself fetch the wallet).\n- **The 24-Hour Cart**: Put it in the cart. Close the tab. Set an alarm for tomorrow. If you still want it, buy it.\n\n### Step 4: The Snapshot\n\n\n*Write this on a sticky note.*\n\n- **Rent**: $____\n- **Bills**: $____\n- **Debt Min**: $____\n- **TOTAL FIXED**: $____ (This is your survival number).\n",
+      "cta1": "Ready to get SOR7ED?\nText MONEYRESET to receive your free template.\nInstall 60‑second money rails that stop leaks without full budgeting.",
+      "date": "2025-12-24T17:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "MONEYRESET"
+    },
+    {
+      "id": "2d80d601-4acc-8029-9283-e8bc60d442b8",
+      "title": "Clear consent: Scripts and signals that help",
+      "branch": "Connection",
+      "slug": "clear-consent-scripts-neurodivergent",
+      "trigger": "CONSENT",
+      "excerpt": "# Clear Consent: Scripts and Signals That Help\n> TL;DR: Neurodivergent brains can't \"read the room.\" We need explicit consent. Here are the scripts an...",
+      "body": "# Clear Consent: Scripts and Signals That Help\n> TL;DR: Neurodivergent brains can't \"read the room.\" We need explicit consent. Here are the scripts and signals that remove the guesswork.\n## The \"Maybe\" Problem\n\"Do you want to go out?\"\n\"Maybe.\"\nYour brain:\n- Does that mean yes?\n- Does that mean no?\n- Does that mean convince me?\n- Does that mean ask again later?\n- Does that mean I should read subtle cues?\nYou have no idea.\nAnd this ambiguity creates ANXIETY.\n## Why Neurodivergent Brains Need Clarity\n### We Don't Read Subtext\nNeurotypical communication:\n- \"I'm fine\" = I'm NOT fine, ask me what's wrong\n- \"Do what you want\" = Don't do that thing\n- \"Maybe later\" = No\nNeurodivergent translation:\n- \"I'm fine\" = They're fine\n- \"Do what you want\" = I can do what I want\n- \"Maybe later\" = Ask again later\nWe take words LITERALLY.\n### We Overthink Everything\nNeurotypical person: Gets a hint, moves on.\nNeurodivergent person: Did they mean X? Or Y? Or Z? Analyzes for 3 hours. Still unsure.\n### Ambiguity = Anxiety\nUnclear communication creates:\n- Decision paralysis\n- Rumination spirals\n- Relationship anxiety\n- Avoidance\nClear communication creates:\n- Certainty\n- Action\n- Relief\n- Connection\n## Why This Matters in Dating & Intimacy\nAmbiguous consent is DANGEROUS.\nBecause:\n- You might miss a \"no\" that was hinted (not stated)\n- You might misread enthusiasm\n- You might proceed when you shouldn't\n- Or freeze when you SHOULD act\nNeurodivergent people need explicit consent.\nNot because we're predatory.\nBecause we're literal.\n## The \"Enthusiastic Consent\" Standard\nConsent isn't just \"yes.\"\nIt's \"HELL YES.\"\n### What Consent ISN'T:\n\"I guess so\" = NO\n\"If you want\" = NO\n\"I don't mind\" = NO\n\"Fine\" = NO\n\"Maybe\" = NO\nSilence = NO\n### What Consent IS:\n\"Yes!\"\n\"I want to\"\n\"That sounds great\"\n\"Absolutely\"\n\"I'd love to\"\nAnything less than enthusiastic = STOP.\n## The Specific Consent Script\nNeurotypical: \"Wanna do something?\"\nNeurodivergent: \"No idea what you mean.\"\nInstead:\n\"I'm specifically excited about [X]. Are you interested in [X]?\"\nExamples:\n### For Physical Touch:\n\"I would like to kiss you. Is that okay?\"\n\"Can I hold your hand?\"\n\"I want to hug you. Are you comfortable with that?\"\n### For Sex:\n\"I'm interested in [specific act]. Are you?\"\n\"Can I touch you [here]?\"\n\"Are you enjoying this, or should we stop?\"\n### For Plans:\n\"I want to go to dinner at [restaurant] on [day] at [time]. Does that work for you?\"\nNot: \"Wanna hang out sometime?\"\n### For Boundaries:\n\"I'm overwhelmed and need to be alone for 20 minutes. It's not about you. I'll check back in.\"\nNot: Disappearing without explanation.\n## The Non-Verbal Signals\nSometimes words FAIL.\nYou're:\n- Shutdown\n- Non-verbal\n- Overstimulated\n- Can't form sentences\nPre-agreed signals help:\n### Hand Squeeze System\n- 1 squeeze = \"I'm okay, just quiet\"\n- 2 squeezes = \"I need space\"\n- 3 squeezes = \"Emergency, help\"\nYour partner knows what you need WITHOUT you having to explain.\n### Color Code System\nGreen = \"I'm good, all systems go\"\nYellow = \"I'm getting overwhelmed, proceed with caution\"\nRed = \"Stop everything, I need a break\"\nYou can:\n- Say the color out loud\n- Text it\n- Point to colored cards\n- Use emoji (🟢🟡🔴)\n### Safe Word\nNot just for kink.\nUseful for ANY situation where you might:\n- Freeze\n- Go non-verbal\n- Need to stop immediately\nPick a word that:\n- You'll remember\n- Isn't used in normal conversation\n- Is easy to say\nExamples: \"Pineapple,\" \"Timeout,\" \"Red\"\nWhen EITHER person says it: Everything stops immediately.\n## The \"I Need to Process\" Script\nNeurodivergent brains process SLOWLY.\nYou can't give an answer IMMEDIATELY.\nScript:\n\"I need time to think about that. Can I get back to you in [timeframe]?\"\nThen:\n- Actually think about it\n- Give an answer by the deadline\nThis is VALID.\nYou don't owe instant answers.\n## The \"I Changed My Mind\" Script\nConsent is ONGOING.\nYou can revoke it ANYTIME.\nScripts:\n\"I know I said yes, but I'm not feeling it anymore. Can we stop?\"\n\"I thought I could do this, but I'm overwhelmed. I need to pause.\"\n\"I'm not in the right headspace for this. Let's raincheck.\"\nIf someone gets MAD at you for withdrawing consent:\nThat's a red flag. Leave.\n## The \"Check-In\" System\nDuring intimacy, CHECK IN.\nDon't assume ongoing consent.\nScripts:\n\"Is this still good?\"\n\"Do you want to keep going?\"\n\"How are you feeling?\"\nThis:\n- Ensures enthusiastic consent\n- Catches freeze responses\n- Creates safety\nYes, it \"breaks the mood.\"\nBut safety > mood.\n## The Freeze Response\nNeurodivergent people FREEZE when overwhelmed.\nThis looks like:\n- Going silent\n- Going still\n- Not responding\n- Seeming \"compliant\"\nThis is NOT consent.\nThis is nervous system shutdown.\nIf your partner goes quiet/still:\nSTOP. CHECK IN.\n\"Are you okay? Do you want to keep going, or should we stop?\"\nWait for VERBAL confirmation.\nSilence = stop.\n## The \"Capacity\" Disclosure\nSome days you have capacity. Some days you don't.\nScripts:\n\"I have low capacity today. I can do [small thing], but not [big thing].\"\n\"I'm at 30% battery. I can be present for an hour, then I need to recharge.\"\n\"I'm shutdown. I can't handle touch/conversation/plans right now.\"\nThis:\n- Manages expectations\n- Prevents disappointment\n- Creates understanding\n## The \"Not Now, But Later\" Script\nYou're not rejecting the PERSON.\nYou're declining the TIMING.\nScripts:\n\"I can't do this right now, but I'd love to tomorrow morning.\"\n\"I'm too overstimulated tonight. Can we try this on the weekend?\"\n\"I want to, but I don't have capacity. Let's schedule it for [time].\"\nThis:\n- Affirms desire\n- Sets a boundary\n- Offers alternative\n## What \"Reading the Room\" Actually Means\nNeurotypical advice: \"Just read the room!\"\nWhat they mean:\n- Notice body language\n- Detect tone shifts\n- Pick up on hints\n- Sense discomfort\nWe can't do this reliably.\nSo instead:\nASK.\n\"Are you comfortable?\"\n\"Do you want me to stop?\"\n\"Is this okay?\"\nDirectness is KINDNESS.\n## The Partner's Job\nIf you're dating a neurodivergent person:\n### Be Explicit\nDon't hint. SAY IT.\n❌ \"I'm fine\" (when you're not)\n✅ \"I'm upset about [thing]. Can we talk?\"\n### Don't Punish Questions\nWe WILL ask clarifying questions.\nA LOT.\nDon't get annoyed.\nWe're not being difficult. We're being CERTAIN.\n### Accept Literal Responses\n\"Do you want to go out?\"\nIf we say \"No,\" we mean NO.\nNot \"convince me.\"\nTake our words at face value.\n### Use the Systems\nIf we create:\n- Color codes\n- Hand signals\n- Safe words\nUse them.\nDon't revert to ambiguous communication.\n## The Disclosure Conversation\nAt some point, you need to explain:\n\"I'm neurodivergent. I don't read subtext. I need explicit communication. This isn't about you—it's about how my brain works.\"\nThen:\n- Explain your needs\n- Offer systems (signals, scripts)\n- Ask for their needs\nIf they can't handle this:\nIncompatibility.\nNot your problem to fix.\n## The Bottom Line\nClarity is kindness.\nAmbiguity creates:\n- Anxiety\n- Misunderstanding\n- Crossed boundaries\n- Conflict\nClarity creates:\n- Safety\n- Trust\n- Connection\n- Peace\nYou're not \"killing the mood\" by asking.\nYou're creating actual consent.\n---\n## READY TO GET SOR7ED?\nTired of guessing what people mean and getting it wrong?\nText CONSENT to get your free Clear Communication Toolkit.\nIncludes:\n- Consent script templates (dating, intimacy, boundaries)\n- Signal system guide (hand squeezes, color codes, safe words)\n- \"I need to process\" scripts\n- Freeze response recognition guide",
+      "cta1": "Tired of guessing what people mean and getting it wrong? Text CONSENT to get your free Clear Communication Toolkit with consent scripts, signal systems, and freeze response guide.",
+      "date": "2025-12-29T10:22:00.000Z",
+      "cover": "",
+      "tags": [
+        "Relationships",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CONSENT"
+    },
+    {
+      "id": "2d80d601-4acc-802c-bbf5-d7f76bc046bb",
+      "title": "Embracing autism with clarity and compassion",
+      "branch": "Growth",
+      "slug": "late-autism-discovery-unmasking-clarity",
+      "trigger": "AUTISMKIT",
+      "excerpt": "# Embracing Autism with Clarity and Compassion\n\nAn exploration of Embracing Autism with Clarity and Compassion.\n\n## Introduction\nIn today's fast-paced...",
+      "body": "# Embracing Autism with Clarity and Compassion\n\nAn exploration of Embracing Autism with Clarity and Compassion.\n\n## Introduction\nIn today's fast-paced world, Embracing Autism with Clarity and Compassion has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Newly discovered you're autistic and overwhelmed? Text AUTISMKIT to get your free Late-Discovery Autism Toolkit with unmasking guide, sensory accommodation checklist, and communication scripts.",
+      "date": "2025-12-29T10:22:00.000Z",
+      "cover": "",
+      "tags": [
+        "Masking",
+        "Sensory",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "AUTISMKIT"
+    },
+    {
+      "id": "2d80d601-4acc-8071-9d5a-ccd85430764a",
+      "title": "Bathrooms, noise, and smells: The taboo sensory tax at the office",
+      "branch": "Body",
+      "slug": "bathroom-disability-accommodation-sensory",
+      "trigger": "ESCAPE",
+      "excerpt": "# The Bathroom Is Your Disability Accommodation: The Taboo Sensory Tax at Work\n> TL;DR: The office bathroom is the only place you can lock the door, s...",
+      "body": "# The Bathroom Is Your Disability Accommodation: The Taboo Sensory Tax at Work\n> TL;DR: The office bathroom is the only place you can lock the door, stim freely, and escape sensory hell. But using it \"too much\" gets you labeled. Here's the truth nobody says.\n## The Secret Refuge\nOpen office. Fluorescent lights. Someone's eating tuna. Phones ringing. Keyboards clacking.\nYou're drowning.\nYou escape to the bathroom.\nLock the door.\nFinally: silence.\nYou:\n- Sit on the floor\n- Stim freely (rock, flap, pace)\n- Cry quietly\n- Just... exist without performing\nFor 10 minutes, you're SAFE.\nThen you go back out and mask again.\n## Why the Bathroom Becomes a Lifeline\n### It's the Only Private Space\nOpen offices eliminated:\n- Offices with doors\n- Cubicle walls\n- Anywhere to be alone\nThe bathroom is the ONLY place with:\n- A locking door\n- Privacy\n- No surveillance\nFor neurodivergent people, this is critical.\n### You Can Unmask\nAt your desk:\n- Forced eye contact\n- Suppressed stimming\n- Fake facial expressions\n- Constant performance\nIn the bathroom:\n- No eyes on you\n- Stim freely\n- Make weird faces\n- Be yourself\nIt's not \"hiding.\" It's recharging.\n### Sensory Reset\nThe office is sensory ASSAULT:\n- Fluorescent lights (migraine-inducing)\n- Open office noise (constant)\n- Strong smells (perfume, food, cleaning products)\n- Temperature extremes\n- Too many people\nThe bathroom:\n- Quieter (usually)\n- You control the lights (sometimes)\n- Alone\n- Door between you and chaos\n10 minutes in the bathroom = nervous system reset.\n## The Cruel Irony\nThe bathroom is ALSO sensory hell:\n### Hand Dryers\nLike standing next to a jet engine.\nSome autistic people literally CANNOT use them.\nSolution: Paper towels or air dry.\n### Fluorescent Lights\nEven WORSE than the office lights.\nSome bathrooms have motion sensors = can't turn them off.\n### Smells\nCleaning products (chemical assault).\nAir fresheners (nauseating).\nOther people's... activities.\n### Sounds\nEchoes. Flushing. Hand dryers. Footsteps.\nAll AMPLIFIED in tile rooms.\nSo you're trading one sensory nightmare for another.\nBut at least in the bathroom, you have a DOOR.\n## The Social Tax\nYou're in the bathroom \"too long.\"\nPeople notice.\nThey think:\n- \"Are they avoiding work?\"\n- \"Are they sick?\"\n- \"That's weird\"\n- \"What are they doing in there?\"\nYour manager might even ask: \"Is everything okay? You seem to take a lot of bathroom breaks.\"\nTranslation: \"You're using the bathroom wrong.\"\n## The Physical Tax\nTo AVOID the bathroom (because you're self-conscious about using it \"too much\"), you:\n### Dehydrate Yourself\nDon't drink water = don't need bathroom.\nResult:\n- Headaches\n- Fatigue\n- Brain fog\n- Kidney problems long-term\n### Hold It\nIgnore your body's signals for HOURS.\nResult:\n- UTIs\n- Bladder problems\n- Physical discomfort\n- Can't focus because you're in pain\n### Avoid Masking Breaks\nStay at your desk, fully masked, all day.\nResult:\n- Burnout\n- Meltdowns\n- Shutdowns\n- Can't function\nYou're harming your body to avoid judgment.\n## What You're Actually Doing\nYou're not \"hiding\" in the bathroom.\nYou're:\n- Regulating your nervous system\n- Taking a sensory break\n- Unmasking briefly so you can keep masking\n- Preventing meltdown/shutdown\n- Surviving\nThis is a disability accommodation.\nYou just can't SAY that.\n## The Scripts That Don't Work\n### \"I have IBS\"\nPeople use this as a cover.\nProblem: Now they think you're sick. And they're monitoring your bathroom use.\n### \"I drink a lot of water\"\nTrue! But also: raises questions about WHY you're in there so LONG.\n### Saying Nothing\nPeople fill in the gaps with assumptions.\nUsually negative ones.\n## What Actually Helps\n### 1. Time Your Breaks Strategically\nDon't go:\n- Right after arriving\n- Right after lunch\n- Right before leaving\nDo go:\n- Mid-morning\n- Mid-afternoon\n- When fewer people are around\nThis makes it look \"normal.\"\n### 2. Use Other Escapes (If Available)\nStairwell:\nUsually empty. Good for pacing/stimming.\nYour car (if you have one):\nBest option. Total privacy.\nOutside:\n\"I'm taking a quick walk\" is more acceptable than \"I'm hiding in the bathroom.\"\nWellness Room (if your office has one):\nMany offices now have \"wellness\" or \"meditation\" rooms.\nUse them. That's what they're for.\n### 3. Advocate for a Quiet Room\nFrame it as \"productivity enhancement.\"\nScript:\n\"I've noticed that open offices can be overstimulating for some people. Research shows that access to quiet spaces increases focus and reduces burnout. Could we designate a small room as a quiet space?\"\nDon't mention YOUR needs specifically.\nMake it about \"productivity\" and \"everyone.\"\nMore likely to succeed.\n### 4. Get Formal Accommodations\nIf you have a diagnosis (ADHD, autism, anxiety, etc.):\nYou can request formal accommodations.\nLike:\n- Permission to take sensory breaks\n- Access to quiet room\n- Flexible break schedule\n- Work from home days\nThis makes your bathroom breaks official.\nNot \"weird.\" Not \"lazy.\" Accommodated.\n## The Remote Work Solution\nWork from home eliminates:\n- Bathroom surveillance\n- Open office sensory hell\n- Masking for 8 hours straight\n- Need to \"hide\"\nYou can:\n- Use YOUR bathroom\n- Take breaks whenever\n- Stim freely\n- Regulate naturally\nIf possible: fight for remote work.\nIt's the best accommodation for many neurodivergent people.\n## The Judgment\nPeople will judge.\n\"Why do they take so many breaks?\"\n\"They're always in the bathroom.\"\n\"Are they avoiding work?\"\nLet them judge.\nYour nervous system > their opinions.\n## For Managers Reading This\nIf you notice someone \"uses the bathroom a lot\":\nDon't: Monitor their bathroom use.\nDon't: Ask invasive questions.\nDon't: Make comments.\nDo: Provide quiet spaces.\nDo: Allow flexible breaks.\nDo: Evaluate work QUALITY, not bathroom FREQUENCY.\nIf their work is good, their bathroom use is none of your business.\n## The Permission Slip\nYou're allowed to:\n- Use the bathroom as a sensory refuge\n- Take breaks to regulate\n- Prioritize your nervous system\n- Need more breaks than neurotypical people\nYou're not:\n- Lazy\n- Avoiding work\n- Broken\n- Weird\nYou're surviving in a space that wasn't designed for your brain.\nAnd that's okay.\n---\n## READY TO GET SOR7ED?\nStuck in an open office with no escape and everyone's monitoring your bathroom breaks?\nText ESCAPE to get your free Office Survival Kit.\nIncludes:\n- Sensory break strategies (that aren't the bathroom)\n- Quiet room advocacy template\n- Formal accommodation request guide\n- Portable sensory tools (discreet, office-appropriate)",
+      "cta1": "Stuck in an open office with no escape? Text ESCAPE to get your free Office Survival Kit with sensory break strategies, quiet room advocacy template, and accommodation request guide.",
+      "date": "2025-12-29T10:22:00.000Z",
+      "cover": "",
+      "tags": [
+        "Sensory",
+        "Masking",
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "ESCAPE"
+    },
+    {
+      "id": "2d80d601-4acc-8108-b4ed-c8a6ec13991a",
+      "title": "Three tiny wins — Case studies in 10 minutes each",
+      "branch": "Growth",
+      "slug": "case-studies-three-tiny-wins",
+      "trigger": "TINYWINS",
+      "excerpt": "### Finding Success in Small Steps\n\nLife can often feel overwhelming, especially for those of us navigating the world with ADHD or Autism. But here's ...",
+      "body": "### Finding Success in Small Steps\n\nLife can often feel overwhelming, especially for those of us navigating the world with ADHD or Autism. But here's the good news: sometimes, the smallest wins can lead to the biggest changes. Let’s explore three case studies that highlight how simple adjustments can make a remarkable difference.\n\n## Case Study 1: The Morning Routine Revolution\n\n**Background**: Emma, a young professional with ADHD, struggled with chaotic mornings. Every day started with a whirlwind of forgotten keys and misplaced essentials, leaving her frazzled and late.\n\n**Solution**:\n- Implemented a \"Launch Pad\" by the front door: a designated basket to hold keys, wallet, and daily must-haves.\n- Used a visual checklist taped to the door to ensure nothing was forgotten.\n- Set a recurring alarm 15 minutes earlier to create a buffer for unexpected delays.\n\n**Outcome**: Within a week, Emma reported feeling calmer and more in control. The visual cues and consistent location for essentials made mornings far less stressful.\n\n## Case Study 2: Streamlining Digital Distractions\n\n**Background**: Sam, a college student on the Autism spectrum, found himself constantly sidetracked by social media alerts while studying.\n\n**Solution**:\n- Installed a browser extension that blocks distracting websites during study periods.\n- Created a study playlist with instrumental music to minimize auditory distractions.\n- Scheduled specific times for social media breaks, treating them as rewards after productive study sessions.\n\n**Outcome**: Sam noticed a significant increase in his focus and productivity. By limiting digital distractions, he was able to complete assignments more efficiently.\n\n## Case Study 3: Simplifying Meal Prep\n\n**Background**: Alex, a freelance designer with ADHD, often skipped meals because cooking felt like an insurmountable task.\n\n**Solution**:\n- Introduced a basic meal plan with a rotating menu of three easy-to-prepare dishes.\n- Used a grocery delivery service to ensu",
+      "cta1": "Want to see how small changes create big wins? Text TINYWINS to get your free Case Study Pack with real examples and implementation templates for quick wins.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "TINYWINS"
+    },
+    {
+      "id": "2d80d601-4acc-810d-99fd-d7a62ba1b5ca",
+      "title": "Why WhatsApp-first? Simplicity, speed, and less overwhelm",
+      "branch": "Tech",
+      "slug": "why-whatsapp-first-neurodivergent",
+      "trigger": "START",
+      "excerpt": "In a world buzzing with notifications, endless options, and constant noise, finding a service that cuts through the chaos can feel like a revelation. ...",
+      "body": "In a world buzzing with notifications, endless options, and constant noise, finding a service that cuts through the chaos can feel like a revelation. For the neurodivergent community, the need for simplicity and clarity is paramount. This is why SOR7ED embraces a WhatsApp-first approach. Let's explore why this choice makes perfect sense for those seeking simplicity, speed, and less overwhelm.\n\n## WhatsApp: The Simplicity We Crave\n\nFor many, managing multiple apps and platforms can quickly become a tangled web of confusion. Here's why WhatsApp stands out as the perfect solution:\n\n- **Universal Platform**: With over 2 billion users worldwide, WhatsApp is familiar territory. Chances are, it's already on your phone, reducing the need for additional downloads or learning curves.\n- **Streamlined Communication**: WhatsApp is built for straightforward conversations. No complex interfaces or labyrinthine settings—just simple, clear messaging.\n- **Focus on Essentials**: By narrowing our communication to one platform, we minimize the cognitive load. This makes it easier to focus on what truly matters.\n\n## Speed: A Necessity, Not a Luxury\n\nIn a fast-paced world, speed isn't just about getting things done quicker—it's about reducing stress and anxiety.\n\n- **Real-Time Interaction**: Messages on WhatsApp are instantaneous. Whether it's a quick question or a detailed request, responses come swiftly, keeping momentum going.\n- **Efficient Problem Solving**: The immediacy of WhatsApp allows for real-time problem-solving, reducing the frustration of waiting for replies across multiple channels.\n- **Seamless Integration**: WhatsApp's integration with other services and its ability to send multimedia files and locations mean you can share and receive information at lightning speed.\n\n## Reducing Overwhelm: A Core Principle\n\nOverwhelm is a significant challenge, particularly for neurodivergent individuals. The WhatsApp-first model addresses this head-on:\n\n- **Fewer Notifications**: With on",
+      "cta1": "No app to download. No account to create. No learning curve. Just text START to get your free onboarding guide sent straight to WhatsApp.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "START"
+    },
+    {
+      "id": "2d80d601-4acc-8120-842c-d7a0446c1cff",
+      "title": "What we do — The 7 branches",
+      "branch": "Growth",
+      "slug": "what-we-do-7-branches",
+      "trigger": "",
+      "excerpt": "# Unclutter Your Life with SOR7ED\n\nNavigating the chaos of daily life can be overwhelming, especially if you're neurodivergent. Your mind is a vibrant...",
+      "body": "# Unclutter Your Life with SOR7ED\n\nNavigating the chaos of daily life can be overwhelming, especially if you're neurodivergent. Your mind is a vibrant tapestry, but sometimes it can feel like juggling too many threads. That's where SOR7ED steps in. We simplify. We streamline. We de-stress. Let’s break down how our seven branches cater specifically to your needs.\n\n## 1. Space Curation\n\nYour environment should be a sanctuary, not a source of stress. We help transform your spaces, making them work for you.\n\n- Decluttering: Remove the unnecessary to make room for the essential.\n- Organization: Implement systems that are intuitive and sustainable.\n- Personalization: Tailor spaces to resonate with your unique style.\n\n## 2. Time Management\n\nTime is precious. We help you make the most of it with customized strategies.\n\n- Scheduling: Create calendars that reflect your priorities and energy levels.\n- Prioritization: Identify what truly matters and eliminate distractions.\n- Routine Building: Establish rhythms that foster productivity and peace.\n\n## 3. Task Simplification\n\nComplex tasks can be daunting. We break them down into manageable steps.\n\n- Task Breakdown: Divide tasks into smaller, actionable chunks.\n- Checklists: Develop clear, concise checklists to keep you on track.\n- Progress Monitoring: Visualize your progress to maintain motivation.\n\n## 4. Digital Detox\n\nTechnology should be a tool, not a tyrant. We help you regain control.\n\n- Device Management: Set boundaries with your tech to reduce overwhelm.\n- App Optimization: Choose apps that support your goals and streamline your digital life.\n- Screen-Free Time: Encourage moments of rest and recharge away from screens.\n\n## 5. Emotional Support\n\nWe don’t just organize spaces; we nurture well-being.\n\n- Stress Reduction: Implement techniques to soothe and center.\n- Emotional Check-Ins: Regularly assess and address your emotional state.\n- Resource Connection: Connect with therapists or support groups attuned to neurodivergent ",
+      "cta1": "",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": ""
+    },
+    {
+      "id": "2d80d601-4acc-8179-ae06-d5d3fe5b34ac",
+      "title": "Security, scope, and how we handle your data",
+      "branch": "Impression",
+      "slug": "security-and-scope",
+      "trigger": "",
+      "excerpt": "## Your Trust is Our Currency\nWe know that handing over your life admin requires massive trust.\nYou are giving us access to your chaos.\nWe treat your ...",
+      "body": "## Your Trust is Our Currency\nWe know that handing over your life admin requires massive trust.\nYou are giving us access to your chaos.\nWe treat your data with the same rigidity as a bank, but with the empathy of a friend.\n\n## What We See vs. What We Don't\n- **We See**: The specific task details you send us.\n- **We Don't See**: Your bank login (unless using a shared vault), your private texts, your browsing history.\n- **We Don't Sell**: Your data is never sold. Ever.\n\n## Security Protocols\n1. **Encryption**: All WhatsApp comms are end-to-end encrypted.\n2. **Access Control**: Only your dedicated concierge team sees your tasks.\n3. **The \"Vault\"**: We recommend using 1Password or LastPass for sharing sensitive credentials, so you can revoke access anytime.",
+      "cta1": "Worried about sharing passwords?\nText \"**SAFE**\" to receive our **Digital Security 101 Guide**. How to share access without sharing your master key.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": ""
+    },
+    {
+      "id": "2d80d601-4acc-8182-94db-e28e3ef4d54c",
+      "title": "Food texture aversion and social eating: How to survive the dinner politics",
+      "branch": "Connection",
+      "slug": "food-texture-aversion-social-eating-dinner-politics",
+      "trigger": "",
+      "excerpt": "## The \"Picky Eater\" Label\nIt starts in childhood. \"Just try it.\" \"Don't be rude.\"\nFor sensory-sensitive people, wrong textures (slime, grit, mixed cr...",
+      "body": "## The \"Picky Eater\" Label\nIt starts in childhood. \"Just try it.\" \"Don't be rude.\"\nFor sensory-sensitive people, wrong textures (slime, grit, mixed crunch) trigger a gag reflex. It is not a choice; it is biological rejection.\nAs adults, this becomes \"socially difficult.\" Dinner parties, business lunches, dates.\n\n## The Strategy: Safe Foods\n1. **Pre-Eat**: Eat a safe snack before you go. Taking \"hunger\" off the table lowers anxiety.\n2. **Scan the Menu**: Find the \"Safe Anchor.\" usually fries, bread, or plain chicken.\n3. **The Script**: \"I have some sensory dietary restrictions, so I'm going to stick to the [Simple Dish]. It looks great.\"\n\n## You Don't Owe Them a \"Taste\"\nPoliteness does not require you to induce vomiting.\nYour body autonomy matters more than their culinary pride.",
+      "cta1": "Dreading the next dinner party?\nText \"**MENU**\" to receive your free **Restaurant Survival Guide**. How to scan menus for sensory safety and scripts for polite refusal.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": ""
+    },
+    {
+      "id": "2d80d601-4acc-819b-bc44-e8f553fd0f88",
+      "title": "When gaming is medicine: Binges, escape, and building healthier loops",
+      "branch": "Tech",
+      "slug": "gaming-binges-healthier-loops",
+      "trigger": "GAMING",
+      "excerpt": "# When Gaming Is Medicine: Binges, Escape, and Building Healthier Loops\n\nStop moral panic. Map the function, set rails, add social and sleep guardrail...",
+      "body": "# When Gaming Is Medicine: Binges, Escape, and Building Healthier Loops\n\nStop moral panic. Map the function, set rails, add social and sleep guardrails, and keep the good bits.\n\n## Introduction\nIn today's fast-paced world, When Gaming Is Medicine: Binges, Escape, and Building Healthier Loops has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Gaming binges getting out of control? Text GAMING to get your free Gaming Rails Toolkit with function mapping, sleep and social guardrails, and healthier loop strategies.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "GAMING"
+    },
+    {
+      "id": "2d80d601-4acc-81ac-8573-e4185b6930ab",
+      "title": "How credits, SLAs, and payment work",
+      "branch": "Wealth",
+      "slug": "credits-sla-payment",
+      "trigger": "",
+      "excerpt": "## The Credit System\nWe don't do hourly billing. Hourly billing punishes efficiency.\nWe use **Credits**.\n- 1 Credit = Standard Task (Research, booking...",
+      "body": "## The Credit System\nWe don't do hourly billing. Hourly billing punishes efficiency.\nWe use **Credits**.\n- 1 Credit = Standard Task (Research, booking, calling, organizing).\n- 2 Credits = Complex Project (Travel itinerary, negotiation, data migration).\nYou always know the cost upfront.\n\n## Speed (SLAs)\n- **Standard**: 48 hours.\n- **Urgent**: 24 hours (2x credits).\n- **Chill**: Within a week (0.5x credits - coming soon!).\n\n## Payment Methods\nWe take Stripe (Card, Apple Pay, Google Pay).\nIt's a simple link. Click, pay, done. No finding your sort code.",
+      "cta1": "Want to load up?\nText \"**BANK**\" to see your current credit balance or top up.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": ""
+    },
+    {
+      "id": "2d80d601-4acc-81be-96e5-fe1c0b92b6de",
+      "title": "Sensory debt: How environments accrue interest on neurodivergent brains",
+      "branch": "Mind",
+      "slug": "sensory-debt-neurodivergent-brains",
+      "trigger": "SENSORYDEBT",
+      "excerpt": "# Sensory Debt: How Environments Accrue Interest on Neurodivergent Brains\n\nUnderstand sensory debt, identify high-interest triggers, and make low-effo...",
+      "body": "# Sensory Debt: How Environments Accrue Interest on Neurodivergent Brains\n\nUnderstand sensory debt, identify high-interest triggers, and make low-effort changes that reduce overload for neurodivergent minds.\n\n## Introduction\nIn today's fast-paced world, Sensory Debt: How Environments Accrue Interest on Neurodivergent Brains has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Drained by your environment and can't figure out why? Text SENSORYDEBT to get your free Sensory Debt Audit with trigger identification, high-interest environment mapping, and low-effort reduction strategies.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "SENSORYDEBT"
+    },
+    {
+      "id": "2d80d601-4acc-81ce-a470-f68b2c41b51b",
+      "title": "Meltdowns at work: What to do when your nervous system says 'no'",
+      "branch": "Impression",
+      "slug": "meltdowns-at-work-protocols",
+      "trigger": "WORKMELT",
+      "excerpt": "# Meltdowns at Work: What to Do When Your Nervous System Says ‘No’\n\nNot a tantrum, not weakness. A safety protocol. Step‑by‑step de‑escalation and rec...",
+      "body": "# Meltdowns at Work: What to Do When Your Nervous System Says ‘No’\n\nNot a tantrum, not weakness. A safety protocol. Step‑by‑step de‑escalation and recovery plans you can hand to your manager.\n\n## Introduction\nIn today's fast-paced world, Meltdowns at Work: What to Do When Your Nervous System Says ‘No’ has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "About to meltdown at work and need an exit plan? Text WORKMELT to get your free Workplace Meltdown Protocol with de-escalation steps, recovery plans, and manager communication templates.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "WORKMELT"
+    },
+    {
+      "id": "2d80d601-4acc-81f9-bd57-c4482fb93f05",
+      "title": "Q&A — Privacy, data, and boundaries",
+      "branch": "Impression",
+      "slug": "qa-privacy-data-boundaries",
+      "trigger": "",
+      "excerpt": "\n## Q: Can you read my other WhatsApps?\n\n\nA: No. WhatsApp is E2E encrypted. We only see messages sent directly to our business number.\n\n\n## Q: Will yo...",
+      "body": "\n## Q: Can you read my other WhatsApps?\n\n\nA: No. WhatsApp is E2E encrypted. We only see messages sent directly to our business number.\n\n\n## Q: Will you judge my purchases?\n\n\nA: Never. We have seen it all. Late fines, weird subscriptions, forgotten renewals. We are shame-free.\n\n\n## Q: What are your hours?\n\n\nA: Humans are online 9am - 6pm UK time.\n\n\nThe Bot collects tasks 24/7. If you panic at 3am, dump the task in the chat. We'll pick it up in the morning so you can sleep.\n\n\n## READY TO GET SOR7ED?\n\n\nHave a weird question?\n\n\nText \"**ASK**\" to chat with a human about any concerns. No sales pitch, just answers.\n\n\n## Q: Can you read my other WhatsApps?\n\n\nA: No. WhatsApp is E2E encrypted. We only see messages sent directly to our business number.\n\n\n## Q: Will you judge my purchases?\n\n\nA: Never. We have seen it all. Late fines, weird subscriptions, forgotten renewals. We are shame-free.\n\n\n## Q: What are your hours?\n\n\nA: Humans are online 9am - 6pm UK time.\n\n\nThe Bot collects tasks 24/7. If you panic at 3am, dump the task in the chat. We'll pick it up in the morning so you can sleep.\n\n\n## READY TO GET SOR7ED?\n\n\nHave a weird question?\n\n\nText \"**ASK**\" to chat with a human about any concerns. No sales pitch, just answers.\n\n",
+      "cta1": "Have a weird question?\nText \"**ASK**\" to chat with a human about any concerns. No sales pitch, just answers.",
+      "date": "2025-12-29T10:11:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": ""
+    },
+    {
+      "id": "2dc0d601-4acc-805a-b6a2-e1974b009cff",
+      "title": "Dopamine chasing vs. need fulfillment",
+      "branch": "Mind",
+      "slug": "dopamine-chasing-vs-need-fulfillment-adhd",
+      "trigger": "NEEDSCHECK",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Stuck in the dopamine chase and can't tell what you actually need? Text NEEDSCHECK to get your free Need Fulfillment Tracker with dopamine vs. needs checklist and sustainable menu.",
+      "date": "2026-01-02T09:13:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "NEEDSCHECK"
+    },
+    {
+      "id": "2e10d601-4acc-811d-bbce-db95436a8150",
+      "title": "Why 'Just Do It' Fails the ADHD Brain",
+      "branch": "Mind",
+      "slug": "why-just-do-it-fails-adhd",
+      "trigger": "WALL",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Staring at a task that feels impossible? Text WALL to get your free Wall of Awful Demolition Kit. A 5-minute worksheet that turns your terrifying task into tiny, doable pieces.",
+      "date": "2026-01-07T22:52:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "WALL"
+    },
+    {
+      "id": "2e10d601-4acc-812b-8289-cea4aaeca289",
+      "title": "Executive function vs. willpower",
+      "branch": "Mind",
+      "slug": "executive-function-vs-willpower-adhd",
+      "trigger": "FUNCTION",
+      "excerpt": "# Executive Function vs. Willpower: Why \"Try Harder\" Is Bullshit\n> TL;DR: You're not lazy. You don't lack willpower. Your brain's executive function s...",
+      "body": "# Executive Function vs. Willpower: Why \"Try Harder\" Is Bullshit\n> TL;DR: You're not lazy. You don't lack willpower. Your brain's executive function system is broken. Here's why that matters.\n## The Scene\nYou're staring at the dishes.\nThey've been there for 3 days.\nYou KNOW you need to do them.\nYou WANT to do them.\nBut you... can't.\nYour brain just won't LET you start.\nSo you beat yourself up:\n\"I'm so lazy.\"\n\"I have no willpower.\"\n\"Everyone else can just DO things.\"\nStop.\nThis isn't about willpower.\nThis is about executive function.\n## What People Think Is Happening\nNeurotypical logic:\n1. See task\n2. Decide to do task\n3. Do task\nTheir assumption:\nYou're stuck at step 2 (deciding).\nSo they say:\n- \"You just need to TRY HARDER.\"\n- \"You're not APPLYING yourself.\"\n- \"If you REALLY cared, you'd do it.\"\nBut that's NOT what's happening.\n## What's ACTUALLY Happening\nYou're stuck between steps 2 and 3.\nNot because you haven't DECIDED.\nBut because your brain's execution system is offline.\n### The Orchestra Analogy\nNeurotypical brain:\n- Willpower = violinist\n- Executive function = conductor\n- Orchestra plays beautifully\nADHD brain:\n- Willpower = violinist (working FINE)\n- Executive function = conductor (ASLEEP)\n- Orchestra = chaos\nDoesn't matter how hard the violinist tries.\nWithout the conductor, nothing works.\n## What Executive Function Actually Does\nExecutive function is your brain's CEO.\nIt handles:\n### 1. Task Initiation (Starting)\n\"Okay, we're doing this NOW.\"\nBroken executive function:\n- Sees task\n- Knows it needs doing\n- Cannot press \"START\"\nYou're paralyzed.\n### 2. Working Memory (Remembering Mid-Task)\n\"I'm doing X because I need Y.\"\nBroken executive function:\n- Starts task\n- Forgets why\n- Gets distracted\n- Now doing something completely different\nYou started making lunch.\nNow you're organizing your sock drawer.\n### 3. Emotional Regulation (Frustration Tolerance)\n\"This is annoying but I'll keep going.\"\nBroken executive function:\n- Task is slightly hard\n- Frustration = RAGE\n- Quit immediately\nYou threw the tax form across the room.\n### 4. Focus (Sustaining Attention)\n\"I'm staying on THIS task.\"\nBroken executive function:\n- Phone notification\n- Look away for \"1 second\"\n- 3 hours later, still scrolling\nYou were supposed to send ONE email.\n### 5. Planning & Prioritizing\n\"I'll do A, then B, then C.\"\nBroken executive function:\n- Everything feels URGENT\n- Or nothing feels urgent\n- Can't tell which to do first\n- Decision paralysis\nYou have 10 tasks.\nYou do NONE of them.\n### 6. Effort Regulation (Pacing)\n\"I'll work steadily for 2 hours.\"\nBroken executive function:\n- Hyperfocus for 8 hours (no breaks)\n- Burn out completely\n- Can't function for 3 days\nYou destroyed yourself doing the thing.\n## The Willpower Battery Lie\nPeople say: \"Willpower is finite. Use it wisely.\"\nTrue for neurotypicals.\nFor ADHD brains:\nNeurotypical person doing dishes:\n- Energy cost: 5%\nADHD person doing dishes:\n- Find motivation to start: 10%\n- Override \"this is boring\" signal: 15%\n- Remember to keep going: 10%\n- Regulate sensory input (water, soap texture): 20%\n- Fight distraction impulses: 15%\n- Manage frustration: 10%\nTotal: 80% of battery for ONE task.\nNo wonder you're exhausted by noon.\n## Why \"Just Try Harder\" Doesn't Work\nYou: I am trying.\nThem: \"Try HARDER.\"\nYou: I AM.\nThem: \"Then WHY isn't it working?\"\nYou: BECAUSE THE CONDUCTOR IS ASLEEP.\nYelling at a nearsighted person: \"Just SEE better!\"\nDoesn't work.\nBecause the MECHANISM is broken.\n## What Actually Helps\n### 1. External Structure (Scaffolding)\nYour brain can't provide structure.\nSo build it OUTSIDE your brain.\nExamples:\n- Alarms for EVERYTHING\n- Visual reminders (sticky notes)\n- Body doubling (someone present while you work)\n- Accountability partners\n- Lists (written, not mental)\n### 2. Reduce Cognitive Load\nDon't fight on multiple fronts.\nSimplify:\n- One task at a time (not 10)\n- Remove distractions BEFORE starting\n- Lower the difficulty (make it stupidly easy)\n\"Do all the dishes\" = too hard.\n\"Wash 1 plate\" = doable.\n### 3. Automate Everything Possible\nStop using executive function on ADMIN.\nAutomate:\n- Bill payments (standing order)\n- Reminders (calendar alerts)\n- Meal planning (same thing every week)\n- Cleaning schedule (same day, same time)\nSave your broken executive function for things that MATTER.\n### 4. Outsource (The Nuclear Option)\nYou can't outsource EVERYTHING.\nBut you can outsource the shit that drains you.\nDelegate:\n- Grocery shopping (delivery)\n- Admin tasks (SOR7ED)\n- Cleaning (cleaner if possible)\n- Meal prep (meal service)\nYour brain is broken.\nStop forcing it to do things it CAN'T.\n### 5. Medication (If Appropriate)\nADHD meds improve executive function.\nNot a cure.\nBut they turn the conductor from \"asleep\" to \"groggy.\"\nGroggy > asleep.\n### 6. Compassion (Stop Beating Yourself Up)\nYou're not lazy.\nYou're not weak.\nYou're not broken.\nYour brain's executive function system is impaired.\nThat's neurology.\nNot morality.\n## The Permission Slip\nYou don't need to:\n- Try harder\n- Want it more\n- Care more\n- Be more disciplined\nYou need:\n- External systems\n- Scaffolding\n- Automation\n- Help\nThat's not failure. That's strategy.\n---\n## READY TO GET SOR7ED?\nTired of running on empty?\nText FUNCTION to get your free Executive Function Survival Guide.\nIncludes:\n- Task energy cost calculator\n- Scaffolding setup guide\n- Automation checklist\n- When to outsource decision tree",
+      "cta1": "Tired of running on empty? Text FUNCTION to get your free Executive Function Survival Guide with task energy calculator and automation checklist.",
+      "date": "2026-01-07T22:52:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FUNCTION"
+    },
+    {
+      "id": "2e90d601-4acc-80b5-bfc4-e26b492932ea",
+      "title": "Let's declutter your life",
+      "branch": "",
+      "slug": "declutter-life-neurodivergent-minimalism",
+      "trigger": "MINDFUL",
+      "excerpt": "**Feeling Overwhelmed? Let’s Declutter Your Life**\n\nLife can feel like a constant barrage of tasks, decisions, and sensory overload, especially if you...",
+      "body": "**Feeling Overwhelmed? Let’s Declutter Your Life**\n\nLife can feel like a constant barrage of tasks, decisions, and sensory overload, especially if you're neurodivergent. The good news? Streamlining your surroundings can lead to a more focused, peaceful mind.\n\n## Why Minimalism Works\n\nMinimalism isn’t about stark white walls and empty spaces; it’s about creating an environment that supports your unique needs.\n\n- **Reduces Decision Fatigue**: Fewer items mean fewer decisions about what to wear, use, or do next.\n- **Decreases Sensory Overload**: A clutter-free space helps reduce the stimuli that might overwhelm your senses.\n- **Increases Focus**: A tidy environment can eliminate distractions and improve concentration.\n\n## How SOR7ED Can Help\n\nAt SOR7ED, we understand that decluttering isn't just physical; it's mental too. Here’s how we can make your life easier:\n\n- **Personalized Plans**: Our team works with you to customize a decluttering strategy that fits your lifestyle and cognitive preferences.\n- **Step-by-Step Guidance**: We break down the process into manageable steps, so you’re never overwhelmed.\n- **Supportive Environment**: We create a judgment-free zone to help you navigate this change with ease.\n\n## Steps to Get Started\n\n1. **Identify Your Priorities**: What areas of your life cause the most stress or distraction? Start there.\n2. **Set Clear Goals**: Be specific about what you want to achieve. “I want a tidy workspace” is better than “I want less clutter.”\n3. **Sort and Simplify**: Use the “keep, donate, discard” method to tackle each area methodically.\n4. **Create Systems**: Once you’ve decluttered, set up systems to maintain order. Labeling and storage solutions can be game-changers.\n5. **Schedule Regular Check-Ins**: Consistency is key. Regularly review your space to ensure it continues to serve your needs.\n\n## Avoid Common Pitfalls\n\n- **Don’t Rush**: Take your time. It’s about progress, not perfection.\n- **Avoid Over-Organizing**: Sometimes too many org",
+      "cta1": "Drowning in clutter and don't know where to start? Text MINDFUL to get your free Decluttering Starter Kit with priority mapping, one-drawer protocol, and maintenance systems.",
+      "date": "2026-01-15T13:58:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "MINDFUL"
+    },
+    {
+      "id": "2e90d601-4acc-80cb-b3a6-c37d92de7caf",
+      "title": "Understanding minimalism for neurodivergent minds",
+      "branch": "",
+      "slug": "minimalism-neurodivergent-minds",
+      "trigger": "CALM",
+      "excerpt": "Imagine a world where your surroundings breathe calm and clarity into your day. For many neurodivergent individuals, clutter and chaos can heighten an...",
+      "body": "Imagine a world where your surroundings breathe calm and clarity into your day. For many neurodivergent individuals, clutter and chaos can heighten anxiety and make daily tasks feel insurmountable. Minimalism isn't just about aesthetics; it's about creating a space that supports your unique mind. Let's explore how embracing minimalism can transform your environment and, in turn, your life.\n\n## Understanding Minimalism for Neurodivergent Minds\n\nMinimalism is more than just white walls and empty spaces; it's about intention. For those with ADHD or Autism, it’s a tool to reduce sensory overload and enhance focus by removing distractions. Here’s why it matters:\n\n- **Reduced Overwhelm:** Fewer objects mean fewer distractions, allowing your mind to rest and focus on what truly matters.\n- **Enhanced Focus:** A tidy space can promote a tidy mind, reducing cognitive load and boosting productivity.\n- **Improved Well-Being:** A minimalist environment can provide a sense of control and calm, crucial for emotional regulation.\n\n## Steps to Achieving a Minimalist Space\n\nEmbarking on a minimalist journey can feel daunting, but breaking it down into manageable steps can make the process smoother and more achievable.\n\n### Start Small\n\n- **Pick One Area:** Begin with a single room or even a single drawer. This prevents overwhelm and ensures a sense of accomplishment.\n- **Set a Timer:** Dedicate a specific, short amount of time to decluttering. This can help maintain focus and motivation.\n\n### Declutter with Purpose\n\n- **Question Each Item:** Ask yourself if it serves a purpose or brings joy. If not, consider letting it go.\n- **Use the \"One In, One Out\" Rule:** For every new item you bring in, let go of an old one. This keeps clutter in check.\n\n### Organize Intuitively\n\n- **Create Zones:** Group similar items together to make them easier to find and use.\n- **Label Everything:** Labels can reduce decision fatigue and make it easier to maintain order.\n\n### Embrace Technology\n\n- **Go Digi",
+      "cta1": "Overwhelmed by clutter and need a calmer space? Text CALM to get your free Neurodivergent Minimalism Guide with zone creation, maintenance routines, and mindful consumption strategies.",
+      "date": "2026-01-15T14:19:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CALM"
+    },
+    {
+      "id": "2e90d601-4acc-8100-a2ec-e37d6c66ba91",
+      "title": "The dopamine menu",
+      "branch": "Mind",
+      "slug": "dopamine-menu",
+      "trigger": "MENU",
+      "excerpt": "# Post: The Dopamine Menu (Mind Branch)\n\n## Notion Properties\n- **Title:** THE DOPAMINE MENU\n- **Slug:** `dopamine-menu`\n- **Branch:** Mind\n- **Summar...",
+      "body": "# Post: The Dopamine Menu (Mind Branch)\n\n## Notion Properties\n- **Title:** THE DOPAMINE MENU\n- **Slug:** `dopamine-menu`\n- **Branch:** Mind\n- **Summary:** Stop doom-scrolling for hits. Build a curated menu of stimulation that actually recharges you.\n\n---\n\n## Body Content (Copy into Notion)\n\n> **TL;DR:** Your brain craves stimulation like food. Stop eating junk (scrolling) and start ordering from a menu of high-quality fuel.\n\n## The Problem\nYou spend 4 hours doom-scrolling, yet you feel *more* bored and exhausted than when you started. That's because you're consuming **\"Empty Dopamine\"**.\n\nTraditional advice says \"Just use willpower.\" But for an ADHD/ND brain, under-stimulation is painful. Your brain isn't \"lazy\"; it's starving for input. Depriving it doesn't work.\n\n## The Shift\n**Don't starve the beast; feed it better food.**\nWe treat stimulation like a diet. You need a menu of options ready *before* you get hungry (bored), so you don't default to the fast-food drive-thru (TikTok/IG).\n\n## The Protocol\nCreate your **Dopamine Menu** with these four categories:\n\n1.  **Starters (Quick Hits)**: Things you can do in <5 mins to get a spark.\n    *   *Examples:* 10 jumping jacks, pet the dog, eat something sour, blast one song.\n2.  **Mains (Deep Work/Flow)**: Activities that fully engage you for hours.\n    *   *Examples:* Coding, gaming, painting, writing, intense exercise.\n3.  **Sides (Add-ons)**: Things that make boring tasks bearable.\n    *   *Examples:* Podcast while cleaning, fidget toys during meetings, Lo-Fi beats while working.\n4.  **Desserts (Plain Fun)**: Pure indulgence, but in moderation.\n    *   *Examples:* Social media, trash TV. (Enjoy them, don't binge them).\n\n---\n\n### Get the Template\n**I've built a ready-to-use Notion template for this.**\nDon't build it from scratch.\n\n> **Text \"MENU\" to +44 7360 537264** to get the free link.\n",
+      "cta1": "Ready to get SOR7ED? Text MENU to receive your free Dopamine Menu template.",
+      "date": "2026-01-15T20:45:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "MENU"
+    },
+    {
+      "id": "2e90d601-4acc-812e-92ef-df63e2bbabf0",
+      "title": "The dopamine menu",
+      "branch": "",
+      "slug": "dopamine-menu-adhd-brain-fuel",
+      "trigger": "MENU",
+      "excerpt": "# Dopamine is the Spice of Life\n\nFor neurodivergent minds, dopamine isn't just a chemical—it's the driving force that fuels focus, motivation, and joy...",
+      "body": "# Dopamine is the Spice of Life\n\nFor neurodivergent minds, dopamine isn't just a chemical—it's the driving force that fuels focus, motivation, and joy. But tapping into this elusive neurotransmitter can sometimes feel like trying to catch lightning in a bottle. Welcome to \"The Dopamine Menu,\" where we serve up practical ways to spark that much-needed dopamine boost.\n\n## Understanding the Dopamine Dilemma\n\nFor those of us with ADHD or Autism, the quest for dopamine can feel like being on a never-ending scavenger hunt. This vital neurotransmitter influences attention, mood, and pleasure. When levels are low, everything feels harder. But don't worry, we've got a menu full of options to help you cultivate that dopamine surge.\n\n## The Appetizers: Quick Wins\n\nStart your dopamine journey with these quick, easy-to-digest activities:\n\n- **Blast Your Favorite Tunes**: Music can elevate dopamine levels almost instantly. Create a playlist that energizes and uplifts.\n  \n- **Move Your Body**: Short bursts of exercise, like jumping jacks or a brisk walk, can boost dopamine production.\n\n- **Snack Smart**: Opt for protein-rich snacks like nuts or yogurt. They contain amino acids crucial for dopamine synthesis.\n\n## The Main Course: Sustainable Practices\n\nCultivate long-lasting dopamine habits with these sustainable practices:\n\n- **Set Achievable Goals**: Break tasks into smaller, manageable chunks. Each completed task provides a dopamine hit and builds momentum.\n\n- **Mindfulness Meditation**: Taking a few minutes to focus on your breath or a single point of interest can increase dopamine levels and improve concentration.\n\n- **Creative Expression**: Engaging in creative activities, whether it's drawing, writing, or crafting, can naturally increase dopamine.\n\n## The Desserts: Treat Yourself\n\nIndulge in these activities that feel luxurious but come with added dopamine benefits:\n\n- **Nature's Embrace**: Spend time outdoors. Natural light and greenery can enhance mood and increase dopamin",
+      "cta1": "Ready to get SOR7ED? Text MENU to receive your free Dopamine Menu template.",
+      "date": "2026-01-15T20:43:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "MENU"
+    },
+    {
+      "id": "2e90d601-4acc-816a-b2f7-f6d70d11a7a2",
+      "title": "The impulse tax audit",
+      "branch": "",
+      "slug": "impulse-tax-audit-adhd-finances",
+      "trigger": "MONEY",
+      "excerpt": "# Post: The \"Impulse Tax\" Audit (Wealth Branch)\n\n## Notion Properties\n- **Title:** THE IMPULSE TAX AUDIT\n- **Slug:** `impulse-tax`\n- **Branch:** Wealt...",
+      "body": "# Post: The \"Impulse Tax\" Audit (Wealth Branch)\n\n## Notion Properties\n- **Title:** THE IMPULSE TAX AUDIT\n- **Slug:** `impulse-tax`\n- **Branch:** Wealth\n- **Summary:** ADHD costs money. Stop shaming yourself for the \"ADHD Tax\" and start automating your defense against it.\n\n---\n\n## Body Content (Copy into Notion)\n\n> **TL;DR:** Willpower won't save your bank account. Friction will.\n\n## The Problem\nYou check your bank account and see $400 gone on subscriptions you forgot to cancel, late fees, and random Amazon purchases at 2 AM. This is the **\"ADHD Tax\"**.\n\nFinancial gurus say \"Make a budget.\" But budgets require executive function—tracking every penny, every day. That is a recipe for shame and failure.\n\n## The Shift\n**Automation > Discipline.**\nWe don't try to be \"better\" with money. We build a system that protects our money from our future impulsive selves.\n\n## The Protocol\nThis audit stops the bleeding in one afternoon.\n\n1.  **The Subscription Guillotine**:\n    *   Open your bank app. Search \"Amazon\", \"Apple\", \"Google\".\n    *   Cancel *everything* you haven't used in 30 days. Be ruthless. You can always sign up again later.\n2.  **The \"Cooling Off\" Cart**:\n    *   Rule: Never buy anything >$50 immediately.\n    *   Add it to the cart, then close the tab. If you still want it in 48 hours, buy it. (90% of the time, you won't).\n3.  **The \"Oh Sh*t\" Fund**:\n    *   Auto-transfer $50/week to a separate account named \"Mistakes\".\n    *   When you inevitably get a parking ticket, pay it from this fund. No guilt. It's prepaid.\n\n---\n\n### Get the Template\n**Grab the Finance Automation Checklist.**\nA simple setup guide to idiot-proof your accounts.\n\n> **Text \"MONEY\" to +44 7360 537264** to get the free link.\n",
+      "cta1": "Bleeding money from impulse purchases and forgotten subscriptions? Text MONEY to get your free Finance Automation Checklist with subscription guillotine and cooling-off protocols.",
+      "date": "2026-01-15T20:45:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "MONEY"
+    },
+    {
+      "id": "2e90d601-4acc-8181-b64c-d29a98fc5b07",
+      "title": "The \"good enough\" manifesto",
+      "branch": "Growth",
+      "slug": "good-enough-manifesto",
+      "trigger": "GOODENOUGH",
+      "excerpt": "# Post: The \"Good Enough\" Manifesto (Growth Branch)\n\n## Notion Properties\n- **Title:** THE \"GOOD ENOUGH\" MANIFESTO\n- **Slug:** `good-enough-manifesto`...",
+      "body": "# Post: The \"Good Enough\" Manifesto (Growth Branch)\n\n## Notion Properties\n- **Title:** THE \"GOOD ENOUGH\" MANIFESTO\n- **Slug:** `good-enough-manifesto`\n- **Branch:** Growth\n- **Summary:** Perfectionism is just procrastination in a fancy suit. Learn to ship B-minus work and change your life.\n\n---\n\n## Body Content (Copy into Notion)\n\n> **TL;DR:** Anything worth doing is worth doing poorly.\n\n## The Problem\nYou have incredible taste. You know what \"great\" looks like. So when you try to do something and it isn't perfect immediately, you stop. You have a graveyard of half-finished projects.\n\n## The Shift\n**Quantity leads to Quality.**\nThe pottery class parable: Group A was graded on *quantity* (make 50 pots). Group B was graded on *quality* (make one perfect pot).\nGroup A made the best pots. They iterated. Group B analyzed until they paralyzed.\n\n## The Protocol\nThe B-Minus Standard:\n\n1.  **Set the Bar Lower**:\n    *   Aim for a \"C+\". Seriously.\n    *   Once you hit C+, you can decide if it's worth polishing to a B.\n2.  **The \"Shitty First Draft\" (SFD)**:\n    *   Give yourself permission to write garbage. You can't edit a blank page.\n3.  **Ship It Before It's Ready**:\n    *   Send the email. Post the art. Launch the site.\n    *   Feedback is better than fantasy.\n\n---\n\n### Get the Manifesto\n**Download the \"Recovering Perfectionist\" worksheet.**\nExercises to break the paralysis loop.\n\n> **Text \"GROWTH\" to +44 7360 537264** to get the free link.\n",
+      "cta1": "Stuck in perfectionism paralysis? Text GOODENOUGH to get your free Recovering Perfectionist Toolkit with permission slips, sprint timers, and anti-perfectionist mantras.",
+      "date": "2026-01-15T20:45:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care",
+        "Executive Function",
+        "Growth"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "GOODENOUGH"
+    },
+    {
+      "id": "2e90d601-4acc-818e-b528-c43c5470470e",
+      "title": "The impulse tax audit",
+      "branch": "",
+      "slug": "impulse-tax-adhd-impulsivity-costs",
+      "trigger": "IMPULSIVITY",
+      "excerpt": "Are you constantly wrestling with impulse decisions that drain your time, energy, and finances? If you find yourself nodding, you're not alone. Welcom...",
+      "body": "Are you constantly wrestling with impulse decisions that drain your time, energy, and finances? If you find yourself nodding, you're not alone. Welcome to the world of the \"Impulse Tax,\" a hidden cost of impulsivity that often goes unnoticed but can have significant impacts on our lives.\n\n## What is the Impulse Tax?\n\nThe Impulse Tax is the unplanned and often unnecessary cost—financial, emotional, or temporal—incurred from impulsive decisions. For those of us navigating the world with ADHD or Autism, impulsivity can be a familiar companion. Recognizing this hidden tax is the first step towards minimizing its impact.\n\n### The Financial Cost\n\n- **Unplanned Purchases**: Those midnight online shopping sprees or quick buys at checkout can add up.\n- **Subscription Traps**: Forgetting to cancel free trials or signing up for services on a whim.\n- **Missed Discounts**: Buying without checking for discounts or comparing prices.\n\n### The Emotional Toll\n\n- **Regret and Anxiety**: The aftermath of an impulsive decision can trigger regret and anxiety, impacting mental well-being.\n- **Decision Fatigue**: Constantly making impulsive choices can exhaust your decision-making capacity, leaving you overwhelmed.\n\n### The Impact on Time\n\n- **Distraction**: Impulse decisions can lead to distractions, siphoning away precious time from priorities.\n- **Opportunity Cost**: Time spent on impulsive activities is time not spent on meaningful engagements or responsibilities.\n\n## Why Does This Happen?\n\nFor neurodivergent individuals, impulsivity can stem from various factors:\n\n- **Sensory Overload**: Overwhelming environments may lead to impulsive decisions as a coping mechanism.\n- **Dopamine Seeking**: The ADHD brain often craves dopamine, with impulsivity offering a quick but fleeting hit.\n- **Executive Functioning Challenges**: Difficulties with planning and prioritizing can make impulsivity more prevalent.\n\n## Strategies to Mitigate the Impulse Tax\n\n- **Pause and Reflect**: Before making a pur",
+      "cta1": "Watching your resources drain from impulsive decisions? Text IMPULSIVITY to get your free Impulse Audit Tracker with trigger mapping and decision pause protocols.",
+      "date": "2026-01-15T20:43:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "IMPULSIVITY"
+    },
+    {
+      "id": "2e90d601-4acc-8197-ac5a-f5f7e2387f58",
+      "title": "The \"low spoons\" meal prep",
+      "branch": "",
+      "slug": "low-spoons-meal-prep-no-cook",
+      "trigger": "FOOD",
+      "excerpt": "# Post: The \"Low Spoons\" Meal Prep (Body Branch)\n\n## Notion Properties\n- **Title:** THE \"LOW SPOONS\" MEAL PREP\n- **Slug:** `low-spoons-meal-prep`\n- **...",
+      "body": "# Post: The \"Low Spoons\" Meal Prep (Body Branch)\n\n## Notion Properties\n- **Title:** THE \"LOW SPOONS\" MEAL PREP\n- **Slug:** `low-spoons-meal-prep`\n- **Branch:** Body\n- **Summary:** Nutrition advice usually assumes you have executive function. This guide assumes you have none.\n\n---\n\n## Body Content (Copy into Notion)\n\n> **TL;DR:** If a meal takes >10 mins to prep, you won't eat it. Optimize for \"assembly,\" not \"cooking.\"\n\n## The Problem\nYou buy fresh veggies with high hopes. Three days later, they are rotting slime in your drawer, and you are eating cereal for dinner because the idea of chopping an onion makes you want to cry.\n\n## The Shift\n**Fed is best.**\nForget \"Pinterest Perfect\" meals. We aren't chefs; we are fueling a biological machine that is currently running on fumes.\n\n## The Protocol\nThe \"No-Cook\" Assembly method:\n\n1.  **The \"Adult Lunchable\"**:\n    *   Salami/Turkey + Cheese Cubes + Grapes + Crackers.\n    *   throw into a container. Done.\n2.  **Pre-Chopped Everything**:\n    *   Yes, it costs $1 more. Pay the \"ADHD Tax\" up front so you don't pay the \"Rotting Tax\" later.\n    *   Buy bag salad, pre-cut chicken strips, frozen veggies.\n3.  **The \"Safe Food\" Stash**:\n    *   Keep 3 meals that require ONE step (e.g., microwave ramen with an egg, protein shake) for emergencies.\n\n---\n\n### Get the Shopping List\n**Download my \"Executive Dysfunction Grocery List.\"**\nItems that last forever and require zero prep.\n\n> **Text \"FOOD\" to +44 7360 537264** to get the free link.\n",
+      "cta1": "Eating cereal for dinner again because cooking feels impossible? Text FOOD to get your free Executive Dysfunction Grocery List with zero-prep meals and safe food stash.",
+      "date": "2026-01-15T20:45:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FOOD"
+    },
+    {
+      "id": "2e90d601-4acc-81a5-8be7-e2e22bad8a0c",
+      "title": "Masking vs. polishing",
+      "branch": "",
+      "slug": "masking-vs-polishing-professional",
+      "trigger": "WORK",
+      "excerpt": "# Post: Masking vs. Polishing (Impression Branch)\n\n## Notion Properties\n- **Title:** MASKING VS. POLISHING\n- **Slug:** `masking-vs-polishing`\n- **Bran...",
+      "body": "# Post: Masking vs. Polishing (Impression Branch)\n\n## Notion Properties\n- **Title:** MASKING VS. POLISHING\n- **Slug:** `masking-vs-polishing`\n- **Branch:** Impression\n- **Summary:** How to look professional without destroying your soul. The difference between hiding who you are and presenting your best self.\n\n---\n\n## Body Content (Copy into Notion)\n\n> **TL;DR:** Professionalism is a performance, but you get to choose the costume. Don't play a character you hate.\n\n## The Problem\n\"Masking\" is suppressing your natural traits (stimming, directness) to fit in. It burns massive amounts of energy. By 5 PM, you are a shell of a person.\n\n## The Shift\n**Polishing, not Hiding.**\n\"Polishing\" is translating your natural traits into \"corporate speak\" without suppressing them.\n\n## The Protocol\nTranslation Guide:\n\n1.  **Trait: You talk too much / ramble.**\n    *   *Old Way (Masking):* Stay silent and anxious.\n    *   *New Way (Polishing):* \"I'm thinking out loud here to explore options. Let me summarize...\"\n2.  **Trait: You need to fidget to focus.**\n    *   *Old Way (Masking):* Sit on your hands.\n    *   *New Way (Polishing):* Use a subtle fidget ring or doodle. \"I listen better when my hands are busy.\"\n3.  **Trait: You miss social cues.**\n    *   *Old Way (Masking):* Obsessively analyze every glance.\n    *   *New Way (Polishing):* Radical candor. \"I sometimes miss subtext. Can you be direct with me? I appreciate it.\"\n\n---\n\n### Get the Translation Guide\n**Download my \"Corporate Translation Dictionary.\"**\nHow to phrase \"I forgot\" and \"I'm overwhelmed\" professionally.\n\n> **Text \"WORK\" to +44 7360 537264** to get the free link.\n",
+      "cta1": "Exhausted from pretending to be someone else at work? Text WORK to get your free Corporate Translation Dictionary with professional phrasing for ADHD/autistic traits.",
+      "date": "2026-01-15T20:45:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "WORK"
+    },
+    {
+      "id": "2ea0d601-4acc-8162-93e5-d547051f9a78",
+      "title": "Social fatigue scripts: The architectural protocol",
+      "branch": "",
+      "slug": "social-fatigue-scripts-protocol",
+      "trigger": "SOCIAL",
+      "excerpt": "High-Status Social Preservation Scripts...",
+      "body": "High-Status Social Preservation Scripts...",
+      "cta1": "Socially exhausted but don't want to ghost everyone? Text SOCIAL to get your free Social Battery Scripts with low-energy invites, slow-reply templates, and graceful exits.",
+      "date": "2026-01-16T09:59:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "SOCIAL"
+    },
+    {
+      "id": "2ed849f3-8cdf-4234-b537-6736c7b8eccb",
+      "title": "Eating disorders and neurodivergence: The control you can't let go",
+      "branch": "Body",
+      "slug": "eating-disorders-neurodivergence",
+      "trigger": "EATINGDISORDER",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Struggling with disordered eating and don't know where to start? Text EATINGDISORDER for a harm-reduction protocol and specialist resources.",
+      "date": "2026-02-05T02:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care",
+        "Sensory"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "EATINGDISORDER"
+    },
+    {
+      "id": "2f20d601-4acc-805c-be11-cb39d733b05b",
+      "title": "ADHD hyperfocus",
+      "branch": "",
+      "slug": "adhd-hyperfocus-superpower-trap",
+      "trigger": "HYPERFOCUS",
+      "excerpt": "ADHD hyperfocus is a state of intense, exclusive attention where the brain becomes completely absorbed in a task, effectively tuning out the surroundi...",
+      "body": "ADHD hyperfocus is a state of intense, exclusive attention where the brain becomes completely absorbed in a task, effectively tuning out the surrounding world.\nWhile often associated with productivity, it is distinct from simple \"focus\" or a \"flow state\" and can be a double-edged sword for those with ADHD. It can allow for immense progress on difficult tasks, but it may also lead to neglecting essential responsibilities like eating, sleeping, or attending appointments.\nHyperfocus vs. Flow State\nAlthough these two states may feel similar, the sources highlight critical differences in awareness and intensity:\n• Flow State: Described by psychologist Mihaly Csikszentmihalyi, this is a state of \"optimal experience\" where one is \"moving and grooving\". During flow, you remain aware of your surroundings and yourself. For example, you might dance while cleaning the kitchen; you are engaged, but not oblivious.\n• Hyperfocus: This is a more extreme version of focus where the outside world essentially ceases to exist. A person in hyperfocus might work for hours without realising they are hungry, thirsty, or that people are speaking to them. While a person in flow knows when to stop, a hyperfocused person often cannot stop until the task is done to an extreme degree.\nThe Biological Cost\nSustaining hyperfocus requires significant energy. When the brain thinks this intensely for long periods, it depletes its reserves of glucose (brain fuel).\nOnce glucose is depleted, the body releases adrenaline and cortisol to keep going. This reliance on stress hormones means that when the person finally stops, they are often running on fumes, leading to irritability and \"crash\" symptoms like extreme hunger or exhaustion.\nStrategies for Managing Hyperfocus\nBecause hyperfocus relies on a surge of dopamine, stopping can be physically and emotionally difficult. The brain resists shifting from a high-dopamine activity (like gaming) to a low-dopamine one (like chores).\nFor Adults\n• External Cues: Set timers or ask a friend to call you at a specific time to break the trance.\n• Task Chunking: Break daily priorities into smaller chunks. This allows for a sense of accomplishment without requiring hours of unbroken focus.\n• Self-Talk: Verbalise your transition. Saying aloud, \"I'm going to stop writing, get an iced tea, and then begin again,\" helps nurture self-awareness.\n• Communication: Inform family and colleagues about how you work so they do not interrupt you unnecessarily, which can cause irritability.\nFor Children\n• Bridge Activities: It is difficult for a child to switch immediately from a high-interest task (like video games) to homework. Create a transition list of \"bridge\" activities that are moderately fun but not immersive, such as listening to music or helping with cooking.\n• Firm Limits: Set strict time limits for high-dopamine activities.\n• Metacognition: Help children develop the vocabulary to narrate their own transitions, such as saying, \"I'm leaving the game to play cards\".\nUltimately, the goal is not to eliminate hyperfocus—which can be a \"superpower\" if managed—but to harness it effectively by setting limits and scheduling screen-free breaks to recharge.",
+      "cta1": "Lost in the tunnel and forgot to eat/sleep/exist? Text HYPERFOCUS to get your free Hyperfocus Survival Kit with enter rituals, exit protocols, recovery checklists, and partner communication scripts.",
+      "date": "2026-01-24T20:43:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "HYPERFOCUS"
+    },
+    {
+      "id": "2f90d601-4acc-8199-8340-c48aca5ae120",
+      "title": "\"I use sex as self-harm\" — The pattern I keep seeing",
+      "branch": "Mind",
+      "slug": "i-use-sex-as-self-harm",
+      "trigger": "INTENSITY",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Recognize this pattern and want safer alternatives? Text INTENSITY to get your free Harm Reduction Intensity Menu with safer ways to meet that need.",
+      "date": "2026-01-31T09:39:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "INTENSITY"
+    },
+    {
+      "id": "2fe0d601-4acc-8091-b3ba-c343790e55dd",
+      "title": "Untitled",
+      "branch": "",
+      "slug": "untitled",
+      "trigger": "",
+      "excerpt": "",
+      "body": "",
+      "cta1": "",
+      "date": "2026-02-05T01:41:00.000Z",
+      "cover": "",
+      "tags": [],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": ""
+    },
+    {
+      "id": "30e4fe10-5bd8-47fb-a72d-a9bbf302585c",
+      "title": "Self-harm escalation: When coping becomes crisis",
+      "branch": "Body",
+      "slug": "self-harm-escalation-crisis",
+      "trigger": "SELFHARMCRISIS",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Scared you'll seriously hurt yourself? Text SELFHARMCRISIS for immediate de-escalation scripts and crisis resources.",
+      "date": "2026-02-05T02:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "SELFHARMCRISIS"
+    },
+    {
+      "id": "3861ee15-3f87-45fa-9189-8d821580d138",
+      "title": "The debt spiral: ADHD impulse spending, shame, and the way out",
+      "branch": "Wealth",
+      "slug": "adhd-debt-spiral",
+      "trigger": "DEBT",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Drowning in debt and can't face the numbers? Text DEBT for a shame-free money triage protocol and first-step action plan.",
+      "date": "2026-02-05T02:17:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "DEBT"
+    },
+    {
+      "id": "3dc6e330-7771-4409-adcc-359fb0b4bd43",
+      "title": "The career penalty of being \"almost thriving\" — WINS brief",
+      "branch": "Growth",
+      "slug": "career-penalty-almost-thriving-adhd",
+      "trigger": "CAREER",
+      "excerpt": "## The \"High Potential\" Trap\n\"You have so much potential.\"\nThis is the curse of the high-masking ADHDer. You are brilliant in the meeting, but you for...",
+      "body": "## The \"High Potential\" Trap\n\"You have so much potential.\"\nThis is the curse of the high-masking ADHDer. You are brilliant in the meeting, but you forget to submit the expense report.\nYou deliver the project, but you miss the deadline by 2 hours.\nYou are \"Almost Thriving.\" And it stops you from getting promoted.\n\n## The Trust Gap\nConsistency builds trust. Brilliance does not.\nYour boss loves your ideas but fears your execution. This is the **Trust Gap**.\nTo close it, you don't need to be less brilliant. You need rails for the boring stuff.\n\n## Outsourcing the \"Bottom 20%\"\nThe bottom 20% of your job (admin, scheduling, filing) causes 80% of your reputation damage.\nGet SOR7ED to handle the bottom 20%.\nYour boss doesn't care *who* formatted the report. They just care that it's done.",
+      "cta1": "Stuck at 'Almost Thriving' and can't break through? Text CAREER to get your free ADHD Career Toolkit with bottom 20% audit, trust-building plan, and accommodation scripts.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Growth"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CAREER"
+    },
+    {
+      "id": "3f226816-c411-4af8-a88a-97dcd95a1265",
+      "title": "Dyslexia, without the myths",
+      "branch": "Mind",
+      "slug": "dyslexia-without-myths-processing-difference",
+      "trigger": "DYSLEXIA",
+      "excerpt": "## It's Not Just Reading Backwards\nDyslexia is a processing difference. It affects working memory, processing speed, and organization.\n- You might mix...",
+      "body": "## It's Not Just Reading Backwards\nDyslexia is a processing difference. It affects working memory, processing speed, and organization.\n- You might mix up dates.\n- You might struggle with verbal instructions.\n- You might have \"word retrieval\" issues (tip of the tongue syndrome).\n\n## The Intelligence Paradox\nYou can be a genius and still not be able to spell \"necessary.\"\nSociety equates spelling with intelligence. That is a lie.\nSpellcheck exists. Grammarly exists. AI exists.\nWe live in the golden age of Dyslexic Accommodation.\n\n## Own the Tools\nDon't hide your tools.\n\"I use a screen reader to process reports faster.\" -> This sounds efficient, not disabled.\n\"I dictate my emails.\" -> This sounds executive.\nReframing your accommodation as \"productivity optimization\" changes how people see you.",
+      "cta1": "Struggling with walls of text and don't know where to start? Text DYSLEXIA to get your free Dyslexia Tech Stack with text-to-speech apps, dyslexia-friendly fonts, and AI writing tools.",
+      "date": "2025-09-08T11:12:00.000Z",
+      "cover": "/content-images/blog-cover-3f226816-c411-4af8-a88a-97dcd95a1265.jpg",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "DYSLEXIA"
+    },
+    {
+      "id": "3fcb88d3-9617-438e-b8ee-9a7806764ede",
+      "title": "Hyperfocus, harnessed",
+      "branch": "Mind",
+      "slug": "hyperfocus-superpower-and-trap",
+      "trigger": "HYPERFOCUS",
+      "excerpt": "## The Superpower and the Curse\nHyperfocus is a flow state on steroids.\n- **Good**: You write a novel in 3 days.\n- **Bad**: You forget to pick up your...",
+      "body": "## The Superpower and the Curse\nHyperfocus is a flow state on steroids.\n- **Good**: You write a novel in 3 days.\n- **Bad**: You forget to pick up your kids from school.\nThe problem isn't the focus; it's the exit strategy.\n\n## Entering the Tunnel\nWe can't always command hyperfocus, but we can invite it.\n- **Rituals**: Same coffee, same playlist, same chair.\n- **Novelty**: A new notebook or a new problem.\n\n## Exiting the Tunnel\nThis is where we crash.\nYou need an external interrupt.\n- **The \"Smart\" Alarm**: One that requires math to turn off.\n- **The Human Hook**: Ask a friend to call you at 5 PM. \"Don't let me hang up until I stand up.\"",
+      "cta1": "Lost in the tunnel and forgot to eat/sleep/exist? Text HYPERFOCUS to get your free Hyperfocus Survival Kit with enter rituals, exit protocols, recovery checklists, and partner communication scripts.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Special Interests",
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "HYPERFOCUS"
+    },
+    {
+      "id": "4f21cba9-24a4-4761-9884-83efa205a192",
+      "title": "Self-harm urges, first aid: A pocket plan for spiky moments",
+      "branch": "Body",
+      "slug": "self-harm-urges-regulation-safer-alternatives",
+      "trigger": "REGULATE",
+      "excerpt": "## The Sensory Overload Link\n*Note: We are not a crisis service. If you are in danger, please call emergency services.*\nFor many neurodivergent people...",
+      "body": "## The Sensory Overload Link\n*Note: We are not a crisis service. If you are in danger, please call emergency services.*\nFor many neurodivergent people, self-harm urges aren't about \"ending it\"—they are about **regulation**.\nThe brain is screaming with noise/pain/emotion, and physical pain acts as a \"hard reset\" button. It grounds you.\n\n## Safer Regulation Tools\nWe need to achieve that \"hard reset\" sensation without damage.\n1. **Ice Dive**: Plunge your face into a bowl of ice water. (Triggers the Mammalian Dive Reflex—slows heart rate immediately).\n2. **Sour Shock**: Bite into a whole lemon or eat Warheads candy. The sensory shock snaps the brain out of the loop.\n3. **Intense Pressure**: Squeeze a stress ball to failure point or do a wall sit until your legs shake.\n\n## Replacing the Ritual\nThe urge is a signal: \"I am overwhelmed.\"\nAcknowledge the signal. Change the input.",
+      "cta1": "If you're struggling but safe and want alternatives, Text REGULATE to get your free Sensory Regulation Toolkit with safer alternatives list, 3-step pocket plan, and safety plan template.",
+      "date": "2025-09-21T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care",
+        "Sensory"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "REGULATE"
+    },
+    {
+      "id": "54d14c76-84af-4d1c-9c85-09be6e44ab79",
+      "title": "Sex after shutdown: How to reconnect without faking it",
+      "branch": "Connection",
+      "slug": "sex-after-shutdown-reconnect-intimacy",
+      "trigger": "SHUTDOWN",
+      "excerpt": "## The \"Touched Out\" Wall\nYou've spent all day masking. The tags on your shirt burned. The lights were loud.\nYou come home, and your partner wants a h...",
+      "body": "## The \"Touched Out\" Wall\nYou've spent all day masking. The tags on your shirt burned. The lights were loud.\nYou come home, and your partner wants a hug (or more).\nYour body recoils. Not because you don't love them. But because your skin feels like it's sunburned from sensory overload.\n\n## Re-Entry Protocol\nYou cannot go from Shutdown to Sex. You need a bridge.\n1. **Parallel Play**: Sit in the same room, doing different things, without talking. Re-establish presence without demand.\n2. **Deep Pressure**: A tight hug (if safe) or a weighted blanket can calm the nervous system faster than light touch (which can be ticklish/irritating).\n3. **Low Demand**: \"I can't do sex tonight, but I can hold hands.\"\n\n## Honesty is Sexy\n\"My skin is spicy right now\" is better than rejecting them silently.\nIt explains the recoil so they don't take it personally.",
+      "cta1": "Touched out every night and can't explain it to your partner? Text SHUTDOWN to get your free Shutdown Recovery & Intimacy Guide with re-entry protocol, communication scripts, and low-demand intimacy menu.",
+      "date": "2025-09-21T21:28:00.000Z",
+      "cover": "",
+      "tags": [
+        "Sensory",
+        "Relationships",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "SHUTDOWN"
+    },
+    {
+      "id": "69897966-4ba8-4073-b62e-dab1cb6c6cc9",
+      "title": "When you're the problem: Recognizing your own harmful patterns in relationships",
+      "branch": "Connection",
+      "slug": "when-youre-the-harmful-one",
+      "trigger": "HARMFUL",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Recognizing a pattern you can't break alone? Text REPAIR for relationship harm-reduction scripts and accountability structures.",
+      "date": "2026-02-05T02:17:00.000Z",
+      "cover": "",
+      "tags": [
+        "Relationships",
+        "RSD",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "HARMFUL"
+    },
+    {
+      "id": "6a5adb8e-7d16-4a48-9b41-3a197880a356",
+      "title": "Masking in therapy: How to get real help when you're performing 'fine'",
+      "branch": "Mind",
+      "slug": "masking-in-therapy-get-real-help",
+      "trigger": "THERAPY",
+      "excerpt": "## The \"Good Patient\" Syndrome\nWe go to therapy to get help. But then we sit in the chair, and the Mask takes over.\n\"How are you?\" -> \"I'm fine!\" (Lie...",
+      "body": "## The \"Good Patient\" Syndrome\nWe go to therapy to get help. But then we sit in the chair, and the Mask takes over.\n\"How are you?\" -> \"I'm fine!\" (Lie).\nWe make jokes. We perform \"Self-Awareness.\" We entertain the therapist.\nThe session ends. The therapist thinks we are doing great. We go home and collapse.\n\n## Breaking the Character\nTherapy only works if you drop the mask. But dropping it is terrifying.\n- **Write it Down**: Hand your therapist a note at the start: \"I compulsively lie about being okay. Please don't believe me.\"\n- **Use Data**: Show them your screen time or your unwashed dishes photos. The data doesn't lie/mask.\n\n## The Goal is Ugly\nA good therapy session should probably feel messy, not polished.\nIf you are \"winning\" therapy, you aren't doing therapy.",
+      "cta1": "Scared to unmask in therapy and need help preparing? Text THERAPY to get your free Therapy Unmasking Toolkit with prep worksheets, alert scripts, and therapist communication templates.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Masking",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "THERAPY"
+    },
+    {
+      "id": "6d6fbbcb-53eb-486e-ac85-5df36859f775",
+      "title": "Neurodivergent sex + porn: Honesty, boundaries, and when to tell",
+      "branch": "Connection",
+      "slug": "neurodivergent-sex-porn-regulation",
+      "trigger": "REGULATION",
+      "excerpt": "## The Dopamine Hunt\nFor ADHD brains, porn provides high-speed, high-novelty dopamine. It’s accessible, controlled, and requires no social masking.\nTh...",
+      "body": "## The Dopamine Hunt\nFor ADHD brains, porn provides high-speed, high-novelty dopamine. It’s accessible, controlled, and requires no social masking.\nThis can become a \"loop\"—a default self-soothing mechanism that replaces partnered intimacy because partnered sex requires *effort* and *sensory regulation*.\n\n## Shame vs. Function\nThe shame cycle (\"I am a pervert/addict\") makes it worse.\nLook at the function: What is it providing?\n- Stress relief?\n- Boredom relief?\n- Sensory regulation?\nOnce you identify the *need*, you can address it without just \"white knuckling\" abstinence.\n\n## Honest Conversations\nIf it's affecting your relationship, the conversation isn't \"I will stop forever.\"\nIt's \"I use this to regulate my brain. I want to connect with you, but I need help bridging the gap.\"",
+      "cta1": "Stuck in compulsive patterns and drowning in shame? Text REGULATION to get your free Compulsive Behavior Interruption Plan with function-mapping, regulation strategies, and communication scripts.",
+      "date": "2025-09-21T21:29:00.000Z",
+      "cover": "",
+      "tags": [
+        "Relationships",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "REGULATION"
+    },
+    {
+      "id": "6f98cfa8-6262-4f18-b666-ccca47527c43",
+      "title": "Therapy briefing prep",
+      "branch": "Mind",
+      "slug": "masking-in-therapy-performing-fine",
+      "trigger": "PRPBRIEF",
+      "excerpt": "## Don't Waste the First 20 Minutes\nTherapy is expensive (£60-£150/hour).\nSpending the first 20 minutes rambling about the traffic or \"getting warmed ...",
+      "body": "## Don't Waste the First 20 Minutes\nTherapy is expensive (£60-£150/hour).\nSpending the first 20 minutes rambling about the traffic or \"getting warmed up\" is burning cash.\nADHD brains often struggle to prioritize what to talk about until the session is over.\n\n## The Briefing Document\nTreat your therapist like a consultant. Send a brief *before* the session (or bring it).\n- **The Spike**: What was the worst moment of the week?\n- **The Win**: What actually worked?\n- **The Theme**: \"I want to talk about my mother today. If I change the subject, bring me back.\"\n\n## The \"Doorknob Confession\"\nWe often say the most important thing as we are holding the doorknob to leave.\nWrite that thing down *first*. Start with the doorknob.",
+      "cta1": "Want to maximize your ROI?\nText PREP to receive your free Therapy Agenda Template. A 3-minute form to fill out before every session.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "PRPBRIEF"
+    },
+    {
+      "id": "7b7946c3-6a31-4323-a9a8-7fc6bc5b5dcc",
+      "title": "Relapse isn't failure: The recovery spiral and how to get back on",
+      "branch": "Body",
+      "slug": "relapse-recovery-addiction-protocol",
+      "trigger": "RELAPSE",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Relapsed and spiraling in shame? Text RELAPSE for a 24-hour re-stabilization protocol and shame-interruption script.",
+      "date": "2026-02-05T02:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "RELAPSE"
+    },
+    {
+      "id": "7cf3196d-e0ac-4d04-b539-5de47e0e77bd",
+      "title": "Friendship scripts: Navigating unspoken social contracts as an adult",
+      "branch": "Connection",
+      "slug": "friendship-scripts-why-you-ghost-people-you-love",
+      "trigger": "FRIEND",
+      "excerpt": "# Friendship Scripts: Why You Ghost People You Actually Love\n> TL;DR: ADHD object permanence + social anxiety = accidentally destroying friendships. H...",
+      "body": "# Friendship Scripts: Why You Ghost People You Actually Love\n> TL;DR: ADHD object permanence + social anxiety = accidentally destroying friendships. Here are the scripts to fix it.\n## The Friendship Graveyard\nYou have a mental cemetery of dead friendships.\nNot because you had a fight. Not because you don't care.\nBecause you:\n- Forgot to text back\n- Canceled plans (again)\n- Disappeared for 6 months\n- Felt too guilty to reach out\n- Assumed they hate you now\nAnd now it's been SO long that texting feels impossible.\nYou've accidentally ghosted everyone you love.\n## The Object Permanence Problem\nADHD brains have a fun feature: out of sight, out of mind.\nNeurotypical people think about their friends even when they're not around.\nYou? If you're not physically looking at someone, they cease to exist in your brain.\nNot because you don't care. Because your brain doesn't hold onto people when they're not present.\nThen three months pass and you realize: \"Oh shit, Sarah exists. I haven't texted her since July.\"\n## Why Your Friends Are Hurt\nHere's what THEY experience:\n- They text you: No response (for weeks)\n- They invite you: You cancel last minute (again)\n- They share good news: You forget to congratulate them\n- They need support: You're MIA\nFrom their perspective, you:\n- Don't care about them\n- Don't value the friendship\n- Are flaky and unreliable\n- Prioritize other people over them\nBut from YOUR perspective:\n- You forgot they existed (object permanence)\n- You were overwhelmed (executive dysfunction)\n- You wanted to respond with a GOOD message (perfectionism paralysis)\n- You felt guilty so you avoided it (shame spiral)\nTwo different realities. Both true.\n## The Shame Spiral That Makes It Worse\nHere's how it escalates:\n1. Friend texts you\n2. You mean to respond (you really do)\n3. You get distracted\n4. 3 days pass\n5. Now you feel guilty\n6. \"I should write a good response\"\n7. You don't have energy for a good response\n8. 2 weeks pass\n9. Now you feel REALLY guilty\n10. \"I'm the worst friend ever\"\n11. Shame paralyzes you\n12. 3 months pass\n13. Friendship is dead\nAll because you forgot to text back on day 1.\n## The \"I'll Respond Properly\" Trap\nYour friend sends: \"Hey! How are you?\"\nYour brain: \"I should write a REAL response. Catch them up on everything. Make it thoughtful. Maybe tomorrow when I have energy.\"\nTomorrow never comes.\nWaiting for the \"right time\" kills friendships.\nA bad response is better than no response.\n\"Hey! Alive. Miss you.\" sent immediately beats the perfect message you never send.\n## Friendship Scripts: Just Copy/Paste These\n### The Resurrection Text (For When You've Ghosted)\nDon't write an apology essay. Don't make it about YOUR guilt.\nJust reconnect.\nOption 1: The Meme\n\"[Send funny meme] Saw this and thought of you. Hope you're thriving.\"\nOption 2: The Honest Hermit\n\"I fell into a hermit hole. Emerging now to say I love you. How are you?\"\nOption 3: The No-Explanation\n\"Thinking of you! Want to grab coffee this week?\"\nOption 4: The ADHD Disclaimer\n\"Hi! My brain forgot you existed for 4 months (object permanence is a bitch). I miss you. Tell me what I missed in your life?\"\nMost people will just be happy to hear from you.\n### The \"I'm Bad at This\" Disclosure\nSet expectations EARLY in friendships.\nScript:\n\"Hey, I love you, but I need to tell you: I'm terrible at texting. I will forget to respond. I will disappear for months. This is not personal. This is ADHD. Please don't take my silence as me not caring. I promise I do.\"\nReal friends will understand.\n### The Low-Effort Maintenance Text\nYou don't need deep conversations to maintain friendships.\nJust send SOMETHING:\n- \"👋\" (literally just a wave)\n- \"Thinking of you\"\n- \"Miss your face\"\n- \"How's life?\"\n- \"[Random meme]\"\n- \"Still alive?\"\nFive-second texts keep friendships alive.\n### The \"I Can't Today\" Boundary\nFriend wants to hang out. You're drained.\nDon't ghost. Just say no.\nScript:\n\"I would love to, but I'm totally drained today. Rain check? I promise I'm not avoiding you, just protecting my battery.\"\nHonest no > guilt-driven yes you'll cancel later.\n### The Last-Minute Cancel (Without Burning Bridges)\nYou RSVP'd yes. Now the day is here and you can't.\nScript:\n\"I'm so sorry, I need to cancel. My brain/body is not cooperating today. I feel terrible but I know showing up at 20% would be worse. Can we reschedule?\"\nONLY do this if you ACTUALLY reschedule. Chronic canceling without follow-through kills trust.\n### The \"Let's Be Realistic\" Friendship Agreement\nFor close friends, negotiate sustainable expectations.\nScript:\n\"I love you, but I need to be honest: I can't do weekly hangouts. I can't do daily texts. Can we do monthly coffee dates and occasional memes? That's my sustainable friendship capacity.\"\nThe right friends will take it.\n## The \"Whale Sounds\" Friendship Model\nFind friends who accept whale communication:\nSurface every 6 months. Make a sound. Dive back down.\nThese are your people:\n- You don't talk for months\n- You pick up exactly where you left off\n- No guilt. No apologies. Just love.\nSeek these friendships. They're sustainable.\n## What Good Friends Understand\nThe friends worth keeping will:\n- Not take your silence personally\n- Reach out multiple times (not give up after one ignored text)\n- Understand your brain works differently\n- Accept low-maintenance friendship\n- Be excited when you DO show up (not resentful that you didn't sooner)\nIf someone:\n- Guilt-trips you for being \"bad at friendship\"\n- Demands more than you can give\n- Takes your ADHD personally\n- Keeps score of who reached out last\nThey're not YOUR people. And that's okay.\n## The Friendship Triage System\n### Tier 1: The Keepers (Invest Here)\nPeople who:\n- Get your ADHD\n- Accept whale sounds communication\n- Don't guilt you\n- You actually WANT to see\nThese are rare. Protect them.\n### Tier 2: The Occasionals (Low Effort)\nPeople you like but can't sustain regular contact.\nSolution: Annual birthday text. That's it. Friendship maintained.\n### Tier 3: The Energy Vampires (Let Go)\nPeople who:\n- Demand more than you can give\n- Make you feel guilty\n- Don't respect your boundaries\n- Exhaust you\nIt's okay to let these friendships fade.\n## How to Make New Friends (When You're ND)\n### Find Your People\nSeek out:\n- ADHD/autism support groups\n- Hobby communities (special interests!)\n- Online spaces (less pressure than IRL)\n- Other ND people (they GET it)\nBirds of a feather. ADHD people understand ADHD friendship patterns.\n### Set Expectations Early\n\"I'm bad at texting\" disclosed upfront = no surprises later.\n### Parallel Play > Deep Conversation\nSometimes the best hangout is:\n- Sitting in the same room doing different things\n- No pressure to talk\n- Just... coexisting\nThis is valid friendship.\n## The Permission Slip You Need\nRepeat after me:\n\"I am not a bad friend. I have ADHD. These are different things.\"\nYou care. Your brain just makes it hard to show it consistently.\nThe friends who matter will understand.\nThe ones who don't? They weren't your people anyway.\n## How to Not Lose the Good Ones\n### System 1: The Alarm Reminder\nSet phone reminders:\n- \"Text Sarah\" (every 2 weeks)\n- \"Check in on Mike\" (monthly)\n- \"Plan something with [friend]\" (quarterly)\nYour brain won't remember. Your phone will.\n### System 2: The Batch Texting Day\nPick one day a month: Friendship Admin Day\nSend quick texts to everyone:\n- \"👋\"\n- \"Thinking of you\"\n- \"How's life?\"\nDone. Friendships maintained.\n### System 3: The Auto-Response\n\"I'm terrible at texting but I love you. If it's urgent, call me twice in a row and I'll pick up.\"\nManages expectations. Offers alternative.\n## When to Apologize (And When Not To)\nDO apologize for:\n- Canceling plans repeatedly without rescheduling\n- Missing important events (birthdays, emergencies)\n- Actual harm caused\nDON'T apologize for:\n- Taking time to respond\n- Not being available 24/7  \n- Having ADHD\n- Needing space\nYou're not broken. You're just different.\n---\n## READY TO GET SOR7ED?\nAccidentally ghosted everyone you love and don't know how to fix it?\nText FRIEND to get your free Reconnection Script Pack.\nIncludes:\n- Resurrection texts for dead friendships\n- \"I'm bad at this\" disclosure templates\n- Low-effort maintenance strategies\n- Boundary scripts for sustainable friendship",
+      "cta1": "Accidentally ghosted everyone you love? Text FRIEND to get your free Reconnection Script Pack with resurrection texts, low-effort maintenance strategies, and boundary scripts for sustainable friendship.",
+      "date": "2025-09-08T11:04:00.000Z",
+      "cover": "",
+      "tags": [
+        "Relationships",
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FRIEND"
+    },
+    {
+      "id": "8a0b2e99-5cf9-4177-a065-e12740eb2d3c",
+      "title": "Masking in intimacy: Why 'being easy' costs so much later (variant)",
+      "branch": "Connection",
+      "slug": "masking-intimacy-dating-neurodivergent",
+      "trigger": "UNMASK",
+      "excerpt": "## The Cool Girl / Chill Guy Trap\nWe mask to be loved. We pretend to be low-maintenance, easy-going, \"up for anything.\"\nIn the beginning, it works. We...",
+      "body": "## The Cool Girl / Chill Guy Trap\nWe mask to be loved. We pretend to be low-maintenance, easy-going, \"up for anything.\"\nIn the beginning, it works. We get the partner.\nBut we can't keep the mask up forever.\nSix months in, we burn out. \"Why are you suddenly so difficult?\"\n\n## The Bait and Switch\nWe unintentionally bait-and-switched them. We sold them a Neurotypical Partner, but delivered a Neurodivergent one.\nThe fallout is painful. They feel deceived; we feel rejected.\n\n## Unmasking Early\nIt is terrifying to show your needs early.\n\"I need sleep alone sometimes.\"\n\"I hate loud bars.\"\nBut if they don't like the Real You, you might as well find out now, before you move in together.",
+      "cta1": "Scared to unmask in your relationship? Text UNMASK to get your free Relationship Unmasking Guide with disclosure scripts, timeline guide, and accommodation templates.",
+      "date": "2025-12-25T21:25:00.000Z",
+      "cover": "",
+      "tags": [
+        "Masking",
+        "Relationships",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "UNMASK"
+    },
+    {
+      "id": "8e7a68fd-068e-4640-8ddd-7a88c58a1e49",
+      "title": "Gambling, crypto, and trading addiction: When the dopamine hit costs everything",
+      "branch": "Wealth",
+      "slug": "gambling-addiction-adhd-crypto",
+      "trigger": "GAMBLING",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Lost money gambling and can't stop? Text GAMBLING for an immediate account-freeze protocol and gambling harm-reduction plan.",
+      "date": "2026-02-05T02:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "GAMBLING"
+    },
+    {
+      "id": "9dfa3ce6-aabf-4c11-8870-1c00c9330ffa",
+      "title": "Porn, dopamine, and dissociation: When escape becomes a loop",
+      "branch": "Tech",
+      "slug": "porn-dopamine-dissociation-loop",
+      "trigger": "AGENCYPLAN",
+      "excerpt": "## The Numbing functionality\n(Duplicate topic handled in \"Neurodivergent Sex + Porn\" - This variant focuses deeply on the dissociation aspect).\nDissoc...",
+      "body": "## The Numbing functionality\n(Duplicate topic handled in \"Neurodivergent Sex + Porn\" - This variant focuses deeply on the dissociation aspect).\nDissociation is \"checking out.\" Porn is often used not for arousal, but for *checking out* of a painful reality.\nIt is a trance state.\n\n## Breaking the Trance\nYou cannot willpower your way out of a trance. You need a pattern interrupt.\n- **Physical**: Stand up.\n- **Environmental**: Change the lighting.\n- ** tech**: Use blockers not as a \"ban\" but as a \"speed bump\" to give your frontal lobe time to wake up.",
+      "cta1": "(Same CTA as Loop/Gaming)\nText WAKE to receive your free Grounding Techniques Audio. A 2-minute track to listen to when you feel the trance taking over.",
+      "date": "2025-09-21T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "AGENCYPLAN"
+    },
+    {
+      "id": "a8b317e5-8e11-463d-95ca-200974ca4212",
+      "title": "The bathroom is a disability adjustment",
+      "branch": "Impression",
+      "slug": "bathroom-anxiety-ibs-adjustment",
+      "trigger": "BATHROOMADJUSTMENT",
+      "excerpt": "# The Bathroom Is a Disability Adjustment: IBS, Anxiety, and the Right to Step Away\n\nSick of pretending? Make bathrooms, breaks, and exits explicit — ...",
+      "body": "# The Bathroom Is a Disability Adjustment: IBS, Anxiety, and the Right to Step Away\n\nSick of pretending? Make bathrooms, breaks, and exits explicit — it’s health and safety, not drama.\n\n## Introduction\nIn today's fast-paced world, The Bathroom Is a Disability Adjustment: IBS, Anxiety, and the Right to Step Away has become a crucial topic. Many people struggle with understanding the nuances of how this impacts their daily lives and decision-making processes.\n\n## Key Insights\n1. **Understanding the Core Issue**: The first step is acknowledging that this challenge exists.\n2. **Practical Strategies**: We can apply specific frameworks to manage this better.\n3. **Long-term Growth**: Consistency is key to mastering this area of life.\n\n## Conclusion\nBy implementing these strategies, you can transform how you approach this aspect of your life.\n",
+      "cta1": "Ready to get SOR7ED?\nText BATHROOMADJUSTMENT to receive your free template.\nNormalise exits, protect dignity, and keep meetings effective.",
+      "date": "2025-09-21T21:28:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "BATHROOMADJUSTMENT"
+    },
+    {
+      "id": "aae73817-7595-4d02-8772-2066dea4aaeb",
+      "title": "Rage cleaning, fight/flight, and repair: Turn blow-ups into bounce-backs",
+      "branch": "Body",
+      "slug": "rage-cleaning-adhd-anger-fuel",
+      "trigger": "CLEAN",
+      "excerpt": "## The Anger-Cleaning Cycle\nYou ignore the mess for 2 weeks.\nThen, one sock trips you, and you SNAP.\nYou scream. You throw things. You aggressively va...",
+      "body": "## The Anger-Cleaning Cycle\nYou ignore the mess for 2 weeks.\nThen, one sock trips you, and you SNAP.\nYou scream. You throw things. You aggressively vacuum the living room at 11 PM like a woman possessed.\nThis is **Rage Cleaning**. It is adrenaline-fueled productivity.\n\n## The Crash\nAfter the rage, comes the shame. \"Why am I like this?\"\nAnd the exhaustion.\nRage is a dirty fuel. It gets the house clean, but it pollutes your nervous system.\n\n## Cleaner Fuel\nWe need to find a fuel source that isn't cortisol.\n- **Body Doubling**: Clean with a friend (or SOR7ED) on the phone. Oxytocin fuel.\n- **Gamification**: Beat the timer. Dopamine fuel.\n- **Kindness**: \"I deserve a clean floor.\" Serotonin fuel.",
+      "cta1": "Tired of the rage → clean → crash cycle? Text CLEAN to get your free Rage-Free Cleaning Toolkit with body doubling guide, gamification scripts, and cleaner fuel alternatives.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "CLEAN"
+    },
+    {
+      "id": "b16cd4dd-1cd1-4d8d-903f-e93ba4d7e790",
+      "title": "Anger at parents, even now: Repair without re-traumatising yourself",
+      "branch": "Connection",
+      "slug": "anger-at-parents-repair-without-retraumatizing",
+      "trigger": "PARENTANGER",
+      "excerpt": "Anger at Parents, Even Now: How to Repair Without Re-Traumatizing YourselfTL;DR: You got diagnosed late. Now you're angry at your parents for not seei...",
+      "body": "Anger at Parents, Even Now: How to Repair Without Re-Traumatizing YourselfTL;DR: You got diagnosed late. Now you're angry at your parents for not seeing it sooner. Here's how to address it without World War 3.\nThe Diagnosis Rage Cycle\nYou get diagnosed with ADHD or autism at 25, 35, 45.\nSuddenly, your entire childhood makes sense.\nThe teachers who called you lazy? You had executive dysfunction.\nThe punishments for being \"defiant\"? You were having sensory meltdowns.\nThe \"if you'd just try harder\" speeches? Your brain literally couldn't produce the dopamine to start.\nAnd then the rage hits:\n\"Why didn't my parents SEE this? Why didn't they HELP me?\"\nThe Specific Anger\nThis isn't abstract. You have receipts.\n• Mom called you dramatic when you were having sensory overload\n• Dad punished you for forgetting things (memory issues are ADHD)\n• They took away your \"distractions\" (your coping mechanisms)\n• They compared you to siblings who \"just got things done\"\n• They told you that you were \"so smart\" but \"not applying yourself\"\n• They didn't believe you when you said you COULDN'T, not wouldn't\nYou spent your entire childhood thinking you were broken.\nAnd they... just let you believe it.\nThat's the anger. It's not irrational. It's grief mixed with betrayal.\nWhy They Probably Didn't Know\nHere's the hard part:\nThey probably didn't know. And here's why:\n1. They Were Taught the Same Lies\nYour parents grew up in a world that said:\n• ADHD = hyperactive boys who can't sit still\n• Autism = Rain Man\n• Mental health = weakness\n• Discipline = the solution to everything\nIf you were a girl, or \"high-functioning,\" or just masking really well, you were invisible.\nThey had no framework for understanding you.\n2. They Might Be Neurodivergent Too\nADHD and autism are genetic.\nYour parent who yelled at you for being disorganized? Probably also disorganized, but punished themselves into compliance.\nYour parent who was rigid about rules? Might have been autistic and using structure to survive.\nThey were undiagnosed, unmedicated, and trying to parent you with the same broken tools they were given.\n3. The System Failed Them Too\nTeachers didn't flag it. Doctors didn't test you. Society said you were fine.\nYour parents trusted the experts. The experts were wrong.\nThis doesn't erase your pain. But it contextualizes it.\nThe Impossible Position\nYou're stuck between two truths:\nTruth 1: Your parents failed you. You needed help and didn't get it.\nTruth 2: They probably did their best with the information they had.\nBoth can be true.\nYou're allowed to be angry. AND they might not be monsters.\nThis is grief, not a court case.\nWhat NOT to Do\nDon't: Send the Essay of Pain\nYou're tempted to write a 10-page letter explaining everything they did wrong.\nDon't.\nNot yet. Not while you're this angry.\nBecause what you want is:\n• Acknowledgment\n• Apology\n• Understanding\n• Repair\nWhat you'll probably get:\n• Defensiveness (\"We did our best!\")\n• Denial (\"You were fine!\")\n• Minimization (\"Everyone has struggles\")\n• Counter-attack (\"You were a difficult child\")\nAnd then you'll be MORE angry.\nDon't: Expect Them to Understand\nThey might never fully get it.\nEspecially if they're:\n• From a generation that doesn't \"believe in\" ADHD\n• Religious (\"pray harder\")\n• Immigrant background (\"we survived worse\")\n• Just... unable to admit they failed you\nYou can't MAKE them understand.\nYou can only decide how much access they get to you.\nWhat TO Do: The Repair Path\nStep 1: Grieve First, Confront Later\nYou need to process this with someone who ISN'T your parent.\n• Therapist (ideal)\n• ADHD coach\n• Support group\n• Trusted friend who GETS it\nWrite the angry letter. To yourself. Don't send it.\nLet yourself be fully, messily angry in a safe space.\nONLY after you've processed some of this should you approach them.\nStep 2: Decide What You Actually Want\nBefore you talk to them, get clear:\nDo you want:\nA) Full acknowledgment and apology?\nThis is valid. It's also unlikely if they're defensive.\nB) Just for them to stop the harmful behavior now?\nThis is achievable. Focus on future, not past.\nC) To set boundaries and reduce contact?\nThis is self-protection. You're allowed.\nD) To educate them so they understand?\nThis is generous. Only do it if you have the energy.\nE) Nothing—you just needed to vent?\nAlso valid. You don't OWE them a confrontation.\nKnow your goal. It determines your approach.\nStep 3: Set Boundaries (Without Apology)\nYou can protect yourself NOW without rehashing the past.\nScripts:\n\"Mom, I love you, but I can't listen to advice about planners anymore. It doesn't work for my brain and it hurts to hear it. If you bring it up, I'll change the subject.\"\n\"Dad, I need you to stop commenting on my lateness. I'm working on it with a professional. Your comments make it worse, not better.\"\n\"I appreciate your concern, but I'm not taking parenting advice on this topic. I've got it handled.\"\nYou don't need to explain WHY (that invites debate).\nJust: \"This doesn't work for me. Please stop.\"\nIf they push back: \"I've asked you not to. If you can't respect that, I'll need to leave/hang up/take a break.\"\nStep 4: The Gentle Disclosure (If You Want)\nIf you decide to tell them about your diagnosis:\nDon't lead with blame.\nInstead:\n\"I recently got diagnosed with ADHD. It explains a lot about my childhood. I'm not angry—I'm just making sense of things. I wanted you to know because it's important to me.\"\nThen PAUSE. Let them respond.\nIf they're defensive: \"I'm not blaming you. I'm just sharing information about my brain.\"\nIf they're curious: Share resources. Give them time.\nIf they're dismissive: \"Okay. I just wanted you to know.\" Then DROP IT.\nYou've planted the seed. They may or may not water it.\nStep 5: The Confrontation (If Necessary)\nIf you NEED to address the past, here's how:\nUse \"I\" statements, not \"You\" accusations:\n❌ \"You ruined my childhood by calling me lazy.\"\n✅ \"When I was called lazy as a kid, I internalized that I was broken. Now I know it was ADHD. That's been hard to process.\"\n❌ \"You never listened to me.\"\n✅ \"I felt unheard a lot growing up. I'm working through that now.\"\nState what you need going forward:\n\"I need you to believe me when I say something is hard for me, even if it seems easy to you.\"\n\"I need you to stop giving advice unless I ask for it.\"\n\"I need you to trust that I'm doing my best.\"\nAccept their limitations:\nThey might not be capable of the apology you deserve.\nYou can grieve that AND move on.\nThe Protect-the-Holidays Strategy\nFamily gatherings are triggering.\nHere's how to survive:\nBefore:\n• Set a time limit (\"We'll stay for 2 hours\")\n• Have an exit plan (your own car, fake emergency call)\n• Prep your partner (\"If I say 'I'm tired,' we leave immediately\")\n• Eat before (don't arrive hungry and vulnerable)\nDuring:\n• Gray rock the triggering topics (boring, brief answers)\n• Redirect conversations (\"How about this weather?\")\n• Take bathroom breaks (sensory reset)\n• Don't drink too much (you need your filter)\nAfter:\n• Debrief with someone safe\n• Don't doom-spiral alone\n• Remember: You survived\nWhen Low/No Contact Is the Answer\nSometimes, the healthiest thing is distance.\nYou're allowed to:\n• See them less\n• Only communicate by text\n• Skip holidays\n• End the relationship entirely\nYou don't owe them access to you just because they're your parents.\nIf they:\n• Refuse to stop harmful behavior after you've asked\n• Actively undermine your mental health\n• Deny your diagnosis\n• Make you feel worse every time you interact\nYou're not required to keep trying.\n\"But they're family\" is not a reason to endure abuse.\nThe Long Game: Forgiveness (Maybe)\nForgiveness is NOT required.\nBut if you WANT to forgive (for YOUR peace, not theirs):\nForgiveness doesn't mean:\n• What they did was okay\n• You have to forget\n• You have to trust them again\n• You have to let them back in\nForgiveness means:\n• You stop carrying the anger\n• You accept they can't give you what you needed\n• You release the fantasy of the parents you deserved\n• You move forward without waiting for them to change\nThis takes YEARS. Don't rush it.\nYou Deserved Better\nSay this out loud:\n\"I deserved parents who saw me. I deserved help. I deserved to not spend my childhood thinking I was broken.\"\nYou did. You absolutely did.\nAnd the fact that you didn't get it is NOT your fault.\nYour job now is to give YOURSELF what they couldn't:\n• Compassion\n• Understanding\n• Accommodations\n• Belief that you're trying\nYou can't fix the past. But you can refuse to abandon yourself the way they did.\nREADY TO GET SOR7ED?\nStuck in anger at your parents and don't know how to move forward?\nText PARENTANGER to get your free Parental Repair Toolkit.\nIncludes:\n• Boundary scripts for harmful comments\n• \"The Talk\" conversation guide\n• Holiday survival strategies\n• Forgiveness vs. boundaries framework",
+      "cta1": "Stuck in anger at your parents and don't know how to move forward? Text PARENTANGER to get your free Parental Repair Toolkit with boundary scripts, conversation guides, and holiday survival strategies.",
+      "date": "2025-09-21T21:29:00.000Z",
+      "cover": "",
+      "tags": [
+        "Relationships",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "PARENTANGER"
+    },
+    {
+      "id": "bb2cd059-c183-456d-aad9-e88dc849f9f4",
+      "title": "Job loss, firing, and unemployment: The career collapse script",
+      "branch": "Growth",
+      "slug": "job-loss-adhd-firing-unemployment",
+      "trigger": "FIRED",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Just lost your job and spiraling? Text FIRED for a 72-hour crisis plan covering money, benefits, and next steps—no career-coach BS.",
+      "date": "2026-02-05T02:17:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "FIRED"
+    },
+    {
+      "id": "c001064e-a38a-412e-b8be-b1f58b3ea651",
+      "title": "The quiet cost of masking after work: Recovery, shutdown, and rebound",
+      "branch": "Body",
+      "slug": "masking-cost-after-work",
+      "trigger": "ENERGY",
+      "excerpt": "## The 6 PM Collapse\nYou hold it together from 9 to 5.\nAt 6 PM, you walk through your front door and dissolve.\nYou can't cook. You can't talk. You jus...",
+      "body": "## The 6 PM Collapse\nYou hold it together from 9 to 5.\nAt 6 PM, you walk through your front door and dissolve.\nYou can't cook. You can't talk. You just doom scroll.\nThis is the cost of the mask. You spent your daily cognitive budget on your boss, and saved nothing for yourself.\n\n## Pay Yourself First\nThis is radical.\nTake a \"Sensory Lunch Break.\" Go sit in your car in silence for 20 mins.\nSave 10% of your battery for the evening.\nYou deserve to be a person, not just an employee.",
+      "cta1": "Burned out from masking with zero energy left for your actual life? Text ENERGY to get your free Masking Recovery Toolkit with daily energy budget tracker, landing rituals, and partner communication scripts.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Masking",
+        "Burnout",
+        "Self-Care"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "ENERGY"
+    },
+    {
+      "id": "c0b12adf-d57a-474f-9e22-142a9bafed7c",
+      "title": "Eviction, rent arrears, and housing instability: The executive function crisis nobody sees",
+      "branch": "Wealth",
+      "slug": "adhd-eviction-housing-crisis",
+      "trigger": "EVICTION",
+      "excerpt": "",
+      "body": "",
+      "cta1": "Facing eviction or arrears right now? Text EVICTION for an emergency housing triage plan and local advocacy contacts.",
+      "date": "2026-02-05T02:17:00.000Z",
+      "cover": "",
+      "tags": [
+        "Executive Function"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "EVICTION"
+    },
+    {
+      "id": "c315faf0-2506-4f2b-808c-9b7d63900e1c",
+      "title": "Unpacking the whimsical side of 'one drink' and your nervous system",
+      "branch": "Body",
+      "slug": "substances-self-medicating-burnout",
+      "trigger": "RELIEFPLAN",
+      "excerpt": "## \"I'll Just Have One\"\nAlcohol quiets the noise. For ADHD brains with racing thoughts, that first drink feels like *medicine*. It's silence.\nBut impu...",
+      "body": "## \"I'll Just Have One\"\nAlcohol quiets the noise. For ADHD brains with racing thoughts, that first drink feels like *medicine*. It's silence.\nBut impulse control is our weakness.\nOne drink becomes four very quickly.\nAnd alcohol steals tomorrow's happiness. The \"Hangxiety\" (hangover anxiety) hits ND brains 10x harder.\n\n## The Sober-Curious ND\nYou don't have to be an alcoholic to quit drinking.\nYou can just decide that the \"subscription cost\" (tomorrow's anxiety) is too high for the service provided.\nFind other ways to quiet the noise. (See: Brown Noise,Weighted Blankets, Exercise).",
+      "cta1": "Rethinking the drink?\nText SOBER to receive your free Dopamine Menu (Alcohol Free). Ways to get the buzz without the booze.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "RELIEFPLAN"
+    },
+    {
+      "id": "ef003947-d25f-41cd-8cdd-829e4d1c9a13",
+      "title": "Autistic burnout vs. depression: Why the usual advice backfires",
+      "branch": "Mind",
+      "slug": "autistic-burnout-vs-depression",
+      "trigger": "BURNOUTPLAN",
+      "excerpt": "## It Looks Like Depression\nYou can't get out of bed. You have no motivation. You are numb.\nDoctor says: \"Depression. Take these meds. Go exercise. So...",
+      "body": "## It Looks Like Depression\nYou can't get out of bed. You have no motivation. You are numb.\nDoctor says: \"Depression. Take these meds. Go exercise. Socialize more.\"\nResult: You get worse.\nWhy? Because it's Burnout, not Depression.\n\n## The Difference\n- Depression: Anhedonia (lack of pleasure).\n- Burnout: Exhaustion from Masking / Sensory Overload.\nIf you have Burnout, \"pushing through\" to socialize will destroy you.\nThe cure for Burnout is Rest. Radical, guilt-free, dark-room rest.\n\n## Diagnosing the Battery\nIf doing \"fun\" things makes you more tired, it's likely burnout.\nStop pushing. Stop trying to \"fix\" it with activity.\nGo to bed. Unmask. Let the system reboot. It takes time.\n\n## READY TO GET SOR7ED?\nTired of \"just do it\" advice?\nText \"REST\" to receive your free Burnout Recovery Protocol. Permission slips to do absolutely nothing.\n\n## It Looks Like Depression\nYou can't get out of bed. You have no motivation. You are numb.\nDoctor says: \"Depression. Take these meds. Go exercise. Socialize more.\"\nResult: You get worse.\nWhy? Because it's Burnout, not Depression.\n\n## The Difference\n- Depression: Anhedonia (lack of pleasure).\n- Burnout: Exhaustion from Masking / Sensory Overload.\nIf you have Burnout, \"pushing through\" to socialize will destroy you.\nThe cure for Burnout is Rest. Radical, guilt-free, dark-room rest.\n\n## Diagnosing the Battery\nIf doing \"fun\" things makes you more tired, it's likely burnout.\nStop pushing. Stop trying to \"fix\" it with activity.\nGo to bed. Unmask. Let the system reboot. It takes time.\n\n## READY TO GET SOR7ED?\nTired of \"just do it\" advice?\nText \"REST\" to receive your free Burnout Recovery Protocol. Permission slips to do absolutely nothing.",
+      "cta1": "Tired of \"just do it\" advice? Text REST to receive your free Burnout Recovery Protocol. Permission slips to do absolutely nothing.",
+      "date": "2025-12-25T21:24:00.000Z",
+      "cover": "",
+      "tags": [
+        "Growth",
+        "Leadership"
+      ],
+      "branchColor": "bg-zinc-500",
+      "ctakeyword": "BURNOUTPLAN"
+    }
+  ],
+  "docs": [],
+  "lastUpdated": "2026-02-06T18:29:26.502Z"
+}
