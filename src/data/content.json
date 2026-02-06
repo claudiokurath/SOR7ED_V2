@@ -1,6 +1,24 @@
 {
   "tools": [
     {
+      "id": "01f844dc-7eed-4e3d-a7da-e26fcc27368f",
+      "name": "Noise Sensitivity Mixer",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Body",
+      "status": "Idea"
+    },
+    {
+      "id": "1c2a1607-1562-41b1-ad6e-c1bd21a0f52d",
+      "name": "Visual Routine Builder",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
       "id": "2c949538-9925-43eb-9346-9b343442f4a4",
       "name": "Body Double Matchmaker",
       "description": "No description available.",
@@ -46,6 +64,15 @@
       "status": "Idea"
     },
     {
+      "id": "37291d5a-c15b-46bf-8275-8647c85e4822",
+      "name": "Pattern Designer",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
       "id": "448fc2bd-b14a-4d1f-8676-ab6765716d26",
       "name": "Dopamine Menu Generator",
       "description": "No description available.",
@@ -64,6 +91,15 @@
       "status": "Planned"
     },
     {
+      "id": "6aab8ce6-fba0-489c-82e6-f685f6a430b7",
+      "name": "Hyperfocus Timer with Transition Alerts",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
       "id": "6b80b211-be07-40c5-9232-4205623ac663",
       "name": "Meeting Translator",
       "description": "No description available.",
@@ -73,12 +109,39 @@
       "status": "Idea"
     },
     {
+      "id": "8c2eeedd-7be1-408b-a2c7-75c5ffafa248",
+      "name": "Body Doubling Simulator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
+      "id": "923d0bea-3947-4022-9dcd-6628d2a5f54a",
+      "name": "Memory Palace Builder",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
       "id": "991d7b0a-27fa-4426-a9cb-acdb4ef515f8",
       "name": "Rejection Sensitivity Journal",
       "description": "No description available.",
       "image": "",
       "link": "",
       "type": "Mind",
+      "status": "Idea"
+    },
+    {
+      "id": "9ea96ca7-503c-42f5-94f8-715814f300c1",
+      "name": "Conversation Script Generator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Connection",
       "status": "Idea"
     },
     {
@@ -100,6 +163,42 @@
       "status": "Planned"
     },
     {
+      "id": "ad4b18d5-b595-481f-bf38-0f95798dfd0c",
+      "name": "Emotion Decoder Practice",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Connection",
+      "status": "Idea"
+    },
+    {
+      "id": "b901281f-70e3-4c35-bb83-98d659400129",
+      "name": "Decision Paralysis Solver",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
+      "id": "c38ef1db-5d3c-454a-9f11-1ba996cca1e6",
+      "name": "Social Battery Tracker",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Connection",
+      "status": "Idea"
+    },
+    {
+      "id": "c5b93d3c-8118-446b-9d8f-c462afbadda7",
+      "name": "Time Blindness Visualizer",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
       "id": "cda5c491-ebf1-4a6a-8a23-44259f01cbcf",
       "name": "Spoon Theory Tracker",
       "description": "No description available.",
@@ -109,12 +208,39 @@
       "status": "Idea"
     },
     {
+      "id": "ce30e612-907e-44ad-bb2e-86a9ff99f245",
+      "name": "Worry Box Animator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
+      "id": "d2637656-0164-4f92-a9ae-231ca9e3f911",
+      "name": "Dopamine Menu Creator",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
       "id": "d4486511-2dfe-480f-bfc8-06a55feb21c6",
       "name": "ADHD Tax Calculator",
       "description": "No description available.",
       "image": "",
       "link": "",
       "type": "Wealth",
+      "status": "Idea"
+    },
+    {
+      "id": "ddbf3c5b-97e1-431e-ac01-ed93e471b96e",
+      "name": "Interactive Stim Toy Collection",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Body",
       "status": "Idea"
     },
     {
@@ -133,6 +259,33 @@
       "image": "",
       "link": "",
       "type": "Tech",
+      "status": "Idea"
+    },
+    {
+      "id": "e69b7aec-3736-495b-8688-5a228f3046c0",
+      "name": "Sensory Room Builder",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Body",
+      "status": "Idea"
+    },
+    {
+      "id": "e961754b-ebd0-40b4-ac59-c36fa01c5210",
+      "name": "Reading Overlay Customizer",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
+      "status": "Idea"
+    },
+    {
+      "id": "f160ea2f-cf59-418b-8c4f-6b8cfdc64ab5",
+      "name": "Task Breakdown Wizard",
+      "description": "No description available.",
+      "image": "",
+      "link": "",
+      "type": "Mind",
       "status": "Idea"
     },
     {
@@ -1578,5 +1731,5 @@
     }
   ],
   "docs": [],
-  "lastUpdated": "2026-02-06T21:53:37.618Z"
+  "lastUpdated": "2026-02-06T22:06:37.141Z"
 }

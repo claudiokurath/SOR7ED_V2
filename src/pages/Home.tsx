@@ -43,50 +43,58 @@ export default function Home() {
     ];
 
     return (
-        <div className="min-h-screen bg-black font-sans text-white">
-            <header className="relative min-h-[95vh] flex flex-col items-center justify-center text-center px-6 bg-black overflow-hidden border-b border-white/5">
-                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[400px] bg-sor7ed-yellow/5 blur-[120px] rounded-full"></div>
+        <div className="min-h-screen bg-black text-white">
+            <header className="relative min-h-[95vh] flex items-center justify-end px-12 md:px-24 bg-white overflow-hidden border-b border-black/5">
+                <img
+                    src="/images/hero-luxury.png"
+                    alt="SOR7ED Luxury"
+                    className="absolute inset-0 w-full h-full object-cover"
+                />
 
-                <div className="relative z-30 max-w-7xl flex flex-col items-center">
-                    <h1 className="text-8xl md:text-[12rem] font-black tracking-tighter leading-[0.8] uppercase mb-12">
-                        <span className="block italic opacity-40">Worry Less.</span>
-                        <span className="text-sor7ed-yellow">Live More.</span>
+                <div className="relative z-30 max-w-4xl text-right">
+                    <h1 className="text-8xl md:text-[14rem] font-black tracking-tighter leading-[0.75] uppercase mb-16 text-black">
+                        <span className="block italic opacity-20">Worry Less.</span>
+                        <span className="">Live More.</span>
                     </h1>
 
-                    <p className="text-xl md:text-3xl text-zinc-500 max-w-2xl mx-auto font-medium leading-tight mb-20 tracking-tight">
-                        Practical blueprints and hard-won insights for the <span className="text-white">neurodivergent mind</span>. No apps. No metrics. No noise.
-                    </p>
-
-                    <div className="flex flex-col sm:flex-row gap-8 items-center">
-                        <a href="https://wa.me/447360277713?text=START" target="_blank" className="px-14 py-7 bg-white text-black font-black uppercase tracking-[0.3em] text-[10px] rounded-2xl hover:bg-sor7ed-yellow hover:scale-105 active:scale-95 transition-all shadow-[0_0_50px_rgba(255,255,255,0.05)]">
+                    <div className="flex justify-end gap-10 items-center">
+                        <a href="https://wa.me/447360277713?text=START" target="_blank" className="px-14 py-7 bg-black text-white font-black uppercase tracking-[0.3em] text-[10px] rounded-2xl hover:bg-sor7ed-yellow transition-all shadow-2xl">
                             Launch in WhatsApp
                         </a>
-                        <Link to="/tools" className="text-[10px] font-black uppercase tracking-[0.3em] text-zinc-600 hover:text-white transition-all border-b border-white/5 pb-1">
+                        <Link to="/tools" className="text-[10px] font-black uppercase tracking-[0.3em] text-black/40 hover:text-black transition-all border-b border-black/10 pb-1">
                             Explore library
                         </Link>
                     </div>
                 </div>
             </header>
 
-            <section className="py-40 px-6 bg-black">
-                <div className="max-w-4xl mx-auto text-center border-y border-white/10 py-24">
-                    <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tighter mb-12">System Over Luck.</h2>
-                    <p className="text-xl md:text-2xl text-zinc-400 font-medium leading-relaxed mb-12">
-                        Productivity is a battle with your biology. We build blueprints to help you win it without the burnout. Quick, practical, and actually helpful.
-                    </p>
-                    <div className="flex justify-center">
-                        <div className="text-6xl font-black text-white/10 italic">SOR7ED</div>
+            <section id="ethos" className="py-56 px-6 bg-black border-b border-white/5">
+                <div className="max-w-5xl mx-auto text-center">
+                    <span className="text-sor7ed-yellow text-[10px] font-black uppercase tracking-[0.5em] mb-12 block">Philosophy</span>
+                    <h2 className="text-6xl md:text-9xl font-black uppercase tracking-tighter text-white mb-20 leading-none">
+                        Neuro-Sovereign Architecture.
+                    </h2>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-20 text-left">
+                        <p className="text-2xl text-zinc-400 font-medium leading-relaxed">
+                            Practical blueprints and hard-won insights for the <span className="text-white italic">neurodivergent mind</span>. No apps. No metrics. No noise. Just systems that work with your biology, not against it.
+                        </p>
+                        <p className="text-2xl text-zinc-400 font-medium leading-relaxed">
+                            Productivity is a battle with your unique brain chemistry. We build the tactical blueprints to help you win it without the burnout. Quick, practical, and direct to where you need them.
+                        </p>
                     </div>
                 </div>
             </section>
 
             <section id="branches" className="py-32 px-6 bg-black border-t border-white/5 relative">
-                <div className="max-w-[1400px] mx-auto">
-                    <div className="mb-24">
-                        <h2 className="text-6xl md:text-8xl font-black uppercase tracking-tighter text-white mb-6">The 7 Branches.</h2>
-                        <p className="text-zinc-500 max-w-sm text-sm uppercase tracking-widest">Everything in life, categorized for the ND brain.</p>
+                <div className="max-w-[1400px] mx-auto text-center mb-32">
+                    <h2 className="text-7xl md:text-9xl font-black uppercase tracking-tighter text-white mb-8 italic opacity-10">Foundations</h2>
+                    <div className="flex flex-col items-center">
+                        <h3 className="text-5xl md:text-7xl font-black uppercase tracking-tighter text-white mb-6">The 7 Branches.</h3>
+                        <p className="text-zinc-500 max-w-sm text-sm uppercase tracking-[0.3em] font-medium">Categorized for clarity.</p>
                     </div>
+                </div>
 
+                <div className="max-w-[1400px] mx-auto">
                     <div className="grid grid-cols-1 md:grid-cols-4 md:grid-rows-3 gap-4 h-full md:h-[900px]">
                         {branches.map((b, i) => (
                             <div key={b.name} className={`relative group rounded-3xl overflow-hidden bg-zinc-950 border border-white/5 hover:border-sor7ed-yellow/40 transition-all duration-700 ${b.colSpan}`}>
@@ -113,9 +121,9 @@ export default function Home() {
                     <div className="flex flex-col md:flex-row items-end justify-between mb-24 px-4 gap-12">
                         <div>
                             <h2 className="text-7xl md:text-9xl font-black uppercase tracking-tighter text-white leading-none">The Lab.</h2>
-                            <p className="text-zinc-500 mt-6 max-w-md text-lg uppercase tracking-widest">Hard-won insights on neurodiversity.</p>
+                            <p className="text-zinc-500 mt-6 max-w-md text-sm uppercase tracking-[0.4em] font-medium">Hard-won insights on neurodiversity.</p>
                         </div>
-                        <Link to="/blog" className="px-8 py-3 rounded-full border border-white/10 hover:bg-white hover:text-black transition-all font-bold uppercase text-xs tracking-widest">
+                        <Link to="/blog" className="px-10 py-4 rounded-2xl border border-white/10 hover:bg-white hover:text-black transition-all font-bold uppercase text-[10px] tracking-widest">
                             Read Archive →
                         </Link>
                     </div>
@@ -123,12 +131,16 @@ export default function Home() {
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
                         {featuredPosts.map((post) => (
                             <Link to={`/blog/${post.id}`} key={post.id} className="group flex flex-col bg-zinc-950 rounded-[2.5rem] p-6 border border-white/5 hover:border-sor7ed-yellow/30 transition-all duration-500">
-                                <div className="aspect-[16/10] overflow-hidden rounded-2xl mb-8">
-                                    <img src={post.cover} className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" alt={post.title} />
+                                <div className="aspect-[16/10] overflow-hidden rounded-2xl mb-8 bg-black">
+                                    {post.cover ? (
+                                        <img src={post.cover} className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" alt={post.title} />
+                                    ) : (
+                                        <div className="w-full h-full flex items-center justify-center text-zinc-900 font-black text-2xl">SOR7ED</div>
+                                    )}
                                 </div>
                                 <div className="flex-grow flex flex-col">
-                                    <h3 className="text-3xl font-black uppercase leading-tight text-white mb-4 group-hover:text-sor7ed-yellow transition-colors">{post.title}</h3>
-                                    <p className="text-zinc-500 text-sm leading-relaxed mb-8 line-clamp-3">"{stripMarkdown(post.excerpt)}"</p>
+                                    <h3 className="text-3xl font-black uppercase leading-[1.1] text-white mb-4 group-hover:text-sor7ed-yellow transition-colors">{post.title}</h3>
+                                    <p className="text-zinc-500 text-sm leading-relaxed mb-8 line-clamp-3 italic">"{stripMarkdown(post.excerpt)}"</p>
                                     <div className="mt-auto flex items-center justify-between text-[10px] font-black uppercase tracking-widest text-zinc-700">
                                         <span>Access Insight</span>
                                         <span className="group-hover:translate-x-1 transition-transform group-hover:text-white">→</span>

@@ -13,7 +13,7 @@ export default function Tools() {
     const validTools = tools.filter(t => t.name !== 'Untitled' && t.description !== 'No description available.');
 
     return (
-        <div className="min-h-screen bg-black font-sans text-white">
+        <div className="min-h-screen bg-black text-white">
             <header className="relative py-48 px-6 border-b border-white/5 bg-black">
                 <div className="relative z-20 max-w-5xl mx-auto text-center">
                     <h1 className="text-7xl md:text-[10rem] font-black tracking-tighter text-white mb-8 uppercase leading-[0.85]">

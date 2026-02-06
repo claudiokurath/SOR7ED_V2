@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Outfit:wght@500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Outfit:wght@500;600;700;800;900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -10,7 +10,8 @@
     }
 
     body {
-        @apply bg-black text-white relative min-h-screen overflow-x-hidden font-sans antialiased;
+        @apply bg-black text-white relative min-h-screen overflow-x-hidden antialiased;
+        font-family: 'Space Mono', monospace;
     }
 
     h1,
@@ -19,7 +20,8 @@
     h4,
     h5,
     h6 {
-        font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+        font-family: 'Space Mono', monospace;
+        @apply tracking-tighter;
     }
 }
 
