@@ -8,6 +8,7 @@ interface BlogPost {
     date: string;
     cover?: string;
     branch?: string;
+    status: string;
 }
 
 const { blog } = contentData as { blog: BlogPost[] };
@@ -20,7 +21,7 @@ const stripMarkdown = (text: string) => {
 };
 
 export default function Blog() {
-    const validBlog = blog.filter(b => b.title && b.excerpt && b.excerpt.length > 10);
+    const validBlog = blog.filter(b => b.status === 'Published');
 
     return (
         <div className="min-h-screen bg-black text-white">

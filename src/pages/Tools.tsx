@@ -1,19 +1,43 @@
+import { useState } from 'react';
 import contentData from '../data/content.json';
+import LeadFormModal from '../components/LeadFormModal';
 
 interface Tool {
     id: string;
     name: string;
     description: string;
     link: string;
+    status: string;
 }
 
 const { tools } = contentData as { tools: Tool[] };
 
 export default function Tools() {
-    const validTools = tools.filter(t => t.name !== 'Untitled' && t.description !== 'No description available.');
+    const [isLeadModalOpen, setIsLeadModalOpen] = useState(false);
+    const [selectedTool, setSelectedTool] = useState<string | null>(null);
+
+    const validTools = tools.filter(t => t.status === 'Published');
+
+    const handleToolClick = (name: string) => {
+        setSelectedTool(name);
+        setIsLeadModalOpen(true);
+    };
+
+    const handleLeadSuccess = () => {
+        setIsLeadModalOpen(false);
+        if (selectedTool) {
+            window.open(`https://wa.me/447360277713?text=${selectedTool.split(' ')[0].toUpperCase()}`, '_blank');
+        }
+    };
 
     return (
         <div className="min-h-screen bg-black text-white">
+            <LeadFormModal
+                isOpen={isLeadModalOpen}
+                onClose={() => setIsLeadModalOpen(false)}
+                onSuccess={handleLeadSuccess}
+                title={selectedTool || "Tool Access"}
+            />
             <header className="relative py-48 px-6 border-b border-white/5 bg-black">
                 <div className="relative z-20 max-w-5xl mx-auto text-center">
                     <h1 className="text-7xl md:text-[10rem] font-black tracking-tighter text-white mb-8 uppercase leading-[0.85]">
@@ -53,13 +77,12 @@ export default function Tools() {
                             </div>
 
                             <div className="mt-auto relative z-10">
-                                <a
-                                    href={`https://wa.me/447360277713?text=${tool.name.split(' ')[0].toUpperCase()}`}
-                                    target="_blank"
+                                <button
+                                    onClick={() => handleToolClick(tool.name)}
                                     className="block w-full py-5 bg-white text-black text-center text-[10px] font-black uppercase tracking-[0.3em] rounded-2xl hover:bg-sor7ed-yellow transition-all duration-300 transform active:scale-[0.98]"
                                 >
                                     Use Template
-                                </a>
+                                </button>
                             </div>
                         </div>
                     ))}

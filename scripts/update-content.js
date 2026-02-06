@@ -108,6 +108,7 @@ async function fetchFromDatabase(client, dbId, itemType) {
                 const branch = props.Branch?.select?.name || '';
                 const tags = props.Tags?.multi_select?.map(tag => tag.name) || [];
                 const publishDate = props['Publish Date']?.date?.start || page.created_time;
+                const status = props.Status?.status?.name || props.Status?.select?.name || '';
 
                 items.push({
                     id: page.id,
@@ -121,6 +122,7 @@ async function fetchFromDatabase(client, dbId, itemType) {
                     date: publishDate,
                     cover: localCover,
                     tags: tags,
+                    status: status,
                     branchColor: 'bg-zinc-500',
                     ctakeyword: trigger
                 });

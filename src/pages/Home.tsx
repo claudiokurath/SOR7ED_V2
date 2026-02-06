@@ -1,11 +1,14 @@
 import { Link } from 'react-router-dom'
+import { useState } from 'react'
 import contentData from '../data/content.json'
+import LeadFormModal from '../components/LeadFormModal'
 
 interface Tool {
     id: string;
     name: string;
     description: string;
     link: string;
+    status: string;
 }
 
 interface BlogPost {
@@ -14,6 +17,7 @@ interface BlogPost {
     excerpt: string;
     date: string;
     cover?: string;
+    status: string;
 }
 
 const { tools, blog } = contentData as { tools: Tool[], blog: BlogPost[] };
@@ -26,11 +30,31 @@ const stripMarkdown = (text: string) => {
 };
 
 export default function Home() {
-    const validTools = tools.filter(t => t.name !== 'Untitled' && t.description !== 'No description available.');
-    const validBlog = blog.filter(b => b.title && b.excerpt && b.excerpt.length > 10);
+    const [isLeadModalOpen, setIsLeadModalOpen] = useState(false);
+    const [pendingAction, setPendingAction] = useState<{ type: 'whatsapp' | 'tool', value: string } | null>(null);
+
+    const validTools = tools.filter(t => t.status === 'Published');
+    const validBlog = blog.filter(b => b.status === 'Published');
 
     const featuredTools = validTools.slice(0, 4);
     const featuredPosts = validBlog.slice(0, 3);
+
+    const handleActionClick = (type: 'whatsapp' | 'tool', value: string) => {
+        setPendingAction({ type, value });
+        setIsLeadModalOpen(true);
+    };
+
+    const handleLeadSuccess = () => {
+        setIsLeadModalOpen(false);
+        if (pendingAction) {
+            if (pendingAction.type === 'whatsapp') {
+                window.open('https://wa.me/447360277713?text=START', '_blank');
+            } else if (pendingAction.type === 'tool') {
+                window.open(`https://wa.me/447360277713?text=${pendingAction.value.split(' ')[0].toUpperCase()}`, '_blank');
+            }
+        }
+        setPendingAction(null);
+    };
 
     const branches = [
         { name: "Mind", image: "/images/branches/mind.png", colSpan: "md:col-span-2 md:row-span-2", description: "Mental load, routines & clarity." },
@@ -44,6 +68,12 @@ export default function Home() {
 
     return (
         <div className="min-h-screen bg-black text-white">
+            <LeadFormModal
+                isOpen={isLeadModalOpen}
+                onClose={() => setIsLeadModalOpen(false)}
+                onSuccess={handleLeadSuccess}
+                title={pendingAction?.type === 'tool' ? pendingAction.value : "Sovereign Hub"}
+            />
             <header className="relative min-h-[95vh] flex items-center justify-end px-12 md:px-24 bg-white overflow-hidden border-b border-black/5">
                 <img
                     src="/images/hero-luxury.png"
@@ -58,9 +88,12 @@ export default function Home() {
                     </h1>
 
                     <div className="flex justify-end gap-10 items-center">
-                        <a href="https://wa.me/447360277713?text=START" target="_blank" className="px-14 py-7 bg-black text-white font-black uppercase tracking-[0.3em] text-[10px] rounded-2xl hover:bg-sor7ed-yellow transition-all shadow-2xl">
+                        <button
+                            onClick={() => handleActionClick('whatsapp', 'START')}
+                            className="px-14 py-7 bg-black text-white font-black uppercase tracking-[0.3em] text-[10px] rounded-2xl hover:bg-sor7ed-yellow transition-all shadow-2xl"
+                        >
                             Launch in WhatsApp
-                        </a>
+                        </button>
                         <Link to="/tools" className="text-[10px] font-black uppercase tracking-[0.3em] text-black/40 hover:text-black transition-all border-b border-black/10 pb-1">
                             Explore library
                         </Link>
@@ -168,13 +201,12 @@ export default function Home() {
                                 <h3 className="text-2xl font-black uppercase tracking-tighter text-white mb-4">{tool.name}</h3>
                                 <p className="text-zinc-500 text-xs leading-relaxed mb-10 min-h-[60px]">{tool.description}</p>
 
-                                <a
-                                    href={`https://wa.me/447360277713?text=${tool.name.split(' ')[0].toUpperCase()}`}
-                                    target="_blank"
+                                <button
+                                    onClick={() => handleActionClick('tool', tool.name)}
                                     className="w-full py-4 bg-white text-black rounded-xl text-[10px] font-black uppercase tracking-widest hover:bg-sor7ed-yellow transition-all block text-center"
                                 >
                                     Use in WhatsApp
-                                </a>
+                                </button>
                             </div>
                         ))}
                     </div>
