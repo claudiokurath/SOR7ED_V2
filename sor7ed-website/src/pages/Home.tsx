@@ -74,7 +74,7 @@ export default function Home() {
                 onSuccess={handleLeadSuccess}
                 title={pendingAction?.type === 'tool' ? pendingAction.value : "Sovereign Hub"}
             />
-            <header className="relative min-h-[95vh] flex items-center justify-end px-12 md:px-24 bg-black overflow-hidden border-b border-white/5">
+            <header className="relative min-h-[95vh] flex items-center justify-end px-12 md:px-24 overflow-hidden border-b border-black/5">
                 <img
                     src="/Hero.png"
                     alt="SOR7ED Hero"
@@ -82,7 +82,7 @@ export default function Home() {
                 />
 
                 <div className="relative z-10 max-w-4xl text-right">
-                    <h1 className="text-8xl md:text-[14rem] font-black tracking-tighter leading-[0.75] uppercase mb-16 text-white">
+                    <h1 className="text-8xl md:text-[14rem] font-black tracking-tighter leading-[0.75] uppercase mb-16 text-black">
                         <span className="block italic opacity-20">Worry Less.</span>
                         <span className="">Live More.</span>
                     </h1>
@@ -90,11 +90,11 @@ export default function Home() {
                     <div className="flex justify-end gap-10 items-center">
                         <button
                             onClick={() => handleActionClick('whatsapp', 'START')}
-                            className="px-14 py-7 bg-white text-black font-black uppercase tracking-[0.3em] text-[10px] rounded-2xl hover:bg-sor7ed-yellow transition-all shadow-2xl"
+                            className="px-14 py-7 bg-black text-white font-black uppercase tracking-[0.3em] text-[10px] rounded-2xl hover:bg-sor7ed-yellow transition-all shadow-2xl"
                         >
                             Launch in WhatsApp
                         </button>
-                        <Link to="/tools" className="text-[10px] font-black uppercase tracking-[0.3em] text-white/40 hover:text-white transition-all border-b border-white/10 pb-1">
+                        <Link to="/tools" className="text-[10px] font-black uppercase tracking-[0.3em] text-black/40 hover:text-black transition-all border-b border-black/10 pb-1">
                             Explore library
                         </Link>
                     </div>
