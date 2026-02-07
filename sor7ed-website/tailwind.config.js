@@ -9,8 +9,8 @@ export default {
             },
             fontFamily: {
                 sans: ['Inter', 'system-ui', 'sans-serif'],
-                display: ['Outfit', 'Inter', 'system-ui', 'sans-serif'],
-                mono: ['Fira Code', 'monospace'],
+                display: ['antarctican-headline', 'Outfit', 'Inter', 'system-ui', 'sans-serif'],
+                mono: ['mono45-headline', 'Fira Code', 'monospace'],
             },
         },
     },
