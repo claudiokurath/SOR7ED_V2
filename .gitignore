@@ -1,3 +1,7 @@
+# System Files
+.DS_Store
+Thumbs.db
+
 # Logs
 logs
 *.log
@@ -7,20 +11,28 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
+# Dependencies
+node_modules/
+.npm-cache/
+
+# Build/Output
+dist/
+dist-ssr/
+.vercel/
+.netlify/
+
+# Environment / Secrets
+.env
+.env.local
+.env*.local
 *.local
 
-# Editor directories and files
+# Editor directories
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-.vercel
-.env*.local
